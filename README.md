@@ -9,6 +9,8 @@ In order to translate aspects of the App Movement platform we recommend the foll
 
 ## Getting Started
 
+We recommend that you Fork this repo to begin contributing your translations. You can also simply email your new translations to a.garbett@newcastle.ac.uk
+
 The project files you require to get started can be found under
 
 ` Master/Platform`  
@@ -25,8 +27,6 @@ This folder holds the .xml strings file used in the translation of the Android t
 This folder holds the .strings files used in the translation of the iOS template
 
 ### Folder Structure
-
-We recommend that you Fork this repo to begin contributing to it. If it's easier you can simply email your new translations to a.garbett@newcastle.ac.uk
 
 **Start copying the existing "Example Language" folder** in the root directory and renaming it to your desired language i.e. Greek.
 

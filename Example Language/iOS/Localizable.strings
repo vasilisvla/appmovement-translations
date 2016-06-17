@@ -1,251 +1,252 @@
-/* No comment provided by engineer. */
-"A reset email has been sent to you" = "Письмо с инструкцией по восстановлению пароля было выслано вам на электронную почту";
+s/* No comment provided by engineer. */
+"A reset email has been sent to you" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"About" = "О программе";
+"About" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Add" = "Добавить";
+"Add" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Add Place" = "Добавить место";
+"Add Place" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Adding Places" = "Добавленные места";
+"Adding Places" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"ago" = "тому назад";
+"ago" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Are you sure you want to delete your review?" = "Вы уверены что хотите удалить свой отзыв?";
+"Are you sure you want to delete your review?" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Camera" = "Камера";
+"Camera" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Cancel" = "Отменить";
+"Cancel" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Cellular" = "Мобильная сеть";
+"Cellular" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Check this app out" = "Проверьте это приложение";
+"Check this app out" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Confirm Email" = "Подтвердите адрес почты";
+"Confirm Email" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Continue" = "Продолжить";
+"Continue" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"day" = "день";
+"day" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Delete" = "Удалить";
+"Delete" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Delete Review" = "Удалить отзыв";
+"Delete Review" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Deleted" = "Удалено";
+"Deleted" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Discover" = "Посмотреть";
+"Discover" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Done" = "Сделано";
+"Done" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"DummyReview" = "ТестовыйОтзыв";
+"DummyReview" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Email Invalid" = "Некорректный адрес почты";
+"Email Invalid" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Error" = "Ошибка";
+"Error" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Failed to login" = "Ошибка входа";
+"Failed to login" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Failed to register" = "Ошибка регистрации";
+"Failed to register" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Failed to send email" = "Не удалось отправить письмо";
+"Failed to send email" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Found" = "Найдено";
+"Found" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Get Started" = "Начать";
+"Get Started" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Hello" = "Привет";
+"Hello" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Home" = "Главная страница";
+"Home" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"hour" = "час";
+"hour" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Joined" = "Присоединился";
+"Joined" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"like" = "лайк";
+"like" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"like received" = "лайк получен";
+"like received" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"likes" = "лайков";
+"likes" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"likes received" = "лайков получено";
+"likes received" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"loading" = "загрузка";
+"loading" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Loading" = "Загрузка";
+"Loading" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Log in" = "Войти";
+"Log in" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Log out" = "Выйти";
+"Log out" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Map Options" = "Настройки карты";
+"Map Options" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"minute" = "минута";
+"minute" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"month" = "месяц";
+"month" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"My Profile" = "Мой профиль";
+"My Profile" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"No" = "Нет";
+"No" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"No Connection" = "Соединение отсутствует";
+"No Connection" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"No Places" = "Мест нет";
+"No Places" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"No written review" = "Нет ни одного отзыва";
+"No written review" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"OK" = "OK";
+"OK" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Password Invalid" = "Некорректный пароль";
+"Password Invalid" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Photo Library" = "Галерея фотографий";
+"Photo Library" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please connect your Facebook account in settings" = "Пожалуйста добавьте свой аккаунт в Facebook в параметрах приложения";
+"Please connect your Facebook account in settings" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please connect your Twitter account in settings" = "Пожалуйста добавьте свой аккаунт в Facebook в параметрах приложения";
+"Please connect your Twitter account in settings" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please enter a name for the place!" = "Пожалуйста укажите название места";
+"Please enter a name for the place!" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please enter a valid email between 6 and 64 characters" = "Пожалуйста укажите корректный адрес электронной почты, содержащий от 6 до 64 символов";
+"Please enter a valid email between 6 and 64 characters" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please enter a valid password between 6 and 28 characters (letters and numbers only)" = "Пожалуйста укажите корректный пароль, от 6 до 28 символов (только буквы и цифры)";
+"Please enter a valid password between 6 and 28 characters (letters and numbers only)" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please enter a valid username between 6 and 28 characters (letters only)" = "Пожалуйста укажите корректное имя пользователя, от 6 до 28 символов (только буквы)";
+"Please enter a valid username between 6 and 28 characters (letters only)" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please enter review text" = "Пожалуйста введите текст отзыва";
+"Please enter review text" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please explain why you are reporting this review." = "Пожалуйста объясните причину жалобы на данный отзыв.";
+"Please explain why you are reporting this review." = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Please login or create an account to read reviews, add places and submit ratings" = "Пожалуйста войдите или зарегистрируйтесь, для того чтобы читать отзывы, добавлять новые места и оставлять рейтинг";
+"Please login or create an account to read reviews, add places and submit ratings" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Posted" = "Добавлено";
+"Posted" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Register" = "Зарегистрироваться";
+"Register" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Remove Like" = "Удалить лайк";
+"Remove Like" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Remove Photo" = "удалить фото";
+"Remove Photo" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Report" = "Пожаловаться";
+"Report" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Report Review" = "пожаловаться на отзыв";
+"Report Review" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Reported" = "Жалоба отправлена";
+"Reported" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"review posted" = "отзыв оставлен";
+"review posted" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"reviews posted" = "отзывов оставлено";
+"reviews posted" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Searching" = "Поиск";
+"Searching" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"second" = "секунда";
+"second" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Share Review" = "поделиться отзывом";
+"Share Review" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Share with friends" = "Поделиться с друзьями";
+"Share with friends" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Something went wrong" = "Что-то пошло не так";
+"Something went wrong" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Submit" = "Отправить";
+"Submit" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"To add a place which is not near your current location return to the map and locate it before searching" = "Чтобы добавить место, которое находится не рядом с вами вернитесь на карту и определите его местоположение его перед поиском";
+"To add a place which is not near your current location return to the map and locate it before searching" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Username Invalid" = "Некорректное имя пользователя";
+"Username Invalid" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"week" = "неделя";
+"week" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"WiFi" = "WiFi";
+"WiFi" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Write your review..." = "Оставьте свой отзыв...";
+"Write your review..." = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"year" = "год";
+"year" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"Yes" = "Да";
+"Yes" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"You have deleted your review." = "Вы удалили свой отзыв.";
+"You have deleted your review." = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"You have rated at least one category zero stars!" = "Вы оценили на ноль, как минимум по одному из критериев!";
+"You have rated at least one category zero stars!" = "[Enter translation here]";
 
 /* No comment provided by engineer. */
-"You have reported this review." = "Вы пожаловались на отзыв.";
+"You have reported this review." = "[Enter translation here]";
+

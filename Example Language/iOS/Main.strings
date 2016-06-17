@@ -1,227 +1,228 @@
+
 /* Class = "UILabel"; text = "Option Label A"; ObjectID = "04L-a5-KOj"; */
-"04L-a5-KOj.text" = "Вариант А";
+"04L-a5-KOj.text" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Username or Email"; ObjectID = "0aA-9S-YjW"; */
-"0aA-9S-YjW.placeholder" = "Имя пользователя или адрес электронной почты";
+"0aA-9S-YjW.placeholder" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Tap to search here"; ObjectID = "0oP-94-2qw"; */
-"0oP-94-2qw.normalTitle" = "Нажмите, для поиска";
+"0oP-94-2qw.normalTitle" = "[Enter translation here]";
 
 /* Class = "UISegmentedControl"; 0vO-x9-Xu8.segmentTitles[0] = "Standard"; ObjectID = "0vO-x9-Xu8"; */
-"0vO-x9-Xu8.segmentTitles[0]" = "Обычная";
+"0vO-x9-Xu8.segmentTitles[0]" = "[Enter translation here]";
 
 /* Class = "UISegmentedControl"; 0vO-x9-Xu8.segmentTitles[1] = "Satellite"; ObjectID = "0vO-x9-Xu8"; */
-"0vO-x9-Xu8.segmentTitles[1]" = "Спутник";
+"0vO-x9-Xu8.segmentTitles[1]" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "1U8-q0-WPz"; */
-"1U8-q0-WPz.title" = "Закончить";
+"1U8-q0-WPz.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "App Name"; ObjectID = "1br-U9-y0R"; */
-"1br-U9-y0R.text" = "Название приложения";
+"1br-U9-y0R.text" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "1ig-my-UX3"; */
-"1ig-my-UX3.placeholder" = "Адрес электронной почты";
+"1ig-my-UX3.placeholder" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Would you like to share it with others?"; ObjectID = "2Sd-I2-hhv"; */
-"2Sd-I2-hhv.text" = "Не желаете поделиться этим с другими?";
+"2Sd-I2-hhv.text" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "349-7C-l0R"; */
-"349-7C-l0R.normalTitle" = "Условия использования";
+"349-7C-l0R.normalTitle" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "3aP-Pf-7w5"; */
-"3aP-Pf-7w5.title" = "Отмена";
+"3aP-Pf-7w5.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Login"; ObjectID = "4Is-Jx-lD8"; */
-"4Is-Jx-lD8.normalTitle" = "Войти";
+"4Is-Jx-lD8.normalTitle" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Option Label C"; ObjectID = "4ZA-h0-gzP"; */
-"4ZA-h0-gzP.text" = "Вариант C";
+"4ZA-h0-gzP.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Enter your email/username above and we will send you an email to reset your password."; ObjectID = "6gh-yH-p9e"; */
-"6gh-yH-p9e.text" = "Введите свой адрес электронной почты или имя пользователя и мы вышлим вам письмо с инструкцией для восстановления пароля.";
+"6gh-yH-p9e.text" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Locate"; ObjectID = "6k4-69-eN1"; */
-"6k4-69-eN1.title" = "Найти на карте";
+"6k4-69-eN1.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "BDS-Fc-dLg"; */
-"BDS-Fc-dLg.normalTitle" = "Забыли пароль?";
+"BDS-Fc-dLg.normalTitle" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Visit App Store"; ObjectID = "Cbd-dr-cqS"; */
-"Cbd-dr-cqS.normalTitle" = "Посетить App Store";
+"Cbd-dr-cqS.normalTitle" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "CmH-Am-G5K"; */
-"CmH-Am-G5K.title" = "Назад";
+"CmH-Am-G5K.title" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "Dng-3P-w1k"; */
-"Dng-3P-w1k.title" = "Закончить";
+"Dng-3P-w1k.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Contribute"; ObjectID = "EV5-6I-E4z"; */
-"EV5-6I-E4z.text" = "Внести вклад";
+"EV5-6I-E4z.text" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Add Here"; ObjectID = "FYg-ZD-Xu2"; */
-"FYg-ZD-Xu2.title" = "Добавить";
+"FYg-ZD-Xu2.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Share"; ObjectID = "GVM-8d-j7b"; */
-"GVM-8d-j7b.text" = "Поделиться";
+"GVM-8d-j7b.text" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "GiA-KB-Bzc"; */
-"GiA-KB-Bzc.normalTitle" = "Зарегистрироваться";
+"GiA-KB-Bzc.normalTitle" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Share review"; ObjectID = "Gua-AQ-Gwl"; */
-"Gua-AQ-Gwl.normalTitle" = "Поделиться отзывом";
+"Gua-AQ-Gwl.normalTitle" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "IPv-vi-7KN"; */
-"IPv-vi-7KN.placeholder" = "Пароль";
+"IPv-vi-7KN.placeholder" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "App Name"; ObjectID = "J6j-vo-8Qj"; */
-"J6j-vo-8Qj.text" = "Название приложения";
+"J6j-vo-8Qj.text" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Submit"; ObjectID = "JoX-K2-219"; */
-"JoX-K2-219.title" = "Отправить";
+"JoX-K2-219.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Option Label D"; ObjectID = "Jtq-GR-yEa"; */
-"Jtq-GR-yEa.text" = "Вариант D";
+"Jtq-GR-yEa.text" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Review Submitted"; ObjectID = "KED-gK-i2k"; */
-"KED-gK-i2k.title" = "Отзыв отправлен";
+"KED-gK-i2k.title" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Terms & Conditions"; ObjectID = "M8T-VH-pqZ"; */
-"M8T-VH-pqZ.title" = "Условия использования";
+"M8T-VH-pqZ.title" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Login"; ObjectID = "MMh-3K-f03"; */
-"MMh-3K-f03.title" = "Войти";
+"MMh-3K-f03.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Share Place"; ObjectID = "Muo-5P-SpA"; */
-"Muo-5P-SpA.normalTitle" = "Поделиться местом";
+"Muo-5P-SpA.normalTitle" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Update Available"; ObjectID = "NlB-Uq-yBY"; */
-"NlB-Uq-yBY.text" = "Доступно обновление";
+"NlB-Uq-yBY.text" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Enter Place Name"; ObjectID = "OwU-ni-gMc"; */
-"OwU-ni-gMc.placeholder" = "Введите название места";
+"OwU-ni-gMc.placeholder" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Dismiss"; ObjectID = "PEE-81-AY3"; */
-"PEE-81-AY3.title" = "Отказаться";
+"PEE-81-AY3.title" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Locate"; ObjectID = "PFo-wn-giE"; */
-"PFo-wn-giE.title" = "Найти на карте";
+"PFo-wn-giE.title" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Create Account"; ObjectID = "QMD-PL-s6C"; */
-"QMD-PL-s6C.title" = "Создать аккаунт";
+"QMD-PL-s6C.title" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Reset Password"; ObjectID = "Qqi-GZ-UC2"; */
-"Qqi-GZ-UC2.title" = "Сбросить пароль";
+"Qqi-GZ-UC2.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Share on Twitter"; ObjectID = "Qxe-9M-40e"; */
-"Qxe-9M-40e.normalTitle" = "Поделиться в Twitter";
+"Qxe-9M-40e.normalTitle" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Survey"; ObjectID = "Ra8-VJ-XOX"; */
-"Ra8-VJ-XOX.title" = "Опрос";
+"Ra8-VJ-XOX.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Share on Facebook"; ObjectID = "Rsi-ZU-d6L"; */
-"Rsi-ZU-d6L.normalTitle" = "Поделиться в Facebook";
+"Rsi-ZU-d6L.normalTitle" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Available on the App Store"; ObjectID = "SQo-Bf-LM7"; */
-"SQo-Bf-LM7.text" = "Доступно в App Store";
+"SQo-Bf-LM7.text" = "[Enter translation here]";
 
 /* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "Sip-Fi-u29"; */
-"Sip-Fi-u29.placeholder" = "Поиск";
+"Sip-Fi-u29.placeholder" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Username"; ObjectID = "Tjl-ue-xq0"; */
-"Tjl-ue-xq0.placeholder" = "Имя пользователя";
+"Tjl-ue-xq0.placeholder" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Locate venue on the map"; ObjectID = "UrA-Oh-cyg"; */
-"UrA-Oh-cyg.normalTitle" = "Найти событие на карте";
+"UrA-Oh-cyg.normalTitle" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Review"; ObjectID = "VEi-Ka-LSv"; */
-"VEi-Ka-LSv.title" = "Отзыв";
+"VEi-Ka-LSv.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Email a Friend"; ObjectID = "WoJ-LW-zK6"; */
-"WoJ-LW-zK6.normalTitle" = "Отправить другу";
+"WoJ-LW-zK6.normalTitle" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Add Review"; ObjectID = "X8F-2F-om1"; */
-"X8F-2F-om1.normalTitle" = "Добавить отзыв";
+"X8F-2F-om1.normalTitle" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "No Results Found"; ObjectID = "Yh0-kc-xVX"; */
-"Yh0-kc-xVX.text" = "Ничего не найдено";
+"Yh0-kc-xVX.text" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Profile"; ObjectID = "a2d-f0-mOL"; */
-"a2d-f0-mOL.title" = "Профиль";
+"a2d-f0-mOL.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "d6T-kp-bnE"; */
-"d6T-kp-bnE.normalTitle" = "Продолжить";
+"d6T-kp-bnE.normalTitle" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Add Place"; ObjectID = "dPe-c0-uek"; */
-"dPe-c0-uek.title" = "Добавить место";
+"dPe-c0-uek.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Option Label B"; ObjectID = "ect-bf-kgI"; */
-"ect-bf-kgI.text" = "Вариант B";
+"ect-bf-kgI.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Thanks for your review"; ObjectID = "gQ8-iK-rN6"; */
-"gQ8-iK-rN6.text" = "Спасибо за ваш отзыв";
+"gQ8-iK-rN6.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Discover"; ObjectID = "gld-YK-Cjn"; */
-"gld-YK-Cjn.text" = "Обнаружить";
+"gld-YK-Cjn.text" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Place"; ObjectID = "gp7-Yz-Eid"; */
-"gp7-Yz-Eid.title" = "Место";
+"gp7-Yz-Eid.title" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Dismiss"; ObjectID = "hBZ-Yn-rdH"; */
-"hBZ-Yn-rdH.title" = "Отказаться";
+"hBZ-Yn-rdH.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Everything in this app is added by people like you. If there aren't any pins in your area, be the first to add one."; ObjectID = "hFR-fX-gV0"; */
-"hFR-fX-gV0.text" = "Все, что есть на карте было добавлено обычными пользователями. Если вы не видите ни одного маркера рядом, будьте первым кто его добавит.";
+"hFR-fX-gV0.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Place Name"; ObjectID = "jav-va-5jC"; */
-"jav-va-5jC.text" = "Название места";
+"jav-va-5jC.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "We recommend that you update this app to keep everything running smoothly. Click update below or visit the App Store."; ObjectID = "jrV-0V-hA7"; */
-"jrV-0V-hA7.text" = "Рекомендуем обновить приложение, для того чтобы все работало еще лучше. Подтвердите обновление, либо обновитесь посетив App Store.";
+"jrV-0V-hA7.text" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Send"; ObjectID = "jzf-T9-isP"; */
-"jzf-T9-isP.title" = "Отправить";
+"jzf-T9-isP.title" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "kAY-fK-JcH"; */
-"kAY-fK-JcH.placeholder" = "Адрес электронной почты";
+"kAY-fK-JcH.placeholder" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Route"; ObjectID = "lAC-vL-QBO"; */
-"lAC-vL-QBO.title" = "Маршрут";
+"lAC-vL-QBO.title" = "[Enter translation here]";
 
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "mHo-xw-Tys"; */
-"mHo-xw-Tys.placeholder" = "Пароль";
+"mHo-xw-Tys.placeholder" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Confirm"; ObjectID = "nKn-Sh-NQJ"; */
-"nKn-Sh-NQJ.title" = "Подтвердить";
+"nKn-Sh-NQJ.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "CV x.x  NV x.x"; ObjectID = "ou2-ib-uSF"; */
-"ou2-ib-uSF.text" = "CV x.x  NV x.x";
+"ou2-ib-uSF.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Search the map for new and existing places. Check out reviews, ratings and photos shared by other people."; ObjectID = "pZY-gT-kTq"; */
-"pZY-gT-kTq.text" = "Исследуйте карту в поисках новых интересных мест.Читайте отзывы, смотрите фотографии и рейтинги оставленные другими пользователями.";
+"pZY-gT-kTq.text" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "No thanks"; ObjectID = "qCg-IA-v3A"; */
-"qCg-IA-v3A.normalTitle" = "Нет, спасибо";
+"qCg-IA-v3A.normalTitle" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Alert Label"; ObjectID = "qKw-Qw-BSL"; */
-"qKw-Qw-BSL.text" = "Информация";
+"qKw-Qw-BSL.text" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Update"; ObjectID = "rAL-6K-LkL"; */
-"rAL-6K-LkL.title" = "Обновить";
+"rAL-6K-LkL.title" = "[Enter translation here]";
 
 /* Class = "UIButton"; normalTitle = "sign out"; ObjectID = "tYd-JS-dZx"; */
-"tYd-JS-dZx.normalTitle" = "выйти";
+"tYd-JS-dZx.normalTitle" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "Share"; ObjectID = "vhp-75-5BH"; */
-"vhp-75-5BH.title" = "Поделиться";
+"vhp-75-5BH.title" = "[Enter translation here]";
 
 /* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "wdu-9V-r7x"; */
-"wdu-9V-r7x.title" = "Завершить";
+"wdu-9V-r7x.title" = "[Enter translation here]";
 
 /* Class = "UINavigationItem"; title = "About"; ObjectID = "y4U-E6-D7m"; */
-"y4U-E6-D7m.title" = "О программе";
+"y4U-E6-D7m.title" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "Tell your friends and family about this app. The more people who use it the more useful it will become."; ObjectID = "zrn-0C-mjS"; */
-"zrn-0C-mjS.text" = "Расскажите своим друзьям и родственникам о приложение. Чем больше пользователей, тем более полезным оно становится.";
+"zrn-0C-mjS.text" = "[Enter translation here]";
 
 /* Class = "UILabel"; text = "By creating an account you agree with our terms & conditions."; ObjectID = "zzc-lP-0X1"; */
-"zzc-lP-0X1.text" = "Создавая аккаунт вы соглашаетесь с условиями использования";
+"zzc-lP-0X1.text" = "[Enter translation here]";

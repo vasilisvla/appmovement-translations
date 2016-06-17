@@ -1,0 +1,251 @@
+/* No comment provided by engineer. */
+"A reset email has been sent to you" = "Письмо с инструкцией по восстановлению пароля было выслано вам на электронную почту";
+
+/* No comment provided by engineer. */
+"About" = "О программе";
+
+/* No comment provided by engineer. */
+"Add" = "Добавить";
+
+/* No comment provided by engineer. */
+"Add Place" = "Добавить место";
+
+/* No comment provided by engineer. */
+"Adding Places" = "Добавленные места";
+
+/* No comment provided by engineer. */
+"ago" = "тому назад";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete your review?" = "Вы уверены что хотите удалить свой отзыв?";
+
+/* No comment provided by engineer. */
+"Camera" = "Камера";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отменить";
+
+/* No comment provided by engineer. */
+"Cellular" = "Мобильная сеть";
+
+/* No comment provided by engineer. */
+"Check this app out" = "Проверьте это приложение";
+
+/* No comment provided by engineer. */
+"Confirm Email" = "Подтвердите адрес почты";
+
+/* No comment provided by engineer. */
+"Continue" = "Продолжить";
+
+/* No comment provided by engineer. */
+"day" = "день";
+
+/* No comment provided by engineer. */
+"Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Delete Review" = "Удалить отзыв";
+
+/* No comment provided by engineer. */
+"Deleted" = "Удалено";
+
+/* No comment provided by engineer. */
+"Discover" = "Посмотреть";
+
+/* No comment provided by engineer. */
+"Done" = "Сделано";
+
+/* No comment provided by engineer. */
+"DummyReview" = "ТестовыйОтзыв";
+
+/* No comment provided by engineer. */
+"Email Invalid" = "Некорректный адрес почты";
+
+/* No comment provided by engineer. */
+"Error" = "Ошибка";
+
+/* No comment provided by engineer. */
+"Failed to login" = "Ошибка входа";
+
+/* No comment provided by engineer. */
+"Failed to register" = "Ошибка регистрации";
+
+/* No comment provided by engineer. */
+"Failed to send email" = "Не удалось отправить письмо";
+
+/* No comment provided by engineer. */
+"Found" = "Найдено";
+
+/* No comment provided by engineer. */
+"Get Started" = "Начать";
+
+/* No comment provided by engineer. */
+"Hello" = "Привет";
+
+/* No comment provided by engineer. */
+"Home" = "Главная страница";
+
+/* No comment provided by engineer. */
+"hour" = "час";
+
+/* No comment provided by engineer. */
+"Joined" = "Присоединился";
+
+/* No comment provided by engineer. */
+"like" = "лайк";
+
+/* No comment provided by engineer. */
+"like received" = "лайк получен";
+
+/* No comment provided by engineer. */
+"likes" = "лайков";
+
+/* No comment provided by engineer. */
+"likes received" = "лайков получено";
+
+/* No comment provided by engineer. */
+"loading" = "загрузка";
+
+/* No comment provided by engineer. */
+"Loading" = "Загрузка";
+
+/* No comment provided by engineer. */
+"Log in" = "Войти";
+
+/* No comment provided by engineer. */
+"Log out" = "Выйти";
+
+/* No comment provided by engineer. */
+"Map Options" = "Настройки карты";
+
+/* No comment provided by engineer. */
+"minute" = "минута";
+
+/* No comment provided by engineer. */
+"month" = "месяц";
+
+/* No comment provided by engineer. */
+"My Profile" = "Мой профиль";
+
+/* No comment provided by engineer. */
+"No" = "Нет";
+
+/* No comment provided by engineer. */
+"No Connection" = "Соединение отсутствует";
+
+/* No comment provided by engineer. */
+"No Places" = "Мест нет";
+
+/* No comment provided by engineer. */
+"No written review" = "Нет ни одного отзыва";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Password Invalid" = "Некорректный пароль";
+
+/* No comment provided by engineer. */
+"Photo Library" = "Галерея фотографий";
+
+/* No comment provided by engineer. */
+"Please connect your Facebook account in settings" = "Пожалуйста добавьте свой аккаунт в Facebook в параметрах приложения";
+
+/* No comment provided by engineer. */
+"Please connect your Twitter account in settings" = "Пожалуйста добавьте свой аккаунт в Facebook в параметрах приложения";
+
+/* No comment provided by engineer. */
+"Please enter a name for the place!" = "Пожалуйста укажите название места";
+
+/* No comment provided by engineer. */
+"Please enter a valid email between 6 and 64 characters" = "Пожалуйста укажите корректный адрес электронной почты, содержащий от 6 до 64 символов";
+
+/* No comment provided by engineer. */
+"Please enter a valid password between 6 and 28 characters (letters and numbers only)" = "Пожалуйста укажите корректный пароль, от 6 до 28 символов (только буквы и цифры)";
+
+/* No comment provided by engineer. */
+"Please enter a valid username between 6 and 28 characters (letters only)" = "Пожалуйста укажите корректное имя пользователя, от 6 до 28 символов (только буквы)";
+
+/* No comment provided by engineer. */
+"Please enter review text" = "Пожалуйста введите текст отзыва";
+
+/* No comment provided by engineer. */
+"Please explain why you are reporting this review." = "Пожалуйста объясните причину жалобы на данный отзыв.";
+
+/* No comment provided by engineer. */
+"Please login or create an account to read reviews, add places and submit ratings" = "Пожалуйста войдите или зарегистрируйтесь, для того чтобы читать отзывы, добавлять новые места и оставлять рейтинг";
+
+/* No comment provided by engineer. */
+"Posted" = "Добавлено";
+
+/* No comment provided by engineer. */
+"Register" = "Зарегистрироваться";
+
+/* No comment provided by engineer. */
+"Remove Like" = "Удалить лайк";
+
+/* No comment provided by engineer. */
+"Remove Photo" = "удалить фото";
+
+/* No comment provided by engineer. */
+"Report" = "Пожаловаться";
+
+/* No comment provided by engineer. */
+"Report Review" = "пожаловаться на отзыв";
+
+/* No comment provided by engineer. */
+"Reported" = "Жалоба отправлена";
+
+/* No comment provided by engineer. */
+"review posted" = "отзыв оставлен";
+
+/* No comment provided by engineer. */
+"reviews posted" = "отзывов оставлено";
+
+/* No comment provided by engineer. */
+"Searching" = "Поиск";
+
+/* No comment provided by engineer. */
+"second" = "секунда";
+
+/* No comment provided by engineer. */
+"Share Review" = "поделиться отзывом";
+
+/* No comment provided by engineer. */
+"Share with friends" = "Поделиться с друзьями";
+
+/* No comment provided by engineer. */
+"Something went wrong" = "Что-то пошло не так";
+
+/* No comment provided by engineer. */
+"Submit" = "Отправить";
+
+/* No comment provided by engineer. */
+"To add a place which is not near your current location return to the map and locate it before searching" = "Чтобы добавить место, которое находится не рядом с вами вернитесь на карту и определите его местоположение его перед поиском";
+
+/* No comment provided by engineer. */
+"Username Invalid" = "Некорректное имя пользователя";
+
+/* No comment provided by engineer. */
+"week" = "неделя";
+
+/* No comment provided by engineer. */
+"WiFi" = "WiFi";
+
+/* No comment provided by engineer. */
+"Write your review..." = "Оставьте свой отзыв...";
+
+/* No comment provided by engineer. */
+"year" = "год";
+
+/* No comment provided by engineer. */
+"Yes" = "Да";
+
+/* No comment provided by engineer. */
+"You have deleted your review." = "Вы удалили свой отзыв.";
+
+/* No comment provided by engineer. */
+"You have rated at least one category zero stars!" = "Вы оценили на ноль, как минимум по одному из критериев!";
+
+/* No comment provided by engineer. */
+"You have reported this review." = "Вы пожаловались на отзыв.";

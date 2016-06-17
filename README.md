@@ -26,6 +26,8 @@ This folder holds the .strings files used in the translation of the iOS template
 
 ### Folder Structure
 
+We recommend that you Fork this repo to begin contributing to it. If it's easier you can simply email your new translations to a.garbett@newcastle.ac.uk
+
 **Start copying the existing "Example Language" folder** in the root directory and renaming it to your desired language i.e. Greek.
 
 Your project folder should now look like this:

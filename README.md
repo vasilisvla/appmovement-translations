@@ -9,7 +9,7 @@ In order to translate aspects of the App Movement platform we recommend the foll
 
 ## Getting Started
 
-We recommend that you Fork this repo to begin contributing your translations. You can also simply email your new translations to a.garbett@newcastle.ac.uk
+We recommend that you [Fork this repo](https://help.github.com/articles/fork-a-repo/) to begin contributing your translations and then submit a *pull request* to one of the team. You can also email your new translations to a.garbett@newcastle.ac.uk
 
 The project files you require to get started can be found under
 

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+    
+        <string name="review_option_a">Αξιολόγηση επιλογής Α</string>
+        <string name="review_option_b">Αξιολόγηση επιλογής Β</string>
+        <string name="review_option_c">Αξιολόγηση επιλογής Γ</string>
+        <string name="review_option_d">Αξιολόγηση επιλογής Δ</string>
+         
+        <!-- Published App Strings End -->
+        <!-- App Strings Begin -->
+        
+        <bool name="is_right_to_left">λάθος</bool>
+        
+        <!-- Home Activity -->
+        <string name="home_actionbar_title">Αρχική σελίδα</string>
+        <string name="home_search_img_txt">Ξεκίνα την αναζήτηση πατώντας το χάρτη από πάνω!</string>
+        <string name="home_sign_out">Αποσύνδεση</string>
+        <string name="home_register">Εγγραφή</string>
+        <string name="home_sign_in">Σύνδεση</string>
+        <string name="home_logo_description">Λογότυπο αρχικής σελίδας</string>
+        <string name="home_image_search_button">Πάτα για να ξεκινήσεις την αναζήτηση στο χάρτη</string>
+        <string name="home_header_text">Γεια</string>
+        <string name="home_share">Μοιράσου</string>
+        <string name="home_app_movement_generated_by">Μια δημιουργία του APP MOVEMENT</string>
+        
+        <!-- Home Menu -->
+        <string name="home_menu_about">Σχετικά</string>
+        <string name="home_menu_sign_in">Σύνδεση</string>
+        <string name="home_menu_sign_out">Αποσύνδεση</string>
+        <string name="home_menu_profile">Προφίλ</string>
+        
+        <string name="version_dialog_header">Απαιτείται σημαντική αναβάθμιση</string>
+        <string name="version_dialog_text">Αναβαθμίστε αυτήν την εφαρμογή για να διασφαλίσετε την καλύτερη δυνατή εμπειρία. Επιλέξτε την παρακάτω αναβάθμιση ή επισκεφτείτε το Google Play Store.</string>
+        <string name="version_dialog_confirm">Αναβάθμιση</string>
+        <string name="version_dialog_deny">Ακύρωση</string>
+        
+        <!-- Login Activity -->
+        <string name="login_actionbar_title">Συνδεθείτε με τα στοιχεία σας παρακάτω</string>
+        <string name="login_success_login_toast">Έχετε συνδεθεί επιτυχώς ως %1$s</string>
+        <string name="login_header_text">Εισάγετε τα στοιχεία του λογαριασμού σας παρακάτω</string>
+        <string name="login_email_textview_hint">Εισάγετε το email σας</string>
+        <string name="login_password_textview_hint">Εισάγετε έναν κωδικό</string>
+        <string name="login_forgot_password_button_text">Ξέχασα τον κωδικό μου</string>
+        <string name="login_submit_button_text">Σύνδεση</string>
+        
+        <!-- Register Activity -->
+        <string name="register_actionbar_title">Εγγραφή ως νέος χρήστης παρακάτω</string>
+        <string name="register_password_length_validator_text">Εισάγετε έναν κωδικό με τουλάχιστον 5 χαρακτήρεςP</string>
+        <string name="register_valid_email_validator_text">Εισάγετε ένα έγκυρο email</string>
+        <string name="register_display_name_length_validator_text">Εισαγετε ένα όνομα χρήστη με τουλάχιστον 3 χαρακτήρες</string>
+        <string name="register_success_text">Έχετε επιτυχώς εγγραφεί σαν %1$s</string>
+        <string name="register_terms">Με την εγγραφή σας συμφωνείτε με τους</string>
+        <string name="register_terms_of_use">όρους χρήσης μας</string>
+        <string name="register_privacy_policy">Πολιτική ιδιωτικότητας</string>
+        
+        <!-- Register Layout -->
+        <string name="register_header_text">Εισάγετε παρακάτω ένα όνομα χρήστη (ορατό στους άλλους χρήστες όταν αφήνετε μια αξιολόγηση), email και κωδικό.</string>
+        <string name="register_displayname_hint">Εισάγετε όνομα χρήστη</string>
+        <string name="register_email_hint">Εισάγετε το email σας</string>
+        <string name="register_password_hint">Εισάγετε τον κωδικό</string>
+        <string name="register_submit_button_text">Εγγραφή</string>
+        <string name="register_fullname_hint">Εισάγετε το όνομά σας (προαιρετικό)</string>
+        <string name="register_password_reenter_textview_hint">Εισάγετε ξανά τον κωδικό</string>
+        <string name="register_password_same_validator_text">Οι κωδικοί σας δεν συμπίπτουν, εισάγετε τον ίδιο κωδικό και στα δύο πεδία</string>
+        
+        <!-- Forgotten Password Activity -->
+        <string name="forgotten_password_actionbar_title">Απώλεια κωδικού</string>
+        <string name="forgotten_password_header_text">Εισάγετε το email σας παρακάτω. Όταν πατήσετε αποστολή θα σας σταλεί στο email σας ένας νέος κωδικός για να συνδεθείτε στην εφαρμογή</string>
+        <string name="forgotten_password_hint">Εισάγετε το email σας</string>
+        <string name="forgotten_password_submit_text">Στείλε μου νέο κωδικό</string>
+        <string name="forgotten_password_submit_msg">Σας έχει σταλεί μήνυμα στο email σας. Πατήστε στον σύνδεσμο για να αλλάξετε τον κωδικό σας</string>
+        
+        <!-- Venue -->
+        <string name="venue_actionbar_title">Εμφάνιση μέρους</string>
+        <plurals name="venue_contributions">
+        <item quantity="zero">Καμία συνεισφορά</item>
+        <item quantity="one">1 συνεισφορά</item>
+        <item quantity="other">%1$d Συνεισφορές</item>
+    </plurals>
+        <string name="venue_submit_review">Υποβολή αξιολόγησης</string>
+        <string name="venue_not_breastfeeding_place_text">Αυτό δεν είναι ένα προσδιορισμένο μέρος για θηλασμό</string>
+        <string name="venue_breastfeeding_place_text">Αυτό είναι ένα προσδιορισμένο μέρος για θηλασμό</string>
+        <string name="venue_error_text">Ωχ φαίνεται ότι δεν μπορούσαμε να βρούμε αυτό το μέρος, μπορεί να υπάρχει κάποιο λάθος</string>
+        <string name="venue_no_reviews_header">Φαίνεται ότι ακόμα δεν έχουμε αξιολογήσεις για το μέρος αυτό. Γιατί δεν αφήνεις μία τώρα;</string>
+        <string name="venue_no_reviews">Καμία αξιολόγηση από την κοινότητα ακόμα. Γιατί δεν προσθέτεις μία;</string>
+        <string name="venue_foursquare_logo_description">Πάτα εδώ για να δεις το μέρος στο foursquare</string>
+        <string name="venue_share_menu_item">Μοιράσου το μέρος</string>
+        <string name="venue_show_on_map">(Εμφάνιση στο χάρτη)</string>
+        
+        <!-- Venue Reporting -->
+        <string name="venue_menu_report">Αναφορά μέρους</string>
+        <string name="venue_reported_toast">Το μέρος έχει αναφερθεί, ευχαριστούμε</string>
+        <string name="venue_report_venue_dialog_header">Αναφορά</string>
+        <string name="venue_report_venue_dialog_message">Πείτε μας γιατί αυτό το μέρος θα έπρεπε να αναφερθεί</string>
+        
+        <!-- Venue Review Item -->
+        <string name="review_actionbar_title">Άφησε την αξιολόγησή σου παρακάτω</string>
+        <string name="venue_review_username">όνομα</string>
+        <string name="venue_review_text">κείμενο αξιολόγησης</string>
+        <string name="venue_review_contributions">συνεισφορές</string>
+        
+        <!-- Venue Review Menus -->
+        <string name="venue_review_menu_report">Αναφορά</string>
+        <string name="venue_review_reported_toast">Η αναφορά έχει καταγραφεί, ευχαριστούμε</string>
+        <string name="venue_review_menu_delete">Διαγραφή</string>
+        <string name="venue_review_deleted_toast">Η αναφορά έχει διαγραφεί</string>
+        
+        
+        <string name="venue_review_report_dialog_message">Πείτε μας γιατί αυτή η αξιολόγηση θα έπρεπε να αναφερθεί</string>
+        <string name="venue_review_report_dialog_header">Αναφορά αξιολόγησης</string>
+        <string name="venue_review_report_dialog_confirm">Υποβολή</string>
+        <string name="venue_review_report_dialog_cancel">Άκυρο</string>
+        
+        <string name="venue_review_unliked_message">Αφαίρεση Μου αρέσει</string>
+        <string name="venue_review_liked_toast">Μου αρέσει</string>
+        <string name="venue_review_delete_dialog_message">Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την αξιολόγηση;</string>
+        <string name="venue_review_delete_dialog_header">Διαγραφή αξιολόγησης</string>
+        <string name="venue_review_delete_dialog_confirm">Ναι</string>
+        <string name="venue_review_delete_dialog_cancel">Άκυρο</string>
+        <plurals name="venue_review_likes_count">
+        <item quantity="zero">0 Μου αρέσει</item>
+        <item quantity="one">1 Μου αρέσει</item>
+        <item quantity="other">%1$d Μου αρέσει</item>
+    </plurals>
+        
+        <!-- Review Activity -->
+        <string name="review_venue_header">Εισάγετε την αξιολόγησή σας παρακάτω</string>
+        <string name="review_submit_button_text">Υποβολή αξιολόγησης</string>
+        <string name="review_successful_message">Η αξιολόγηση σας έχει αποθηκευτεί</string>
+        <string name="review_ratings_no_rated_header">Είστε βέβαιοι;</string>
+        <string name="review_ratings_no_rated_body">Έχετε υποβάλει μια αξιολόγηση που περιλαμβάνει 0/5 αστέρια, θέλαμε να βεβαιωθούμε, είναι σωστή;</string>
+        <string name="review_text_length_header">Ωπ!</string>
+        <string name="review_text_length_body">Για να δώσετε στην κοινότητα την καλύτερη δυνατή εμπειρία παρακαλούμε υποβάλετε μια μεγαλύτερη αξιολόγηση</string>
+        <string name="review_submit_photo_button_text">Προσθήκη φωτογραφίας</string>
+        <string name="review_review_edittext">Εισάγετε την αξιολόγησή σας εδώ...</string>
+        <string name="review_review_photo_text">Προσθήκη φωτογραφίας</string>
+        
+        <string name="review_submit_confirm_header">Είστε βέβαιοι;</string>
+        <string name="review_submit_confirm_body">Θέλετε να υποβάλετε αυτήν την αξιολόγηση;</string>
+        
+        <string name="review_share_tweet_hashtags">#%1$s</string>
+        
+        <!-- Review Photo Dialog -->
+        <string name="review_photo_dialog_header">Αφαίρεση φωτογραφίας</string>
+        <string name="review_photo_dialog_text">Είστε βέβαιοι ότι θέλετε να αφαιρέσετε αυτή τη φωτογραφία;</string>
+        <string name="review_photo_dialog_confirm">Επιβεβαίωση</string>
+        <string name="review_photo_dialog_cancel">Άκυρο</string>
+        
+        <!-- Review Submitted Activity -->
+        <string name="review_submitted_header">Ευχαριστούμε για την αξιολόγησή σας!</string>
+        <string name="review_submitted_body">Θέλετε να μοιραστείτε την αξιολόγησή σας με άλλους;</string>
+        <string name="review_submitted_venue_cancel_button_text">Όχι τώρα</string>
+        <string name="review_submitted_venue_continue_button_text">Συνέχεια</string>
+        <string name="review_submitted_venue_confirm_button_text">Διαμοιρασμός</string>
+        
+        <!-- Add Venue Activity -->
+        <string name="add_venue_actionbar_title">Προσθήκη ενός νέου μέρους παρακάτω</string>
+        <string name="add_venue_venue_name_validator_text">Παρακαλώ εισάγετε το όνομα του μέρους</string>
+        <string name="add_venue_list_empty_text">Δεν είναι στη λίστα; \nΕισάγετε το όνομα του μέρους και πατήστε παρακάτω για να προσθέσετε το μέρος στο χάρτη</string>
+        <string name="add_venue_add_manual_text">Τοποθεσία στον χάρτη</string>
+        <string name="add_venue_search_hint">Εισάγετε το όνομα του μέρους εδώ</string>
+        
+        <!-- Add Venue Menu -->
+        <string name="add_venue_done">ΕΤΟΙΜΟ</string>
+        
+        <!-- Location picker -->
+        <string name="location_picker_actionbar_title">Προσθέσθε νέο μέρος εδώ</string>
+        <string name="location_picker_add_venue_btn">Προσθέσθε νέο μέρος εδώ</string>
+        
+        <!-- Add venue preview -->
+        <string name="add_venue_preview_venue_name_edittext_hint">Εισάγετε το όνομα του μέρους εδώ</string>
+        <string name="add_venue_preview_venue_name_validation_length_text">Εισάγετε το όνομα ενός μέρους</string>
+        
+        <!-- Map list -->
+        <string name="map_list_search_btn">Αναζήτηση</string>
+        <string name="map_list_header_txt">Αναζήτηση εδώ για μέρη</string>
+        <string name="venues_nearby_list_map_toggle_map">Χάρτης</string>
+        <string name="venues_nearby_list_map_toggle_list">Το πιο κοντινό</string>
+        
+        <!-- Map Activity -->
+        <string name="map_actionbar_title">Βρες νέα μέρη κοντά</string>
+        <string name="map_list_map_toggle_map">Χάρτης</string>
+        <string name="map_list_map_toggle_list">Το πιο κοντινό</string>
+        <string name="map_add_new_venue_button_text">Προσθήκη</string>
+        <string name="map_search_button_text">Αναζήτηση</string>
+        <string name="map_geo_search_button_text">Αναζήτηση</string>
+        <string name="map_geo_search_input_hint">Εισάγετε πόλη, μέρος ή ΤΚ</string>
+        <string name="map_dropped_pin_infowindow_text">Εισάγετε νέα τοποθεσία εδώ</string>
+        <plurals name="map_places_found">
+            <item quantity="zero">Δεν βρέθηκαν μέρη κοντά, γιατί δεν προσθέτετε κάποια;</item>
+            <item quantity="one">1 μέρος βρέθηκε</item>
+            <item quantity="other">%1$d μέρη βρέθηκαν</item>
+        </plurals>
+        <plurals name="map_places_nearby">
+            <item quantity="one">1 κοντινό</item>
+            <item quantity="other">%1$d κοντινά</item>
+        </plurals>
+        <string name="map_geo_results_not_found_empty">Κανένα αποτέλεσμα δεν βρέθηκε</string>
+        <string name="map_geo_results_not_found">Κανένα αποτέλεσμα για %1$s</string>
+        <plurals name="map_info_window_venue_reviews">
+            <item quantity="zero">καμία αξιολόγηση</item>
+        <item quantity="one">%1$d αξιολόγηση</item>
+        <item quantity="other">%1$d αξιολογήσεις</item>
+        </plurals>
+        
+        <plurals name="map_info_window_venue_stars">
+            <item quantity="zero">καμία αξιολόγηση</item>
+        <item quantity="one">%1$s/5 αστέρια/item>
+        <item quantity="other">%1$s/5 αστέρια</item>
+        </plurals>
+        
+        <!-- Venue Add Preview -->
+        <string name="venue_add_preview">Προσθήκη νέου μέρους</string>
+        <string name="venue_add_preview_done">ΑΠΟΘΗΚΕΥΣΗ</string>
+        <string name="add_venue_preview_done_btn">Αποθήκευση</string>
+        <string name="venue_add_preview_complete_msg">Το μέρος προστέθηκε, αφήστε μία αξιολόγηση</string>
+        
+        <!-- Network Manager -->
+        <string name="connection_problem_header">Πρόβλημα στη σύνδεση</string>
+        <string name="connection_problem_body">Φαίνεται ότι δεν έχετε σύνδεση στο δίκτυο. Παρακαλούμε βεβαιωθείτε ότι έχετε ενεργοποιημένα τα δεδομένα σας ή είστε συνδεδεμένοι σε WiFi δίκτυο. Θα θέλατε να αλλάξετε τις ρυθμίσεις σύνδεσής σας τώρα;</string>
+        
+        <!-- Location Error Dialog -->
+        <string name="location_problem_header">Ανεπεργοποιημένες υπηρεσίες τοποθεσίας</string>
+        <string name="location_problem_body">Φαίνεται ότι οι \"υπηρεσίες τοποθεσίας\" σας είναι απενεργοποιημένες. Θα θέλατε να τις ενεργοποιήσετε και να βρείτε την τοποθεσία σας;</string>
+        <string name="location_problem_gps_required">Δεν θα μπορείτε να χρησιμοποιήσετε τις λειτουργίες του χάρτη της εφαρμογής μέχρι να ενεργοποιήσετε τις ρυθμίσεις του gps</string>
+        <string name="location_problem_not_found">Δεν μπορούσαμε να εντοπίσουμε την τοποθεσία σας πιθανώς επειδή είστε σε εσωτερικό χώρο. Παρόλα αυτά μπορείτε ακόμα να ψάξετε στον χάρτη για να βρείτε πού είστε.</string>
+        
+        <!-- Sign up to see more Dialog -->
+        <string name="sign_up_dialog_header">Εγγραφείτε για να δείτε περισσότερα!</string>
+        <string name="sign_up_dialog_body">Εγγραφείτε για να δείτε περισσότερες πληροφορίες. θα θέλατε να εγγραφείτε  τώρα; Αλλιώς, αν έχετε λογαριασμό, πατήστε Σύνδεση παρακάτω.</string>
+        <string name="sign_up_dialog_positive_text">Εγγραφή</string>
+        <string name="sign_up_dialog_negative_text">Σύνδεση</string>
+        <string name="sign_up_dialog_neutral_text">Ακύρωση</string>
+        
+        <!-- Toast Errors -->
+        <string name="toast_session_timeout_error">Η σύνδεσή σας έχει λήξη, παρακαλούμε συνδεθείτε ξανά.</string>
+        <string name="toast_general_error">Ωπ, υπήρξε πρόβλημαOops there was a problem</string>
+        
+        <!-- Profile -->
+        <string name="profile_review_count_lbl">Οι αξιολογήσεις αναρτήθηκαν.</string>
+        <string name="profile_like_count_lbl">Τα Μου αρέσει ελήφθησαν</string>
+        <string name="profile_like_count_default">0</string>
+        <string name="profile_review_count_default">0</string>
+        <string name="profile_username"></string>
+        
+        <string name="profile_menu_report">Αναφορά</string>
+        <string name="profile_report_dialog_header">Αναφορά χρήστη</string>
+        <string name="profile_report_dialog_message">Παρακαλούμε πείτε μας γιατί αυτός ο χρήστης πρέπει να αναφερθεί</string>
+        <string name="profile_reported_toast">Ο χρήστης αναφέρθηκε, ευχαριστούμε</string>
+        
+        <string name="menu_settings">Ρυθμίσεις</string>
+        <string name="positive_button_text">Ναι</string>
+        <string name="negative_button_text">Ακύρωση</string>
+        <string name="loading_dialog_header">Σε εξέλιξη</string>
+        <string name="loading_dialog_body">Φορτώνει...</string>
+        <string name="ok_button_text">ΟΚ</string>
+        
+        <string name="network_error_connection">παρακαλούμε ελέγξτε τη σύνδεσή σας</string>
+        <string name="network_error_server">Ωπ, μάλλον υπα΄ρχει ένα πρόβλημα τους servers μας</string>
+        
+        <!-- Share -->
+        <string name="share">Διαμοιρασμός μέσω</string>
+        <string name="share_venue_msg">Είδα αυτό και σκέφτηκα ότι θα σου αρέσει</string>
+        
+        <!-- Onboarding -->
+        <string name="onboarding_continue">Συνέχεια</string>
+        <string name="onboarding_page_1_instruction_header">Ανακάλυψε</string>
+        <string name="onboarding_page_1_instruction">Ψάξτε τον χάρτη για νέα και συναρπαστικά μέρη. Δείτε τις αξιολογήσεις, τις βαθμολογίες και τις φωτογραφίας που έχουν μοιραστεί άλλοι χρήστες</string>
+        
+        <string name="onboarding_page_2_instruction_header">Συνεισφορά</string>
+        <string name="onboarding_page_2_instruction">Όλα σε αυτήν την εφαρμογή έχουν προστεθεί από χρήστες σαν και εσένα. Αν δεν υπάρχουν pins στην περιοχή σου, γίνε ο πρώτος που θα προσθέσεις κάποιο.</string>
+        
+        <string name="onboarding_page_3_instruction_header">Διαμοιρασμός</string>
+        <string name="onboarding_page_3_instruction">Πες στους φίλους και στην οικογένειά σου για την εφαρμογή αυτή. Όσο περισσότεροι άνθρωποι την χρησιμοποιούν τόσο πιο χρήσιμη θα γίνει.</string>
+        
+        <!-- Survey -->
+        <string name="survey_dismiss">Απόρριψη</string>
+        
+        <!-- Update -->
+        <string name="update_header">Διαθέσιμη ενημέρωση</string>
+        <string name="update_body">Συστήνουμε να κάνετε τις ενημερώσεις για την εφαρμογή αυτή ώστε να λειτουργούν όλα ομαλά. Πατήστε Ενημέρωση παρακάτω ή επισκεφτείτε το Google Play Store</string>
+        <string name="update_button_text">Ενημέρωση τώρα</string>
+        
+                <!-- Demo mode -->
+        <string name="demo_venue_name">Newcastle Railway Station</string>
+        <string name="demo_venue_address">Neville St</string>
+        <string name="demo_venue_city">Newcastle upon Tyne</string>
+        <string name="demo_venue_postcode">NE1 5DL</string>
+        <string name="demo_venue_country">UK</string>
+        
+        <string name="demo_reviewer_1_username">Chris</string>
+        <string name="demo_reviewer_1_review_text">This place is perfect, I always try to stop by when I get the chance.</string>
+        
+        <string name="demo_reviewer_2_username">Sarah</string>
+        <string name="demo_reviewer_2_review_text">This place is really great. Always enjoy visiting here.</string>
+        
+        <string name="demo_review_text">This place is great, I really going here!</string>
+        
+</resources>

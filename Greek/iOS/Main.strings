@@ -6,7 +6,7 @@
 "0aA-9S-YjW.placeholder" = "Όνομα χρήστη ή email";
 
 /* Class = "UIButton"; normalTitle = "Tap to search here"; ObjectID = "0oP-94-2qw"; */
-"0oP-94-2qw.normalTitle" = "Για επιλογή πατήστε εδώ";
+"0oP-94-2qw.normalTitle" = "Για αναζήτηση πατήστε εδώ";
 
 /* Class = "UISegmentedControl"; 0vO-x9-Xu8.segmentTitles[0] = "Standard"; ObjectID = "0vO-x9-Xu8"; */
 "0vO-x9-Xu8.segmentTitles[0]" = "Κανονικό";
@@ -39,7 +39,7 @@
 "4ZA-h0-gzP.text" = "Επιλογή ετικέτα Γ";
 
 /* Class = "UILabel"; text = "Enter your email/username above and we will send you an email to reset your password."; ObjectID = "6gh-yH-p9e"; */
-"6gh-yH-p9e.text" = "Εισάγετε το email σας/όνομα χρήστη παραπάνω και θα στα σταλεί ένα email να επαναφέρετε τον κωδικό σας";
+"6gh-yH-p9e.text" = "Εισάγετε παραπάνω το email σας/όνομα χρήστη και θα σας σταλεί ένα email να επαναφέρετε τον κωδικό σας";
 
 /* Class = "UIBarButtonItem"; title = "Locate"; ObjectID = "6k4-69-eN1"; */
 "6k4-69-eN1.title" = "Εντοπισμός";
@@ -141,7 +141,7 @@
 "WoJ-LW-zK6.normalTitle" = "Στείλε email σε ένα φίλο";
 
 /* Class = "UIButton"; normalTitle = "Add Review"; ObjectID = "X8F-2F-om1"; */
-"X8F-2F-om1.normalTitle" = "Προσθήκη συνεισφοράς";
+"X8F-2F-om1.normalTitle" = "Προσθήκη αξιολόγησης";
 
 /* Class = "UILabel"; text = "No Results Found"; ObjectID = "Yh0-kc-xVX"; */
 "Yh0-kc-xVX.text" = "Δεν βρέθηκαν αποτελέσματα";
@@ -167,11 +167,11 @@
 /* Class = "UINavigationItem"; title = "Place"; ObjectID = "gp7-Yz-Eid"; */
 "gp7-Yz-Eid.title" = "Μέρος";
 
-/* Class = "UIBarButtonItem"; title = "Απόρριψη"; ObjectID = "hBZ-Yn-rdH"; */
-"hBZ-Yn-rdH.title" = "[Enter translation here]";
+/* Class = "UIBarButtonItem"; title = "Dismiss"; ObjectID = "hBZ-Yn-rdH"; */
+"hBZ-Yn-rdH.title" = "Απόρριψη";
 
 /* Class = "UILabel"; text = "Everything in this app is added by people like you. If there aren't any pins in your area, be the first to add one."; ObjectID = "hFR-fX-gV0"; */
-"hFR-fX-gV0.text" = "[Τα πάντα σε αυτήν την εφαρμογή έχουν προστεθεί από ανθρώπους σας και σένα. Αν δεν υπάρχουν καθόλου pins στην περιχοή σου γίνε ο πρώτος που θα προσθέσει ένα.]";
+"hFR-fX-gV0.text" = "[Τα πάντα σε αυτήν την εφαρμογή έχουν προστεθεί από ανθρώπους σαν και σένα. Αν δεν υπάρχουν καθόλου pins στην περιοχή σου, γίνε ο πρώτος που θα προσθέσει ένα.]";
 
 /* Class = "UILabel"; text = "Place Name"; ObjectID = "jav-va-5jC"; */
 "jav-va-5jC.text" = "Όνομα μέρους";
@@ -198,7 +198,7 @@
 "ou2-ib-uSF.text" = "CV x.x  NV x.x";
 
 /* Class = "UILabel"; text = "Search the map for new and existing places. Check out reviews, ratings and photos shared by other people."; ObjectID = "pZY-gT-kTq"; */
-"pZY-gT-kTq.text" = "[Ψάξτε τον χάρτη για νέα και συναρπαστικά μέρη. Δείτε αξιολογήσεις, βαθμολογίες και φωτογραφίες που μοιράστηκαν άλλοι άνθρωποι.]";
+"pZY-gT-kTq.text" = "[Ψάξτε τον χάρτη για νέα και συναρπαστικά μέρη. Δείτε αξιολογήσεις, βαθμολογίες και φωτογραφίες που μοιράστηκαν άλλοι χρήστες.]";
 
 /* Class = "UIButton"; normalTitle = "No thanks"; ObjectID = "qCg-IA-v3A"; */
 "qCg-IA-v3A.normalTitle" = "[όχι ευχαριστώ]";
@@ -222,7 +222,7 @@
 "y4U-E6-D7m.title" = "[Σχετικά]";
 
 /* Class = "UILabel"; text = "Tell your friends and family about this app. The more people who use it the more useful it will become."; ObjectID = "zrn-0C-mjS"; */
-"zrn-0C-mjS.text" = "[Πείτε στους φίλους σας και στην οικογένειά σας για την εφαρμογή αυτή. Όσο περισσότεροι άνθρωποι τη χρησιμοποιούν τόσο πιο χρήσιμη θα γίνει.]";
+"zrn-0C-mjS.text" = "[Πείτε στους φίλους σας και την οικογένειά σας για την εφαρμογή αυτή. Όσο περισσότεροι άνθρωποι τη χρησιμοποιούν, τόσο πιο χρήσιμη θα γίνει.]";
 
 /* Class = "UILabel"; text = "By creating an account you agree with our terms & conditions."; ObjectID = "zzc-lP-0X1"; */
 "zzc-lP-0X1.text" = "[Δημιουργώντας λογαριασμό συμφωνείτε με τους όρους και τις προϋποθέσεις μας.]";

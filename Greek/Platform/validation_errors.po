@@ -1,0 +1,177 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-06-17 16:33-0000\n"
+"PO-Revision-Date: 2016-09-30 13:37+0300\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"Language: en\n"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Please enter a comment"
+msgstr "Παρακαλώ γράψτε ένα σχόλιο"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be at least 3 characters"
+msgstr "Το σχόλιο σας πρέπει να έχει τουλάχιστον 3 χαρακτήρες"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be less than 500 characters"
+msgstr "Το σχόλιο σας πρέπει να έχει λιγότερους απο 500 χαρακτήρες"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation
+msgid "Please include user_id"
+msgstr "Παρακαλώ εισάγετε το user_id"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation Model/Site/MovementUpdate.php:validation
+msgid "isNumeric"
+msgstr "isNumeric"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please enter parent_id"
+msgstr "Παρακαλώ εισάγετε το parent_id"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please only enter parent_id as numeric value"
+msgstr "Το parent_id πρέπει να αποτελείται μόνο απο αριθμούς"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Parent_id incorrect"
+msgstr "Λάθος parent_id"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Please enter comment_type_id"
+msgstr "Παρακαλώ εισάγετε το comment_type_id"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Comment_type_id incorrect"
+msgstr "Λάθος Comment_type_id"
+
+#: Model/Site/CommentVote.php:validation for field up
+msgid "Please vote up or down"
+msgstr "Παρακαλώ ψηφίστε θετικά ή αρνητικά"
+
+#: Model/Site/CommentVote.php:validation for field user_id
+msgid "You may only cast your vote once"
+msgstr "Μπορείτε να ψηφίσετε μόνο μια φορά"
+
+#: Model/Site/CommentVote.php:validation for field comment_id
+msgid "Please enter comment_id"
+msgstr "Παρακαλώ εισάγετε το comment_id\""
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid "Please only enter a number for the user_id"
+msgstr "Το user_id πρέπει να αποτελείται μόνο απο αριθμούς"
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid ""
+"You cannot contribute to this movement as you are not a supporter or promoter of this "
+"movement"
+msgstr "Δεν μπορείτε να συνεισφέρετε σε αυτό το κίνημα γιατί δεν το έχετε υποστηρίξει"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please enter movement_design_task_id"
+msgstr "Παρακαλώ εισάγετε το movement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please only enter movement_design_task_id as numeric value"
+msgstr "Το movement_design_task_id πρέπει να αποτελείται μόνο απο αριθμούς"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Movement_design_task_id incorrect"
+msgstr "Λάθος Movement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Please enter contribution_type_id"
+msgstr "Παρακαλώ εισάγετε το contribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Contribution_type_id incorrect"
+msgstr "Λάθος Contribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please enter a contribution"
+msgstr "Παρακαλώ εισάγετε την συνεισφορά σας"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please ensure that you have entered your contribution correctly"
+msgstr "Παρακαλώ βεβαιωθείτε πως η συνεισφορά σας ειναι σωστή"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "You have already submitted a contribution with those details"
+msgstr "Έχετε ήδη εισάγει τα ίδια στοιχεία"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "Please enter a title for your movement"
+msgstr "Παρακαλώ εισάγετε τον τίτλο του κινήματος σας"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be more than 10 characters"
+msgstr "Ο τίτλος πρέπει να είναι πάνω απο 10 χαρακτήρες"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be less than 50 characters"
+msgstr "Ο τίτλος πρέπει να έιναι κάτω απο 50 χαρακτήρες"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "Please enter a short paragraph that describes your movement"
+msgstr "Παρακαλώ εισάγετε μια σύντομη περιγραφή για το κίνημα σας"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be more than 20 characters"
+msgstr "Η περιγραφή πρέπει να είναι πάνω απο 20 χαρακτήρες"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be less than 140 characters"
+msgstr "Η περιγραφή πρέπει να είναι κάτω απο 140 χαρακτήρες"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "Please enter a detailed overview of your movement"
+msgstr "Παρακαλώ εισάγετε μια λεπτομερής περιγραφή του κινήματος σας"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be more than 100 characters"
+msgstr "Η περιγραφή πρέπει να είναι πάνω απο 100 χαρακτήρες"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be less than 4000 characters"
+msgstr "Η περιγραφή πρέπει να είναι κάτω απο 4000 χαρακτήρες"
+
+#: Model/Site/Movement.php:validation for field app_type_id
+msgid "Please select the type of app you wish to create"
+msgstr "Παρακαλώ επιλέξτε το έιδος εφαρμογής που θέλετε να δημιουργήσετε"
+
+#: Model/Site/Movement.php:validation for field photo
+msgid "Please select a photo for your movement"
+msgstr "Πρακαλώ επιλέξτε μια φωτογραφία για το κίνημα σας"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Please enter an update"
+msgstr "Παρακαλώ εισάγετε μία ενημέρωση"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be at least 10 characters"
+msgstr "Η ενημέρωση σας πρέπει να αποτελείται απο τουλάχιστον 10 χαρακτήρες"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be less than 4000 characters"
+msgstr "Η ενημέρωση σας πρέπει να αποτελείται απο λιγότερους απο 4000 χαρακτήρες"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You are not the creator of this movement"
+msgstr "Δεν είστε ο δημιουργός αυτού του κινήματος"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You can only post 2 updates per day. Please try again in a short while."
+msgstr "Μπορείτε να κοινοποιήσετε μέχρι 2 ενημερώσεις την ημέρα. Δοκιμάστε ξανά σε λίγο."

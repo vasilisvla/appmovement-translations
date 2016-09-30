@@ -1,0 +1,2810 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-06-17 16:31-0000\n"
+"PO-Revision-Date: 2016-06-17 16:32-0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8\n"
+"Language: en\n"
+
+#: Controller/CommentsController.php:121
+#: Controller/MovementsController.php:565
+msgid "You are required to be logged in for this transaction"
+msgstr "Χρειάζεται να είστε συνδεδεμένοι για τη συναλλαγή αυτή"
+
+#: Controller/CommentsController.php:141
+#: Controller/ContributionsController.php:181
+#: Controller/MovementsController.php:439;501;585
+msgid "You do not have permission to do that"
+msgstr "Δεν έχετε άδεια να το κάνετε αυτό"
+
+#: Controller/ContributionsController.php:67
+msgid "No file has been submitted"
+msgstr "Δεν έχει υποβληθεί κανένα αρχείο"
+
+#: Controller/ContributionsController.php:73
+msgid "Error in file submission"
+msgstr "Σφάλμα στην υποβολή του αρχείου"
+
+#: Controller/ContributionsController.php:135
+msgid "Contribution has been submitted"
+msgstr "Η συνεισφορά έχει υποβληθεί"
+
+#: Controller/ContributionsController.php:145
+msgid ""
+"Please ensure that your image is in the correct format (jpg, jpeg, png) and "
+"is between 2KB - 3MB"
+msgstr "Παρακαλούμε βεβαιωθείτε ότι η εικόνα σας είναι στη σωστή μορφή (jpg, jpeg, png) και μεταξύ 2KB - 3MB"
+
+#: Controller/ContributionsController.php:208
+msgid "Contribution id required"
+msgstr "Απαιτείται η ταυτότητα της συνεισφοράς"
+
+#: Controller/ContributionsController.php:209
+msgid "No Report Type id"
+msgstr "Δεν υπάρχει ταυτότητα του τύπου αναφοράς"
+
+#: Controller/ContributionsController.php:235
+msgid "Report type id incorrect"
+msgstr "Λάθος ταυτότητα τύπου αναφοράς"
+
+#: Controller/MobileController.php:13;29
+#: Controller/MovementsController.php:289;308;428;493;747
+#: Controller/TasksController.php:14;82
+msgid "Could not find movement"
+msgstr "Δεν μπόρεσε να βρεθεί το κίνημα"
+
+#: Controller/MovementsController.php:265
+msgid "%s needs your support"
+msgstr "%s χρειάζεται τη στηριξή σου"
+
+#: Controller/MovementsController.php:282
+msgid "Your friends have been invited"
+msgstr "Οι φίλοι σας έχουν προσκληθεί"
+
+#: Controller/MovementsController.php:295;296
+msgid "%s | Onboarding"
+msgstr "%s | Επιβίβαση "
+
+#: Controller/MovementsController.php:335;336 View/Elements/process_row.ctp:11
+#: View/Emails/html/movement_failed.ctp:41 View/Movements/start.ctp:28
+#: View/Pages/about.ctp:22
+msgid "Start a Movement"
+msgstr "Ξεκίνα ένα κίνημα"
+
+#: Controller/MovementsController.php:346
+msgid "Please login or create an account to start a movement"
+msgstr "Παρακαλούμε συνδεθείτε ή δημιουργήστε λογαριασμό για να ξεκινήσετε ένα κίνημα"
+
+#: Controller/MovementsController.php:409
+msgid "There are some errors with your movement"
+msgstr "Υπάρχουν κάποια λάθη στο κίνημά σας"
+
+#: Controller/MovementsController.php:419;420
+#: View/Elements/Movements/sidebar.ctp:158 View/Movements/edit.ctp:17
+msgid "Edit Movement"
+msgstr "Επεξεργασία κινήματος"
+
+#: Controller/MovementsController.php:468
+msgid "Movement was updated"
+msgstr "Το κίνημα ενημερώθηκε"
+
+#: Controller/MovementsController.php:476
+msgid "Movement was not updated"
+msgstr "Το κίνημα δεν ενημερώθηκε"
+
+#: Controller/MovementsController.php:508
+msgid "Movement was deleted"
+msgstr "Το κίνημα διαγράφηκε"
+
+#: Controller/MovementsController.php:662
+msgid "api_key parameter required"
+msgstr "απαιτείται η παράμετρος api_key"
+
+#: Controller/MovementsController.php:668
+msgid "Id parameter required"
+msgstr "Απαιτείται η παράμετρος ταυτότητας"
+
+#: Controller/MovementsController.php:776
+msgid "This movement has not yet reached the launch phase"
+msgstr "Αυτό το κίνημα δεν έχει φτάσει ακόμα στη φάση του λανσαρίσματος"
+
+#: Controller/MovementsController.php:790
+msgid "Movements with 5 supporters or more cannot be edited"
+msgstr "Τα κινήματα που έχουν 5 ή παραπάνω υποστηρικτές δεν μπορούν να υποστούν επεξεργασία"
+
+#: Controller/NotificationsController.php:261
+msgid "We have new updates for you!"
+msgstr "Έχουμε νέες ενημερώσεις για εσάς"
+
+#: Controller/PromotersController.php:126
+msgid ""
+"Please check that you have entered the correct code. This can be found at "
+"https://app-movement.com"
+msgstr "Παρακαλούμε επιβεβαιώστε ότι έχετε βάλει το σωστό κώδικα. Αυτός μπορεί να βρεθεί στο https://app-movement.com"
+
+#: Controller/PromotersController.php:131
+#: Controller/SupportersController.php:94
+msgid "Code parameter missing"
+msgstr "Λείπει η παράμετρος του κώδικα"
+
+#: Controller/SupportersController.php:89
+msgid ""
+"Please check that you have entered the correct code. This can be found at "
+"http://app-movement.com"
+msgstr "Παρακαλούμε επιβεβαιώστε ότι έχετε βάλει το σωστό κώδικα. Αυτός μπορεί να βρεθεί στο https://app-movement.com"
+
+#: Controller/SupportersController.php:166;171
+msgid "Please verify you are a real person by clicking the button above"
+msgstr "Παρακαλούμε επαληθεύστε ότι είστε πραγματικό πρόσωπο πατώντας στο κουμπί από πάνω"
+
+#: Controller/SupportersController.php:176
+msgid "Invalid movement_id"
+msgstr "Μη έγκυρη ταυτότητα κινήματος"
+
+#: Controller/SupportersController.php:181
+msgid "You must be logged in to perform this action"
+msgstr "Πρέπει να είστε συνδεδεμένος για να κάνετε αυτή την ενέργεια"
+
+#: Controller/TasksController.php:90;156
+msgid "Movement has not yet reached the design phase"
+msgstr "Το κίνημα δεν έχει φτάσει ακόμα στη φάση του σχεδιασμού"
+
+#: Controller/UsersController.php:66
+msgid "You have created an account"
+msgstr "Έχετε δημιουργήσει έναν λογαριασμό"
+
+#: Controller/UsersController.php:190
+msgid "You have logged in"
+msgstr "Έχετε συνδεθεί"
+
+#: Controller/UsersController.php:199;203
+msgid "Your username or password was incorrect."
+msgstr "Το όνομα χρήστη ή ο κωδικός σας δεν είναι σωστοί"
+
+#: Controller/UsersController.php:238
+msgid "Reset Your App Movement Password"
+msgstr "Επαναφέρετε τον κωδικό του App Movement"
+
+#: Controller/UsersController.php:242
+msgid "A reset link will be emailed to you."
+msgstr "Ένας σύνδεσμος επαναφοράς θα σας σταλεί με email"
+
+#: Controller/UsersController.php:247
+msgid "The reset email could not be sent"
+msgstr "Το email επαναφοράς δεν μπορεί να σταλεί"
+
+#: Controller/UsersController.php:252
+msgid "An account does not exist with the given email address"
+msgstr "Δεν υπάρχει λογαριασμός με την συγκεκριμένη διεύθυνση email"
+
+#: Controller/UsersController.php:286
+msgid "Your password has been updated"
+msgstr "Ο κωδικός σας ενημερώθηκε"
+
+#: Controller/UsersController.php:301;306
+msgid "Password could not be updated"
+msgstr "Ο κωδικός δεν μπόρεσε να ενημερωθεί"
+
+#: Controller/UsersController.php:464
+msgid "Your profile was updated"
+msgstr "Το προφίλ σας ενημερώθηκε"
+
+#: Controller/UsersController.php:472;478
+msgid "Your profile was not updated"
+msgstr "Το προφίλ σας δεν ενημερώθηκε"
+
+#: Controller/VotesController.php:28
+msgid "You cannot vote on your own contribution"
+msgstr "Δεν μπορείτε να ψηφίσετε τη δική σας συνεισφορά"
+
+#: Controller/VotesController.php:36
+msgid "You cannot vote more than once"
+msgstr "Δεν μπορείτε να ψηφίσετε παραπάνω από μία φορά"
+
+#: Controller/VotesController.php:79
+msgid "You must be logged in to vote"
+msgstr "πρέπει να είστε συνδεδεμένοι για να ψηφίσετε"
+
+#: Controller/Templates/AuthController.php:133
+msgid "Please provide username"
+msgstr "Παρακαλούμε δώστε όνομα χρήστη"
+
+#: Controller/Templates/AuthController.php:134;280;379
+msgid "Please provide email"
+msgstr "Παρακαλούμε δώστε email"
+
+#: Controller/Templates/AuthController.php:135;281
+msgid "Please provide password"
+msgstr "Παρακαλούμε δώστε κωδικό"
+
+#: Controller/Templates/AuthController.php:149
+msgid ""
+"Email address already registered. Please sign in with your App Movement "
+"account if you have one."
+msgstr "Η διεύθυνση email είναι ήδη εγγεγραμμένη. Παρακαλούμε συνδεθείτε με τον λογαριασμό σας App Movement αν έχετε"
+
+#: Controller/Templates/AuthController.php:150
+msgid ""
+"Username has been taken. Please sign in with your App Movement account if "
+"you have one."
+msgstr "Το όνομα χρήστη χρησιμοποιείται. Παρακαλούμε συνδεθείτε με τον λογαριασμό σας App Movement αν έχετε"
+
+#: Controller/Templates/AuthController.php:151
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση email"
+
+#: Controller/Templates/AuthController.php:176
+msgid "Account could not be created"
+msgstr "Ο λογαριασμός δεν μπόρεσε να δημιουργηθεί"
+
+#: Controller/Templates/AuthController.php:289
+msgid "Authentication Failed"
+msgstr "Η πιστοποίηση απέτυχε"
+
+#: Controller/Templates/AuthController.php:380
+msgid "Please provide an app name"
+msgstr "Παρακαλούμε δώστε ένα όνομα εφαρμογής"
+
+#: Controller/Templates/AuthController.php:393
+msgid "User not found"
+msgstr "Ο χρήστης δεν βρέθηκε"
+
+#: Controller/Templates/AuthController.php:413
+msgid "Email failed to send"
+msgstr "Το email απέτυχε να σταλεί"
+
+#: Controller/Templates/AuthController.php:564
+#: Controller/Templates/GeolocationController.php:490;658;868;1061;1175;1278;1404;1565;1692
+msgid "Please provide user_id"
+msgstr "Παρακαλούμε δώστε ταυτότητα χρήστη"
+
+#: Controller/Templates/AuthController.php:590
+msgid "Incorrect identifier specified"
+msgstr "Εντοπίστηκε λάθος αναγνωριστικό"
+
+#: Controller/Templates/AuthController.php:795
+msgid "API key required"
+msgstr "Χρειάζεται API key"
+
+#: Controller/Templates/AuthController.php:808
+msgid "Please provide content_id"
+msgstr "Παρακαλούμε δώστε ταυτότητα περιεχομένου"
+
+#: Controller/Templates/AuthController.php:809
+msgid "Please provide app_identifier"
+msgstr "Παρακαλούμε δώστε αναγνωριστικό εφαρμογής"
+
+#: Controller/Templates/AuthController.php:810
+msgid "Please provide share_type"
+msgstr "Παρακαλούμε δώστε τύπο διαμοιρασμού"
+
+#: Controller/Templates/AuthController.php:820
+msgid "Please provide valid app_identifier"
+msgstr "Παρακαλούμε δώστε έγκυρο αναγνωριστικό εφαρμογής"
+
+#: Controller/Templates/AuthController.php:828
+msgid "Please provide a valid share_type"
+msgstr "Παρακαλούμε δώστε έγκυρο τύπο διαμοιρασμού"
+
+#: Controller/Templates/GeolocationController.php:258;1063
+msgid "Please provide latitude"
+msgstr "Παρακαλούμε δώστε γεωγραφικό πλάτος"
+
+#: Controller/Templates/GeolocationController.php:259;1064
+msgid "Please provide longitude"
+msgstr "Παρακαλούμε δώστε γεωγραφικό μήκος"
+
+#: Controller/Templates/GeolocationController.php:491;659;869;1176;1279;1455;1566
+msgid "Please provide venue_id"
+msgstr "Παρακαλούμε δώστε ταυτότητα τόπου"
+
+#: Controller/Templates/GeolocationController.php:503;667
+msgid "No venue found"
+msgstr "Δεν βρέθηκε τόπος"
+
+#: Controller/Templates/GeolocationController.php:870
+msgid "Please provide q1"
+msgstr "Παρακαλούμε δώστε ερ 1"
+
+#: Controller/Templates/GeolocationController.php:871
+msgid "Please provide q2"
+msgstr "Παρακαλούμε δώστε ερ 2"
+
+#: Controller/Templates/GeolocationController.php:872
+msgid "Please provide q3"
+msgstr "Παρακαλούμε δώστε ερ 3"
+
+#: Controller/Templates/GeolocationController.php:873
+msgid "Please provide q4"
+msgstr "Παρακαλούμε δώστε ερ 4"
+
+#: Controller/Templates/GeolocationController.php:874
+msgid "Please provide review_text"
+msgstr "Παρακαλούμε δώστε κείμενο για την αξιολόγηση"
+
+#: Controller/Templates/GeolocationController.php:894
+msgid "Failed to submit review"
+msgstr "Αποτυχία υποβολής αξιολόγησης"
+
+#: Controller/Templates/GeolocationController.php:1062
+msgid "Please provide venue name"
+msgstr "Παρακαλούμε δώστε όνομα μέρους"
+
+#: Controller/Templates/GeolocationController.php:1076
+msgid "Failed to add venue"
+msgstr "Αποτυχία προσθήκης μέρους"
+
+#: Controller/Templates/GeolocationController.php:1177;1280;1456;1567
+msgid "Please provide review_id"
+msgstr "Παρακαλούμε δώστε ταυτότητα αξιολόγησης"
+
+#: Controller/Templates/GeolocationController.php:1178
+msgid "Please provide receiver_id"
+msgstr "Παρακαλούμε δώστε ταυτότητα δέκτη"
+
+#: Controller/Templates/GeolocationController.php:1199
+msgid "Failed to like review"
+msgstr "Αποτυχία επιλογής της αξιολόγησης"
+
+#: Controller/Templates/GeolocationController.php:1417
+msgid "Please provide report_type and content_id"
+msgstr "Παρακαλούμε δώστε τύπο αναφοράς και ταυτότητα περιεχομένου"
+
+#: Controller/Templates/GeolocationController.php:1451
+msgid "Content not found"
+msgstr "Περιεχόμενο δε βρέθηκε"
+
+#: Controller/Templates/GeolocationController.php:1489
+msgid "Failed to report review"
+msgstr "Αποτυχία αναφοράς της αξιολόγησης"
+
+#: Controller/Templates/GeolocationController.php:1693
+msgid "Please provide profile_id"
+msgstr "Παρακαλούμε δώστε ταυτότητα προφίλ"
+
+#: Controller/Templates/GeolocationController.php:1744
+msgid "No user found"
+msgstr "Δε βρέθηκε χρήστης"
+
+#: View/Elements/app_tile.ctp:13
+msgid "Available"
+msgstr "Διαθέσιμο"
+
+#: View/Elements/app_tile.ctp:15
+msgid "Coming Soon"
+msgstr "Σύντομα κοντά σας"
+
+#: View/Elements/discussion.ctp:21
+msgid "Discussion"
+msgstr "Συζήτηση"
+
+#: View/Elements/discussion.ctp:35 View/Elements/Comments/comment.ctp:56
+msgid "Your comment"
+msgstr "Το δικό σας σχόλιο"
+
+#: View/Elements/discussion.ctp:36
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: View/Elements/discussion.ctp:43
+msgid "Order by date"
+msgstr "Διάταξη κατά ημερομηνία"
+
+#: View/Elements/footer.ctp:24 View/Pages/contact.ctp:9
+#: View/Pages/press.ctp:81
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: View/Elements/footer.ctp:27
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις"
+
+#: View/Elements/footer.ctp:30 View/Mobile/terms.ctp:10
+msgid "Terms"
+msgstr "Όροι"
+
+#: View/Elements/footer.ctp:33
+msgid "Privacy"
+msgstr "Ιδιωτικότητα"
+
+#: View/Elements/footer.ctp:36
+msgid "Press"
+msgstr "Τύπος"
+
+#: View/Elements/movement_tile.ctp:13;75 View/Movements/view.ctp:78;81
+msgid "SUPPORTED"
+msgstr "Υποστήριξη"
+
+#: View/Elements/movement_tile.ctp:26
+msgid "by"
+msgstr "από"
+
+#: View/Elements/movement_tile.ctp:50 View/Elements/Movements/sidebar.ctp:150
+msgid "Under Review"
+msgstr "Υπό αξιολόγηση"
+
+#: View/Elements/movement_tile.ctp:58
+msgid "Unsuccessful"
+msgstr "Αποτυχία"
+
+#: View/Elements/movement_tile.ctp:74
+msgid "%"
+msgstr "Ποσοστό"
+
+#: View/Elements/movement_tile.ctp:79
+msgid "DAY TO GO"
+msgstr "Μία εναπομένουσα μέρα"
+
+#: View/Elements/movement_tile.ctp:79
+msgid "DAYS TO GO"
+msgstr "Εναπομένουσες μέρες"
+
+#: View/Elements/movement_tile.ctp:88 View/Elements/LTR/phasebar.ctp:41
+#: View/Elements/RTL/phasebar.ctp:41 View/Movements/overview.ctp:22
+msgid "Design"
+msgstr "Σχέδιο"
+
+#: View/Elements/movement_tile.ctp:96 View/Elements/LTR/phasebar.ctp:46
+#: View/Elements/RTL/phasebar.ctp:36 View/Movements/overview.ctp:23
+msgid "Launch"
+msgstr "Ξεκίνημα"
+
+#: View/Elements/movement_tile.ctp:104
+#: View/Elements/Modals/download_modal.ctp:12
+msgid "Download"
+msgstr "Λήψη"
+
+#: View/Elements/navigation.ctp:16;21
+msgid "Start"
+msgstr "Εκκίνηση"
+
+#: View/Elements/navigation.ctp:17;22 View/Previews/colour.ctp:41
+#: View/Previews/geolocation_map.ctp:96 View/Previews/geolocation_venue.ctp:41
+msgid "Discover"
+msgstr "Ανακαλύπτω"
+
+#: View/Elements/navigation.ctp:18;23 View/Mobile/about.ctp:10
+msgid "About"
+msgstr "Σχετικά"
+
+#: View/Elements/navigation.ctp:24 View/Elements/Modals/auth_modal.ctp:33;94
+#: View/Users/login.ctp:10;30
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: View/Elements/navigation.ctp:25 View/Elements/Modals/auth_modal.ctp:32
+#: View/Users/register.ctp:44
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: View/Elements/navigation.ctp:26 View/Elements/Modals/auth_modal.ctp:64
+msgid "Create Account"
+msgstr "Δημιουργία λογαριασμού"
+
+#: View/Elements/process_row.ctp:12
+msgid ""
+"Choose one of the app templates and start your movement. Gain support for "
+"your movement by sharing it with friends."
+msgstr "Επιλέξτε ένα από τα πρότυπα εφαρμογών και ξεκινήστε το κίνημά σας. Κερδίστε υποστήριξη για το κίνημά σας με το να το μοιραστείτε με φίλους"
+
+#: View/Elements/process_row.ctp:19
+msgid "Design Together"
+msgstr "Σχεδιάστε μαζί"
+
+#: View/Elements/process_row.ctp:20
+msgid ""
+"The supporters of your movement work together to design the app by "
+"submitting and voting on ideas."
+msgstr "Οι υποστηρικτές του κινήματός σας συνεργάζονται για να σχεδιάσουν την εφαρμογή υποβάλλοντας και ψηφίζοντας ιδέες"
+
+#: View/Elements/process_row.ctp:27
+msgid "Generate Application"
+msgstr "Δημιουργία εφαρμογής"
+
+#: View/Elements/process_row.ctp:28
+msgid ""
+"You app is automatically generated based on the results of the design "
+"process and it is released in the app store."
+msgstr "Η εφαρμογής σας δημιουργείται αυτόματα βάσει των αποτελεσμάτων της διαδικασίας σχεδιασμού και κυκλοφορεί στο app store"
+
+#: View/Elements/Banners/video_banner.ctp:3;5
+msgid "Watch the introduction video"
+msgstr "Δείτε το εισαγωγικό βίντεο"
+
+#: View/Elements/Comments/comment.ctp:44;57
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: View/Elements/Contributions/colour.ctp:15;44
+#: View/Elements/Tasks/colour.ctp:56
+msgid "Primary Colour"
+msgstr "Πρωταρχικό χρώμα"
+
+#: View/Elements/Contributions/colour.ctp:16;45
+#: View/Elements/Tasks/colour.ctp:66
+msgid "Pin Colour"
+msgstr "Χρώμα πινέζας"
+
+#: View/Elements/Contributions/colour.ctp:17;46
+#: View/Elements/Tasks/colour.ctp:76
+msgid "Star Colour"
+msgstr "Χρώμα αστεριού"
+
+#: View/Elements/Contributions/colour.ctp:18;47
+msgid "Preview"
+msgstr "προεπισκόπηση"
+
+#: View/Elements/Contributions/location.ctp:50
+msgid "Open at User's Location"
+msgstr "Άνοιγμα στην τοποθεσία του χρήστη"
+
+#: View/Elements/LTR/phasebar.ctp:36 View/Elements/RTL/phasebar.ctp:46
+#: View/Movements/overview.ctp:21
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: View/Elements/LTR/phasebar.ctp:58 View/Elements/RTL/phasebar.ctp:58
+msgid "Help %s by supporting this movement."
+msgstr "Βοηθείστε με το να υποστηρίξετε αυτό το κίνημα"
+
+#: View/Elements/LTR/phasebar.ctp:66 View/Elements/RTL/phasebar.ctp:66
+msgid "Work with %s and other supporters to design the app."
+msgstr "Δουλέψτε με τον.. και άλλους υποστηρικτές ώστε να σχεδιάσετε την εφαρμογή"
+
+#: View/Elements/LTR/phasebar.ctp:73 View/Elements/RTL/phasebar.ctp:73
+msgid "Download the app from the App Store for free!"
+msgstr "Κατεβάστε την εφαρμογή από το App store δωρεάν"
+
+#: View/Elements/Languages/js.ctp:4
+msgid "Support %s's app idea - %s"
+msgstr "Υποστηρίξτε την ιδέα του.."
+
+#: View/Elements/Languages/js.ctp:5
+msgid ""
+"Hey there! \n"
+"\n"
+"I’ve found an awesome App Movement that I think you should be a part of. \n"
+"\n"
+"Click the link to find out more about this idea, \n"
+"\n"
+"%s - http://apmv.co/%s\n"
+"\n"
+"Let's start the movement!"
+msgstr "Ας ξεκινήσουμε το κίνημα"
+
+#: View/Elements/Languages/js.ctp:8
+msgid "Delete contribution?"
+msgstr "Διαγραφή συνεισφοράς;"
+
+#: View/Elements/Languages/js.ctp:11
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+#: View/Elements/Languages/js.ctp:12
+#: View/Elements/Modals/contribution_flag_modal.ctp:20
+#: View/Elements/Modals/feedback_modal.ctp:21
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: View/Elements/Languages/js.ctp:15
+#: View/Elements/Movements/action_button.ctp:11;17
+msgid "Supported"
+msgstr "Υποστήριξη"
+
+#: View/Elements/Modals/auth_modal.ctp:24
+#: View/Elements/Modals/download_modal.ctp:9
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: View/Elements/Modals/auth_modal.ctp:45 View/Users/edit.ctp:23
+#: View/Users/register.ctp:23
+msgid "Your Name"
+msgstr "Το όνομα σας"
+
+#: View/Elements/Modals/auth_modal.ctp:45 View/Users/register.ctp:23
+msgid "Full Name"
+msgstr "Πλήρες όνομα"
+
+#: View/Elements/Modals/auth_modal.ctp:49
+#: View/Elements/Modals/feedback_modal.ctp:14 View/Users/edit.ctp:31
+#: View/Users/register.ctp:31
+msgid "Email Address"
+msgstr "email"
+
+#: View/Elements/Modals/auth_modal.ctp:53;83 View/Users/edit.ctp:35
+#: View/Users/login.ctp:26 View/Users/register.ctp:35
+msgid "Password"
+msgstr "Κωδικός"
+
+#: View/Elements/Modals/auth_modal.ctp:57
+msgid "By creating an account means you agree to our %s and %s"
+msgstr "Δημιουργώντας λογαριασμό συμφωνείτε με τους.. και τους... "
+
+#: View/Elements/Modals/auth_modal.ctp:79 View/Users/login.ctp:24
+msgid "Username / Email"
+msgstr "Όνομα χρήστη/email"
+
+#: View/Elements/Modals/auth_modal.ctp:79 View/Users/display_users.ctp:35
+#: View/Users/edit.ctp:27 View/Users/login.ctp:24 View/Users/register.ctp:27
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: View/Elements/Modals/auth_modal.ctp:87
+msgid "Forgotten your password? %s to reset it."
+msgstr "Ξεχάσατε τον κωδικό σας; ... για να τον επαναφέρετε"
+
+#: View/Elements/Modals/auth_modal.ctp:87
+#: View/Emails/html/build_phase_complete.ctp:76
+#: View/Emails/html/created_movement.ctp:54
+#: View/Emails/html/design_phase_complete.ctp:51
+#: View/Emails/html/invite_user_to_movement.ctp:60
+#: View/Emails/html/movement_failed.ctp:55
+#: View/Emails/html/movement_update.ctp:55 View/Emails/html/reset.ctp:47
+#: View/Emails/html/support_phase_complete.ctp:56
+#: View/Emails/html/supported_movement.ctp:52
+#: View/Layouts/Emails/html/grouped_notification.ctp:59
+msgid "Click here"
+msgstr "Πατήστε εδώ"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:8
+msgid "Report Contribution"
+msgstr "Αναφορά συνεισφοράς"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:10
+msgid ""
+"Check the option below and click submit if you think this contribution is:"
+msgstr "Επιλέξτε την επιλογή από κάτω και πατήστε υποβολή αν θεωρείτε ότι αυτή η συνεισφορά είναι:"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:12
+msgid "Abusive / Offensive"
+msgstr "υβριστική/ προσβλητική"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:13
+msgid "Copyright Infringement"
+msgstr "Παραβιάζει τα πνευματικά δικαιώματα"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:14
+msgid "Spam"
+msgstr "Ανεπιθύμητη"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:16
+msgid "Please select an option above"
+msgstr "παρακαλούμε διαλέξτε μια επιλογή από τις παραπάνω"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:19
+#: View/Elements/Modals/feedback_modal.ctp:22
+#: View/Elements/Tasks/colour.ctp:93
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: View/Elements/Modals/download_modal.ctp:14
+msgid ""
+"This app has been successfully supported and designed by the community and "
+"is now available on the app stores."
+msgstr "Η εφαρμογή έχει επιτυχώς υποστηριχτεί και σχεδιαστεί από την κοινότητα και είναι τώρα διαθέσιμη στα διαδικτυακά καταστήματα εφαρμογών"
+
+#: View/Elements/Modals/download_modal.ctp:16
+msgid "Please click one of the buttons below to download this app for free."
+msgstr "Παρακαλώ πατήστε ένα από τα πλήκτρα από κάτω για το κατέβασμα της εφαρμογής δωρεάν"
+
+#: View/Elements/Modals/feedback_modal.ctp:9
+msgid "Submit Feedback"
+msgstr "Υποβολή σχολίων"
+
+#: View/Elements/Modals/feedback_modal.ctp:11
+msgid ""
+"Got some feedback for us? Is something not working? We’d love to hear your "
+"suggestions. Please leave us a message in the box below."
+msgstr "Έχετε κάποια σχόλια για εμάς; Είναι κάτι που δεν λειτουργεί; θα θέλαμε πολύ να ακούσουμε τις προτάσεις σας. Παρακαλούμε αφήστε μας μήνυμα στη φόρμα από κάτω"
+
+#: View/Elements/Modals/feedback_modal.ctp:17
+msgid "Enter your comment here"
+msgstr "Εισάγετε το σχόλιο σας εδώ"
+
+#: View/Elements/Modals/promote_modal.ctp:10
+msgid "Start promoting this movement"
+msgstr "Ξεκίνηστε να προωθείτε αυτό το κίνημα"
+
+#: View/Elements/Modals/promote_modal.ctp:12
+msgid ""
+"Share the link below anywhere you like to start promoting this app movement "
+"and earning influence for the design phase!"
+msgstr "Μοιραστείτε τον παρακάτω σύνδεσμο οπουδήποτε θα θέλατε ώστε να αρχίσετε να προωθείτε αυτό το app movement και κερδίστε επιρροή για τη φάση του σχεδιασμού"
+
+#: View/Elements/Modals/promote_modal.ctp:27 View/Movements/start.ctp:355;375
+msgid "Done"
+msgstr "Done"
+
+#: View/Elements/Modals/support_modal.ctp:9;36
+msgid "Confirm Support"
+msgstr "Επιβεβαιώστε την υποστήριξη"
+
+#: View/Elements/Modals/support_modal.ctp:10
+msgid ""
+"Supporting %s's idea simply involves clicking the support button below. You "
+"can also help design the app after the movement reaches its target."
+msgstr "Το να υποστηρίξετε την ιδέα του.. περιλαμβάνει απλά να πατήσετε το κουμπί Υποστηρίζω παρακάτω. Μπορείτε επίσης να βοηθήσετε στο σχεδιασμό της εφαρμογής αφού το κίνημα φτάσει στον στόχο του"
+
+#: View/Elements/Modals/support_modal.ctp:14
+msgid "Stay up to date"
+msgstr "Μείνετε ενημερωμένοι"
+
+#: View/Elements/Modals/support_modal.ctp:15
+msgid "Receive email notifications with progress updates."
+msgstr "Λήψη ειδοποιήσεων μέσω email με ενημερώσεις σχετικά με την πρόοδο"
+
+#: View/Elements/Modals/support_modal.ctp:19
+msgid "Get access to the design area"
+msgstr "Αποκτήστε πρόσβαση στον χώρο σχεδιασμού"
+
+#: View/Elements/Modals/support_modal.ctp:20
+msgid "Submit ideas and vote on other people's suggestions."
+msgstr "Υποβάλετε ιδέες και ψηφίστε προτάσεις άλλων"
+
+#: View/Elements/Modals/support_modal.ctp:24
+msgid "Download the app for free"
+msgstr "Κατεβάστε την εφαρμογή δωρεάν"
+
+#: View/Elements/Modals/support_modal.ctp:25
+msgid "Once it has been designed by the community and generated by us."
+msgstr "Μόλις σχεδιαστεί από την κοινότητα και δημιουργηθεί από εμάς"
+
+#: View/Elements/Movements/action_button.ctp:15;34;61;68
+msgid "Support Idea"
+msgstr "Υποστηρίξτε την ιδέα"
+
+#: View/Elements/Movements/action_button.ctp:28;36
+msgid "Help Design"
+msgstr "Βοηθείστε στο σχεδιασμό"
+
+#: View/Elements/Movements/action_button.ctp:45;76
+msgid "View Progress"
+msgstr "Δείτε την πρόοδο"
+
+#: View/Elements/Movements/action_button.ctp:52;83
+#: View/Movements/launch.ctp:70
+msgid "Download App"
+msgstr "κατεβάστε την εφαρμογή"
+
+#: View/Elements/Movements/notification_banner.ctp:27
+msgid "Movement was unsuccessful"
+msgstr "Κίνημα ανεπιτυχέςς"
+
+#: View/Elements/Movements/sidebar.ctp:12
+msgid "Movement Creator"
+msgstr "Δημιουργός κινήματος"
+
+#: View/Elements/Movements/sidebar.ctp:20
+msgid "Supporters"
+msgstr "Υποστηρικτές"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporter"
+msgstr "υποστηρικτής"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporters"
+msgstr "υποστηρικτές"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "day to go"
+msgstr "μέρα απομένει"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "days to go"
+msgstr "μέρες απομένουν"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "day launching"
+msgstr "μέρα για το λανσάρισμα"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "days launching"
+msgstr "μέρες για το λανσάρισμα"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "person shared"
+msgstr "άτομο μοιράστηκε"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "people shared"
+msgstr "άτομα μοιράστηκαν"
+
+#: View/Elements/Movements/sidebar.ctp:114
+msgid "This Movement has been fully supported!"
+msgstr "Αυτό το κίνημα έχει πλήρως υποστηριχθεί"
+
+#: View/Elements/Movements/sidebar.ctp:122
+msgid "more supporters to hit the target."
+msgstr "περισσότεροι υποστηρικτές για να επιτευχθεί ο στόχος"
+
+#: View/Elements/Movements/sidebar.ctp:134
+msgid "Movements with 5 or more supporters cannot be edited."
+msgstr "Κινήματα με 5 ή περισσότερους υποστηρικτές δεν μπορούν να αλλάξουν"
+
+#: View/Elements/Movements/sidebar.ctp:144
+msgid ""
+"This movement did not gather enough support to progress to the design phase."
+msgstr "Αυτό το κίνημα δεν συγκέντρωσε αρκετή υποστήριξη ώστε να προχωρήσει στη φάση του σχεδιασμού"
+
+#: View/Elements/Movements/sidebar.ctp:153 View/Movements/view.ctp:153
+msgid "Post Update"
+msgstr "ανάρτηση ενημέρωσης"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:13
+#: View/Elements/Stream/build_phase_complete.ctp:10
+msgid "Congratulations! Your App is Now Available!"
+msgstr ""Συγχαρητήρια! Η εφαρμογή σας είναι διαθέσιμη
+
+#: View/Elements/Notifications/build_phase_complete.ctp:15
+msgid ""
+"%s has now been fully designed by the %s supporting members of the community "
+"and has been generated! Click below to download the app."
+msgstr "...έχει τώρα πλήρως σχεδιαστεί από τα...υποστηρικτικά μέλη της κοινότητας και έχει δημιουργθεί. Πατήστε παρακάτω για να κατεβάσετε την εφαρμογή"
+
+#: View/Elements/Notifications/created_movement.ctp:11
+#: View/Elements/Stream/created_movement.ctp:11
+msgid "You started a Movement"
+msgstr "Ξεκινήσατε ένα κίνημα"
+
+#: View/Elements/Notifications/created_movement.ctp:13
+msgid ""
+"You have successfully created your movement - %s - and it is now visible to "
+"the public. It is now up to you to gather <strong>%s people</strong> in the "
+"next <strong>%s days.</strong>"
+msgstr "Έχετε επιτυχώς δημιουργήσει το κίνημά σας-...- και είναι τώρα ορατό στο κοινό. Εξαρτάται τώρα από εσάς να συγκεντρώσετε ανθρώπους στις επόμενες μέρες"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:8
+#: View/Elements/Stream/design_phase_complete.ctp:8
+#: View/Emails/html/design_phase_complete.ctp:21 View/Tasks/landing.ctp:38
+#: View/Tasks/view.ctp:43
+msgid "Design Phase Complete"
+msgstr "Η φάση του σχεδιασμού ολοκληρώθηκε"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:10
+msgid "%s has now completed the design phase."
+msgstr "...ολοκλήρωσε τη φάση του σχεδιασμού"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:12
+#: View/Emails/html/design_phase_complete.ctp:34
+msgid ""
+"The next stage for your Movement is the launch phase where we will generate "
+"your app based on the results from the design process. We will submit it to "
+"the app store and notify you and other supporters when it is ready to "
+"download. You can track the progress of the app through the various stages "
+"of its launch by clicking the link below."
+msgstr "Το επόμενο στάδιο για το κίνημά σας είναι η φάση λανσαρίσματος οπότε και θα δημιουργήσουμε την εφαρμογή σας βασιζόμενοι στα αποτελέσματα από τη διαδικασία σχεδιασμού. Θα την υποβάλουμε στο app store και θα ειδοποιήσουμε εσάς και τους άλλους υποστηρικτές πότε είναι έτοιμο για λήψη. Μπορείτε να παρακολουθείτε την πρόοδο της εφαρμογής στα διάφορα στάδια λανσαρίσματος πατώντας τον σύνδεσμο παρακάτω."
+
+#: View/Elements/Notifications/movement_failed.ctp:13
+msgid "Movement was Unsuccessful"
+msgstr "Το κίνημα ήταν ανεπιτυχές"
+
+#: View/Elements/Notifications/movement_failed.ctp:15
+msgid ""
+"<strong>%s people</strong> supported the idea of creating an app for %s. "
+"Unfortunately this time you missed our target of %s and will not be taken "
+"forward into the design phase."
+msgstr "<strong>... άτομα</strong> υποστήριξαν την ιδέα δημιουργίας μιας εφαρμογής για τον.... Δυστυχώς αυτήν την φορά χάθηκε ο στόχος του... και δεν θα προχωρήσει στη φάση του σχεδιασμού"
+
+#: View/Elements/Notifications/movement_update.ctp:13
+#: View/Elements/Notifications/new_promoters.ctp:12
+#: View/Elements/Notifications/new_supporters.ctp:12
+#: View/Elements/Stream/new_promoters.ctp:12
+#: View/Elements/Stream/new_supporters.ctp:12
+msgid "%s days"
+msgstr "...μέρες"
+
+#: View/Elements/Notifications/movement_update.ctp:15
+#: View/Emails/html/movement_update.ctp:24;38
+msgid "%s has posted an update"
+msgstr "... δημοσίευσε μια ενημέρωση"
+
+#: View/Elements/Notifications/new_promoters.ctp:14
+msgid " Shared Movement"
+msgstr "Διαμοιρασμός κινήματος"
+
+#: View/Elements/Notifications/new_supporters.ctp:14
+msgid " New Supporters"
+msgstr "Νέοι υποστηρικτές"
+
+#: View/Elements/Notifications/no_activity.ctp:11
+#: View/Elements/Stream/no_activity.ctp:11
+msgid "Keep Sharing!"
+msgstr "Συνεχίστε να το μοιράζεστε"
+
+#: View/Elements/Notifications/no_activity.ctp:13
+#: View/Elements/Stream/no_activity.ctp:13
+msgid ""
+"It is really important that you continue to share this Movement in order to "
+"reach the goal of %s supporters!"
+msgstr "Είναι σημαντικό να συνεχίσετε να μοιράζεστε τη δράση αυτή για να φτάσετε το στόχο
+των % υποστηρικτών"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:9
+#: View/Elements/Stream/support_phase_complete.ctp:9
+msgid "Movement Supported"
+msgstr "Η δράση υποστηρίκτηκε"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:11
+#: View/Elements/Stream/support_phase_complete.ctp:11
+msgid ""
+"Congratulaions! %s has gathered over <strong>%s supporters.</strong> You can "
+"now access the <strong>design phase</strong> where you can contribute and "
+"vote on ideas. Click below to get started."
+msgstr "Συγχαρητήρια! Το % έχει περισσότερους από <strong>% υποστηρικτές. </strong>
+Τώρα μπορείς να έχεις πρόσβαση <strong>  στη φάση σχεδιασμού </strong> που μπορείς να συνεισφέρεις
+και να υποστηρίξεις ιδέες. Κάνε κλικ για να ξεκινήσεις."
+
+#: View/Elements/Notifications/support_phase_complete.ctp:14
+#: View/Elements/Stream/support_phase_complete.ctp:14
+msgid "View Design Phase"
+msgstr "Δείτε τη φάση σχεδιασμού"
+
+#: View/Elements/Notifications/supported_movement.ctp:11
+msgid "You supported a Movement"
+msgstr "Υποστήριξες ένα κίνημα"
+
+#: View/Elements/Notifications/supported_movement.ctp:13
+msgid ""
+"You have supported %s. It is now up to you to gather <strong>%s people</"
+"strong> in the next <strong>%s days</strong>."
+msgstr "Έχετε υποστηρίξει το %s. Είναι στο χέρι σας να συγκεντρώσετε <strong>% ατόμων
+</strong> στις επόμενες <strong>% ημέρες </strong>."
+
+#: View/Elements/Notifications/supported_movement.ctp:15
+#: View/Emails/html/created_movement.ctp:34
+#: View/Emails/html/movement_failed.ctp:35
+#: View/Emails/html/support_phase_complete.ctp:34
+msgid "What happens next?"
+msgstr "Τι συμβαίνει μετά;"
+
+#: View/Elements/Notifications/supported_movement.ctp:17
+msgid ""
+"You will <strong>receive updates</strong> about the progress of this "
+"movement via email. If the Movement is successful you will be exclusively "
+"invited to the design phase where you can help shape the design of the app."
+msgstr "Θα <strong>λαμβάνετε ενημερώσεις</strong> για την πρόοδο αυτού του κινήματος μέσω ηλεκτρονικού ταχυδρομείου. Αν το κίνημα είναι επιτυχημένο θα προσκληθείτε αποκλειστικά στην φάση του σχεδιασμού όπου θα μπορέσετε να σχηματίσετε το σχέδιο της εφαρμογής"
+
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "Take a look at our %s section for more"
+msgstr "κοιτάξτε τον ..τομέα για περισσότερα"
+
+#: View/Elements/Notifications/welcome.ctp:3
+#: View/Elements/Stream/welcome.ctp:3
+msgid "Welcome to App Movement"
+msgstr "Καλώς ήρθατε στο app movement"
+
+#: View/Elements/Notifications/welcome.ctp:5
+msgid ""
+"Welcome to your dashboard, from here you can manage your profile and receive "
+"updates on the movements you start as well as those that you show an "
+"interest in. Be sure to check back regularly to keep up to date."
+msgstr "Καλώς ήρθατε στον πίνακα ελέγχου σας, από εδώ μπορείτε να διαχειρίζεστε το προφίλ σας και να λαμβάνετε ενημερώσεις στα κινήματα που έχετε ξεκινήσει όπως επίσης και γι' αυτά για τα οποία έχετε δείξει ενδιαφέρον. Βεβαιωθείτε ότι τον ελέγχετε συχνά για να είστε ενημερωμένοι."
+
+#: View/Elements/Notifications/welcome.ctp:7
+#: View/Elements/Stream/welcome.ctp:7
+msgid "All the best, Our Team."
+msgstr "Σας ευχόμαστε τα καλύτερα, Η Ομάδα μας"
+
+#: View/Elements/PublishedApps/map.ctp:24
+msgid "View map fullscreen"
+msgstr "Δείτε τον χάρτη σε ολόκληρη τη σελίδα"
+
+#: View/Elements/PublishedApps/stats.ctp:16
+msgid "Registered Users"
+msgstr "Εγεγγραμμένοι χρήστες"
+
+#: View/Elements/PublishedApps/stats.ctp:23
+msgid "Added Venues"
+msgstr "Μέρη που έχουν προστεθεί"
+
+#: View/Elements/PublishedApps/stats.ctp:30
+msgid "Added Reviews"
+msgstr "Αξιολογήσεις που έχουν προστεθεί"
+
+#: View/Elements/Stream/build_phase_complete.ctp:12
+msgid ""
+"%s has now been fully designed by the supporting members of the community "
+"and has been generated! Click below to download the app."
+msgstr "...έχει πλήρως σχεδιαστεί από τα υποστηρικτικά μέλη της κοινότητας και έχει δημιουργηθεί! πατήστε παρακάτω για να λάβετε την εφαρμογή."
+
+#: View/Elements/Stream/build_phase_complete.ctp:15
+#: View/Elements/Stream/design_phase_complete.ctp:13
+msgid "View Launch Phase"
+msgstr "Φάση λανσαρίσματος"
+
+#: View/Elements/Stream/created_movement.ctp:13
+msgid ""
+"You have successfully created your movement - '%s' - and is now visible to "
+"the public. It is now up to you to gather <strong>%s people</strong> in the "
+"next <strong>%s days.</strong>"
+msgstr "Έχετε επιτυχώς δημιουργήσει το κίνημά σας - ... - και είναι τώρα ορατό στο κοινό. Εξαρτάται τώρα από εσάς να συγκεντρώσετε <strong>%s άτομα</strong> στις επόμενες <strong>%s μέρες</strong>"
+
+#: View/Elements/Stream/design_phase_complete.ctp:10
+msgid ""
+"%s has now completed the design phase. The next stage for your Movement is "
+"the launch phase where we will generate your app based on the results from "
+"the design process. We will submit it to the app store and notify you and "
+"other supporters when it is ready to download. You can track the progress of "
+"the app through the various stages of its launch by clicking the link below."
+msgstr "%s έχει τώρα ολοκληρώσει τη φάση του σχεδιασμού. Το επόμενο στάδιο για το κίνημά σας είναι η φάση λανσαρίσματος όπου θα δημιουργήσουμε την εφαρμογή σας βασισμένοι στα αποτελέσματα από τη φάση του σχεδιασμού. Θα την υποβάλουμε στο app store και θα ειδοποιήσουμε εσάς και τους άλλους υποστηρικτές όταν είναι έτοιμη για λήψη. Μπορείτε να παρακολουθείτε την εξέλιξη της εφαρμογής κατά τη διάρκεια των διαφόρων σταδίων λανσαρίσματος πατώντας στον σύνδεσμο παρακάτω"
+
+#: View/Elements/Stream/movement_failed.ctp:13
+msgid "Your Movement was unsuccessful"
+msgstr "Το κίνημά σας σας ήταν ανεπιτυχές"
+
+#: View/Elements/Stream/movement_failed.ctp:15
+msgid ""
+"<strong>%s people</strong> supported the idea of creating an app for %s. "
+"Unfortunately this time you missed our target of and will not be taken "
+"forward into the design phase."
+msgstr "<strong>%s άτομα</strong> υποστήριξαν την ιδέα δημιουργίας μιας εφαρμογής για τον %s. Δυστυχώς αυτή τη φορά δεν πέτυχε τον στόχο μας και δεν θα προχωρήσει στην φάση του σχεδιασμού"
+
+#: View/Elements/Stream/new_promoters.ctp:14
+msgid "%s</span> Shared Movement</span>"
+msgstr "Διαμοιρασμένο κίνημα"
+
+#: View/Elements/Stream/new_supporters.ctp:14
+msgid "%s</span> New Supporters</span>"
+msgstr "Νέοι υποστηρικτές"
+
+#: View/Elements/Stream/welcome.ctp:5
+msgid ""
+"Visit your dashboard to manage your profile and receive updates on the "
+"movements you start as well as those that you show an interest in. Be sure "
+"to check back regularly to keep up to date."
+msgstr "Επισκεφτείτε τον πίνακα ελέγχου σας για να διαχειριστείτε το προφίλ σας και να λαμβάνετε ενημερώσεις σχετικά με τα κινήματα που έχετε ξεκινήσει καθώς επίσης και γι' αυτά για τα οποία ενδιαφέρεστε. Βεβαιωθείτε ότι επιστρέφετε συχνά για να είστε ενημερωμένοι"
+
+#: View/Elements/Tasks/colour.ctp:47 View/Elements/Tasks/logo.ctp:26
+#: View/Elements/Tasks/name.ctp:29 View/Elements/Tasks/options.ctp:41
+msgid "Suggest %s"
+msgstr "Πρόταση %s"
+
+#: View/Elements/Tasks/logo.ctp:39 View/Elements/Tasks/name.ctp:43
+#: View/Elements/Tasks/options.ctp:61
+msgid "Submit Idea"
+msgstr "Υποβολή ιδέας"
+
+#: View/Elements/Tasks/marker.ctp:13
+msgid "Preview colour"
+msgstr "προεπισκόπηση χρώματος"
+
+#: View/Elements/Tasks/name.ctp:36 View/Elements/Tasks/options.ctp:51
+msgid "Enter %s"
+msgstr "Εισάγετε %"
+
+#: View/Elements/Updates/movement_update.ctp:58
+msgid "Update shared"
+msgstr "διαμοιρασμός ενημέρωσης"
+
+#: View/Emails/html/build_phase_complete.ctp:26
+msgid "%s is now available to download!"
+msgstr "%s είναι τώρα διαθέσιμη για λήψη!"
+
+#: View/Emails/html/build_phase_complete.ctp:30
+msgid ""
+"After gathering support and design input from %s people %s is now available "
+"to be downloaded from the app store."
+msgstr "Μετά από την συγκέντρωση υποστήριξης και σχολίων ως προς το σχεδιασμό από %s άτομα, η %s είναι τώρα διαθέσιμη για λήψη από το app store"
+
+#: View/Emails/html/build_phase_complete.ctp:38
+msgid "Congratulations, you have an app you can share with the world!"
+msgstr "Συγχαρητήρια, έχετε μία εφαρμογή που μπορείτε να την μοιραστείτε με τον κόσμο!"
+
+#: View/Emails/html/build_phase_complete.ctp:40
+msgid ""
+"<strong>Download the app now</strong> and start contributing your knowledge "
+"about the best places nearby, the success of the app depends on it. Your "
+"actions in these early days will make sure the app is successful, so it is "
+"very important that you add the best places nearby and leave reviews."
+msgstr "<strong> κατεβάστε την εφαρμογή τώρα </strong> και ξεκινήστε να συνεισφέρετε με την γνώση σας για τα καλύτερα μέρη τριγύρω, η επιτυχία της εφαρμογής εξαρτάται από αυτό. Οι ενέργειές σας σε αυτές τις αρχικές μέρες θα βεβαιώσουν ότι η εφαρμογή είναι επιτυχημένη οπότε και είναι πολύ σημαντικό να προσθέσετε τα καλύτερα μέρα τριγύρω και να αφήνετε αξιολογήσεις"
+
+#: View/Emails/html/build_phase_complete.ctp:43
+msgid ""
+"<strong>It's up to you to add places and leave reviews</strong> to encourage "
+"others to download the app and contribute to the community."
+msgstr "<strong> από εσάς εξαρτάται να προσθέτετε μέρη και να αφήνετε αξιολογήσεις</strong> ώστε να ενθαρρύνετε και άλλους να κατεβάσουν την εφαρμογή και να συνεισφέρουν στην κοινότητα"
+
+#: View/Emails/html/build_phase_complete.ctp:45
+msgid "Download your app by clicking below"
+msgstr "Κάντε κλικ κάτω και κατεβάστε την εφαρμογή"
+
+#: View/Emails/html/build_phase_complete.ctp:57
+msgid "Thank You!"
+msgstr "Σας ευχαριστούμε!"
+
+#: View/Emails/html/build_phase_complete.ctp:59
+msgid ""
+"Without you this app would never have been made so we would like to say "
+"thank you for contributing your time and efforts in supporting the idea, "
+"contributing your thoughts and sharing it with friends."
+msgstr "Χωρίς εσάς αυτή η εφαρμογή δεν θα τα είχε ποτέ καταφέρει οπότε θα θέλαμε να σας ευχαριστήσουμε για την συνεισφορά του χρόνου και των προσπαθειών σας στην υποστήριξη της ιδέας, συνεισφέροντας και μοιράζοντας τις σκέψεις σας με φίλους"
+
+#: View/Emails/html/build_phase_complete.ctp:62 View/Pages/contact.ctp:68
+msgid "App Movement Team"
+msgstr "Η ομάδα της εφαρμογής"
+
+#: View/Emails/html/build_phase_complete.ctp:68
+#: View/Emails/html/created_movement.ctp:46
+#: View/Emails/html/design_phase_complete.ctp:43
+#: View/Emails/html/invite_user_to_movement.ctp:52
+#: View/Emails/html/movement_failed.ctp:47
+#: View/Emails/html/movement_update.ctp:47 View/Emails/html/reset.ctp:39
+#: View/Emails/html/support_phase_complete.ctp:48
+#: View/Emails/html/supported_movement.ctp:44
+msgid "View this email in another language"
+msgstr "Δείτε αυτό το μήνυμα σε άλλη γλώσσα"
+
+#: View/Emails/html/build_phase_complete.ctp:72
+#: View/Emails/html/created_movement.ctp:50
+#: View/Emails/html/design_phase_complete.ctp:47
+#: View/Emails/html/invite_user_to_movement.ctp:56
+#: View/Emails/html/movement_failed.ctp:51
+#: View/Emails/html/movement_update.ctp:51 View/Emails/html/reset.ctp:43
+#: View/Emails/html/support_phase_complete.ctp:52
+#: View/Emails/html/supported_movement.ctp:48
+#: View/Layouts/Emails/html/grouped_notification.ctp:55
+msgid "Find out more at %s"
+msgstr "Βρείτε περισσότερα στο %s"
+
+#: View/Emails/html/build_phase_complete.ctp:76
+#: View/Emails/html/created_movement.ctp:54
+#: View/Emails/html/design_phase_complete.ctp:51
+#: View/Emails/html/invite_user_to_movement.ctp:60
+#: View/Emails/html/movement_failed.ctp:55
+#: View/Emails/html/movement_update.ctp:55 View/Emails/html/reset.ctp:47
+#: View/Emails/html/support_phase_complete.ctp:56
+#: View/Emails/html/supported_movement.ctp:52
+#: View/Layouts/Emails/html/grouped_notification.ctp:59
+msgid "%s to change your notification settings"
+msgstr "%s για να αλλάξετε τις ρυθμίσεις των ειδοποιήσεών σας"
+
+#: View/Emails/html/created_movement.ctp:22
+msgid "You Started a Movement"
+msgstr "Ξεκινήσατε ένα κίνημα"
+
+#: View/Emails/html/created_movement.ctp:26
+msgid "You have started a Movement for %s"
+msgstr "Έχετε ξεκινήσει ένα κίνημα για %"
+
+#: View/Emails/html/created_movement.ctp:36
+msgid ""
+"Your Movement is now in the support phase. This is a %s day period that "
+"gives you time to promote your idea to friends, family members and your "
+"community. In order for your Movement to be a success you need to reach a "
+"target of %s supporters. If you reach this target you will move into the "
+"design phase and your app will be built! Remeber it is vital that you share "
+"your idea with others."
+msgstr "Το κίνημά σας είναι τώρα στη φάση υποστήριξης. Είναι μία περίοδος %s ημερών που σας δίνει τον χρόνο να προωθήσετε την ιδέα σας στους φίλους, την οικογένεια και την κοινότητά σας. Για να είναι το κίνημά σας επιτυχημένο θα πρέπει να φτάσετε τον στόχο των %s υποστηρικτών. Αν φτάσετε τον στόχο θα περάσετε στην φάση του σχεδιασμού και η εφαρμογή σας θα δημιουργηθεί. Θυμηθείτε ότι είναι σημαντικό να μοιραστείτε την ιδέα σας με άλλους"
+
+#: View/Emails/html/created_movement.ctp:38
+#: View/Emails/html/design_phase_complete.ctp:38
+#: View/Emails/html/supported_movement.ctp:38
+msgid "Visit our %s for more information."
+msgstr "Επισκεφτείτε τα %s για περισσότερες πληροφορίες"
+
+#: View/Emails/html/created_movement.ctp:38
+#: View/Emails/html/design_phase_complete.ctp:38
+#: View/Emails/html/supported_movement.ctp:38 View/Pages/faq.ctp:9
+msgid "Frequently Asked Questions"
+msgstr "Συχνές ερωτήσεις"
+
+#: View/Emails/html/created_movement.ctp:40
+#: View/Emails/html/movement_update.ctp:42
+msgid "View Movement"
+msgstr "Δες κίνημα"
+
+#: View/Emails/html/design_phase_complete.ctp:25
+msgid "%s has now completed the Design Phase."
+msgstr "%s έχει τώρα ολοκληρώσει τη φάση σχεδιασμού"
+
+#: View/Emails/html/design_phase_complete.ctp:33
+#: View/Emails/html/supported_movement.ctp:32
+msgid "Next steps..."
+msgstr "Επόμενα βήματα"
+
+#: View/Emails/html/design_phase_complete.ctp:36
+msgid "View launch status"
+msgstr "Δείτε κατάσταση λανσαρίσματος"
+
+#: View/Emails/html/invite_user_to_movement.ctp:20
+msgid "Support Your Friend"
+msgstr "Υποστήριξε το φίλο σου"
+
+#: View/Emails/html/invite_user_to_movement.ctp:24
+msgid ""
+"Hey %s, your friend %s is trying to gain support for an idea for a new "
+"mobile app."
+msgstr "Γεια σου %s, ο φίλος σου προσπαθεί να κερδίσει υποστήριξη για μια ιδέα για μια καινούρια εφαρμογή για κινητά"
+
+#: View/Emails/html/invite_user_to_movement.ctp:34
+msgid ""
+"%s has chosen you amongst a handful of other people to support their "
+"Movement and help share their idea with others."
+msgstr "%s σας έχει επιλέξει ανάμεσα σε άλλους ανθρώπους για να υποστηρίξετε το κίνημά του και να βοηθήσετε να μοιραστεί την ιδέα του με άλλους"
+
+#: View/Emails/html/invite_user_to_movement.ctp:38
+msgid ""
+"You can help %s out by clicking the link below to support their Movement:"
+msgstr "Μπορείτε να βοηθήσετε τον %s πατώντας τον σύνδεσμο παρακάτω για να υποστηρίξετε το κινημά του"
+
+#: View/Emails/html/invite_user_to_movement.ctp:42
+msgid ""
+"If %s's idea gains enough support then yourself and other supporters will be "
+"able to help design the app. Pretty awesome eh?"
+msgstr "Αν η ιδέα του %s κερδίσει αρκετή υποστήριξη τότε εσείς και οι άλλοι υποστηρικτές θα μπορείτε να βοηθήσετε στον σχεδιασμό της εφαρμογής. Πολύ καλό, έτσι;"
+
+#: View/Emails/html/invite_user_to_movement.ctp:44
+msgid "Do you have a great idea for an app?"
+msgstr "Έχεις μια καλή ιδέα για εφαρμογή?"
+
+#: View/Emails/html/invite_user_to_movement.ctp:46 View/Pages/home.ctp:22
+msgid "Start your Movement"
+msgstr "Ξεκίνα το κίνημά σου"
+
+#: View/Emails/html/movement_failed.ctp:23
+msgid "Movement Unsuccessful"
+msgstr "Κίνημα ανεπιτυχές"
+
+#: View/Emails/html/movement_failed.ctp:27
+msgid "The movement for %s was unsuccessful."
+msgstr το κίνημα για % ήταν ανεπιτυχές""
+
+#: View/Emails/html/movement_failed.ctp:37
+msgid ""
+"You managed to gather <b>%s</b> people to support the idea of creating an "
+"app for %s. Unfortunately this time the movement missed our target of %s and "
+"will not be taken forward into the design phase."
+msgstr "Καταφέρατε να συγκεντρώσετε <b>%s</b> άτομα για να υποστηρίξετε την ιδέα του %s για τη δημιουργία μιας εφαρμογής. Δυστυχώς αυτή τη φορά το κίνημα έχασε τον στόχο των %s και δεν θα προχωρήσει στη φάση σχεδιασμού"
+
+#: View/Emails/html/movement_failed.ctp:39
+msgid ""
+"Got another idea? Why not start a new movement by clicking the link below?"
+msgstr "Έχετε άλλη ιδέα; Γιατί δεν ξεκινάτε ένα νέο κίνημα πατώντας τον σύνδεσμο παρακάτω;"
+
+#: View/Emails/html/movement_update.ctp:28
+msgid "You have received an update for your movement - %s"
+msgstr "Έχετε λάβει μια ενημέρωση για το κίνημά σας-%s"
+
+#: View/Emails/html/reset.ctp:18;33 View/Users/reset.ctp:10;35
+msgid "Reset Password"
+msgstr "Επαναφορά κωδικού"
+
+#: View/Emails/html/reset.ctp:22
+msgid "You have requested to reset your %s password"
+msgstr "Έχετε ζητήσει να επαναφέρετε τον % κωδικό σας."
+
+#: View/Emails/html/reset.ctp:31
+msgid ""
+"In order to reset your password please click the following link and follow "
+"the instructions."
+msgstr "Για να επαναφέρετε τον κωδικό σας παρακαλώ κάντε κλίκ παρακάτω και 
+ακολουθήστε τις οδηγίες"
+
+#: View/Emails/html/support_phase_complete.ctp:22
+msgid "Support Phase Complete"
+msgstr "Η φάση υποστήριξης έχει ολοκληρωθεί"
+
+#: View/Emails/html/support_phase_complete.ctp:26
+msgid ""
+"Over <strong>%s</strong> people have supported the idea of creating an app "
+"for %s"
+msgstr "Πάνω από <strong>%s</strong> άτομα έχουν υποστηρίξει την ιδέα της δημιουργίας μιας εφαρμογής για τον %s"
+
+#: View/Emails/html/support_phase_complete.ctp:36
+msgid ""
+"Your Movement will now move into the design phase. This is an area where "
+"yourself and other supporters complete a series of design tasks to help "
+"decide what the final app will be like."
+msgstr "Το κίνημά σας θα προχωρήσει τώρα στη φάση του σχεδιασμού. Αυτή είναι μία περιοχή όπου εσείς και οι άλλοι υποστηρικτές συμπληρώνετε μια σειρά από εργασίες σχεδιασμού ώστε να βοηθήσετε στην απόφαση για το πώς θα είναι η τελική εφαρμογή."
+
+#: View/Emails/html/support_phase_complete.ctp:38
+msgid ""
+"It is really import to engage with other supporters of the app to ensure the "
+"app we build for you is perfect!"
+msgstr "Είναι πραγματικά σημαντικό να συνεργαστείτε με τους άλλους υποστηρικτές της εφαρμογής ώστε να βεβαίωσετε ότι η εφαρμογή που θα φτιάξουμε για εσάς θα είναι τέλεια. "
+
+#: View/Emails/html/support_phase_complete.ctp:40
+msgid "Get started with the design process now by clicking the following link."
+msgstr "Ξεκινήστε με την διαδικασία του σχεδιασμού τώρα πατώντας στον ακόλουθο σύνδεσμο"
+
+#: View/Emails/html/support_phase_complete.ctp:42
+msgid "Help Design App"
+msgstr "Βοήθεια για τον σχεδιασμό της εφαρμογής"
+
+#: View/Emails/html/supported_movement.ctp:20
+msgid "You Supported a Movement"
+msgstr "Υποστηρίξατε ένα κίνημα"
+
+#: View/Emails/html/supported_movement.ctp:24
+msgid "You have successfully supported the App Movement for %s"
+msgstr "Έχετε επιτυχώς υποστηρίξει το App Movement για %s"
+
+#: View/Emails/html/supported_movement.ctp:34
+msgid ""
+"The Movement needs at least %s people to reach its support target. By "
+"sharing the Movement page on social networks you are increasing the chances "
+"of its success. If the Movement reaches its target then yourself and other "
+"supporters will be exclusively invited to the design phase where you can "
+"share ideas and vote on the best features/contributions for the app."
+msgstr "Το κίνημα χρειάζεται τουλάχιστον %s άτομα για να φτάσει το στόχο υποστήριξης. Με το να μοιράζεστε τη σελίδα του κινήματος στα κοινωνικά δίκτυα αυξάνετε τις πιθανότητες της επιτυχίας του. Αν το κίνημα πιάσει το στόχο του τότε εσείς και οι άλλοι υποστηρικτές θα προσκληθείτε αποκλειστικά στην φάση σχεδιασμού όπου μπορείτε να μοιραστείτε ιδέες και να ψηφίσετε τα καλύτερα χαρακτηριστικά/συνεισφορές για την εφαρμογή."
+
+#: View/Emails/html/supported_movement.ctp:36
+msgid ""
+"Once the design phase is complete the app will be automatically generated "
+"and available to download for free!"
+msgstr "Μόλις η φάση σχεδιασμού ολοκληρωθεί η εφαρμογή θα δημιουργηθεί αυτόματα και θα είναι διαθέσιμη για δωρεάν κατέβασμα"
+
+#: View/Errors/error400.ctp:10 View/Errors/error500.ctp:10
+#: View/Errors/missing_controller.ctp:10
+msgid "Error"
+msgstr "Λάθος"
+
+#: View/Errors/error400.ctp:18 View/Errors/error500.ctp:18
+#: View/Errors/missing_controller.ctp:18
+#: View/Users/admin.ctp:268;269;270;271;292;316;317
+msgid "Something went wrong!"
+msgstr "Κάτι πήγε στραβά"
+
+#: View/Errors/error400.ctp:19 View/Errors/error500.ctp:19
+#: View/Errors/missing_controller.ctp:19
+msgid "We couldn't find what you were looking for!"
+msgstr "Δε μπορούσαμε να βρούμε αυτό που ψάχνετε!"
+
+#: View/Errors/error400.ctp:23 View/Errors/error500.ctp:23
+#: View/Errors/missing_controller.ctp:23
+msgid "Take me home"
+msgstr "Πήγαινέ με στην αρχική σελίδα"
+
+#: View/Generate/marker_maker.ctp:41
+msgid "Generate Random Pin"
+msgstr "Δημιουργία τυχαίας πινέζας"
+
+#: View/Generate/geolocation/listing.ctp:1
+msgid "%s was designed by an engaged community on the App Movement website."
+msgstr "%s σχεδιάστηκε από την κοινότητα στον ιστοχώρο του App Movement"
+
+#: View/Generate/geolocation/listing.ctp:3
+msgid ""
+"It provides a simple and convenient way to discover places and leave "
+"reviews. Helping you to rate places by the following important categories:"
+msgstr "παρέχει έναν απλό και βολικό τρόπο να ανακαλύψεις μέρη και να αφήσεις αξιολογήσεις. Σε βοηθά να βαθμολογήσεις μέρη στις παρακάτω σημαντικές κατηγορίες"
+
+#: View/Generate/geolocation/listing.ctp:14
+msgid "Please visit appmovement.com to start your movement today."
+msgstr "Παρακαλούμε επισκεφτείτε το appmovement για να ξεκινήσετε το κίνημά σας σήμερα"
+
+#: View/Layouts/default.ctp:30 View/Layouts/stripped.ctp:30
+#: View/Layouts/Emails/html/view_main_notification.ctp:32
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile app. No "
+"expertise are required just a touch of determination and a great idea!"
+msgstr "Το app movement δίνει τη δυνατότητα στον καθένα να προτείνει, να σχεδιάσει και να αναπτύξει μία εφαρμογή κινητού. Δεν χρειάζεται καμία ειδίκευση, απλά επιμονή και μια περίφημη ιδέα"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "community"
+msgstr "κοινότητα"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "crowd commissioning"
+msgstr "Θέση κοινού"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "crowd sourcing"
+msgstr "Βοήθεια κοινού"
+
+#: View/Layouts/default.ctp:142
+msgid "Feedback"
+msgstr "Σχόλια"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:25
+msgid "Movement Updates"
+msgstr "Ενημερώσεις κινήματος"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:29
+msgid "Here are the latest updates for the movements you currently support."
+msgstr "Εδώ βρίσκονται οι τελευταίες ενημερώσεις για τα κινήματα που υποστηρίζετε αυτή τη στιγμή"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:55
+msgid "app-movement.com"
+msgstr "app-movement.com"
+
+#: View/Mobile/about.ctp:29
+msgid "This app allows anyone to rate and review locations on the map."
+msgstr "Αυτή η εφαρμογή επιτρέπει στον οποιονδήποτε να βαθμολογεί και να αξιολογεί τοποθεσίες στον χάρτη"
+
+#: View/Mobile/about.ctp:31
+msgid "Anyone can share a review and post an image for others to see."
+msgstr "Ο οποιοσδήποτε μπορεί να μοιραστεί μία αξιολόγηση και να δημοσιεύσει μια εικόνα για να το δουν άλλοι"
+
+#: View/Mobile/about.ctp:33
+msgid "You can view your reviews on your profile page."
+msgstr "Μπορείτε να δείτε τις αξιολογήσεις σας στη σελίδα του προφίλ σας"
+
+#: View/Movements/edit.ctp:31 View/Movements/start.ctp:75
+msgid "Title"
+msgstr "Τίτλος"
+
+#: View/Movements/edit.ctp:34 View/Movements/start.ctp:78
+msgid "Movement Title"
+msgstr "Τίτλος κινήματος"
+
+#: View/Movements/edit.ctp:37 View/Movements/start.ctp:81
+msgid "Give your movement a clear and catchy title."
+msgstr "Δώστε στο κίνημα σας έναν ξεκάθαρο και έξυπνο τίτλο"
+
+#: View/Movements/edit.ctp:43 View/Movements/start.ctp:90
+msgid "Short Description"
+msgstr "Μικρή περιγραφή"
+
+#: View/Movements/edit.ctp:46
+msgid "Movement Description"
+msgstr "Περιγραφή κινήματος"
+
+#: View/Movements/edit.ctp:49 View/Movements/start.ctp:96
+msgid "A short summary of the movement that will be visible across the site."
+msgstr "Μικρή περίληψη του κινήματος που θα εμφανίζεται στη σελίδα"
+
+#: View/Movements/edit.ctp:55 View/Movements/start.ctp:102
+#: View/Users/display_users.ctp:33
+msgid "Photo"
+msgstr "Φωτογραφία"
+
+#: View/Movements/edit.ctp:61;204;222 View/Movements/start.ctp:110;472;490
+msgid "Choose Photo"
+msgstr "Διαλέξτε φωτογραφία"
+
+#: View/Movements/edit.ctp:82 View/Movements/start.ctp:241
+msgid "A striking image that represents your movement."
+msgstr "Μια όμορφη εικόνα που να αντιπροσωπεύει το κίνημά σας"
+
+#: View/Movements/edit.ctp:88 View/Movements/start.ctp:247
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: View/Movements/edit.ctp:88;104 View/Movements/start.ctp:247;263
+msgid "Optional"
+msgstr "Μη υποχρεωτικό"
+
+#: View/Movements/edit.ctp:91 View/Movements/start.ctp:250
+msgid "Movement Location"
+msgstr "Τοποθεσία κινήματος"
+
+#: View/Movements/edit.ctp:94 View/Movements/start.ctp:253
+msgid "Provide the location of your movement."
+msgstr "Δώστε την τοποθεσία του κινήματός σας."
+
+#: View/Movements/edit.ctp:104;106 View/Movements/start.ctp:263
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: View/Movements/edit.ctp:109 View/Movements/start.ctp:268
+msgid "Add some tags to your movement to help people discover it."
+msgstr "προσθέστε κάποιες ετικέτες στο κίνημά σας για να βοηθήσετε τους άλλους να το ανακαλύψουν"
+
+#: View/Movements/edit.ctp:117 View/Movements/overview.ctp:11
+#: View/Movements/start.ctp:276
+msgid "Overview"
+msgstr "Περίληψη"
+
+#: View/Movements/edit.ctp:120 View/Movements/start.ctp:279
+msgid "A longer overview of your movement"
+msgstr "Μια μεγαλύτερη περίληψη για το κίνημά σας"
+
+#: View/Movements/edit.ctp:124
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: View/Movements/edit.ctp:150
+msgid "by %s"
+msgstr "από τον %s"
+
+#: View/Movements/edit.ctp:158 View/Movements/start.ctp:320
+msgid "Movement Preview"
+msgstr "Προεπισκόπηση κινήματος"
+
+#: View/Movements/edit.ctp:172
+msgid "Delete Movement"
+msgstr "Διαγραφή κινήματος"
+
+#: View/Movements/edit.ctp:200 View/Movements/start.ctp:468
+msgid "Failed"
+msgstr "Αποτυχία"
+
+#: View/Movements/edit.ctp:218 View/Movements/start.ctp:486
+msgid "Uploaded"
+msgstr "Μεταφορτώθηκε"
+
+#: View/Movements/edit.ctp:239 View/Movements/start.ctp:508
+msgid "Uploading"
+msgstr "μεταμορφώνεται"
+
+#: View/Movements/index.ctp:11 View/PublishedApps/index.ctp:11
+msgid "Movements"
+msgstr "Κινήματα"
+
+#: View/Movements/index.ctp:12 View/PublishedApps/index.ctp:12
+msgid "Apps"
+msgstr "Εφαρμογές"
+
+#: View/Movements/index.ctp:23
+msgid "Popular"
+msgstr "Δημοφιλή"
+
+#: View/Movements/index.ctp:24
+msgid "Recent"
+msgstr "Πρόσφατα"
+
+#: View/Movements/index.ctp:31
+msgid "Search Movements"
+msgstr "Αναζήτηση κινημάτων"
+
+#: View/Movements/index.ctp:48 View/Movements/overview.ctp:33
+#: View/Pages/home.ctp:71
+msgid "No Movements Found"
+msgstr "Δεν βρέθηκαν κινήματα"
+
+#: View/Movements/index.ctp:48
+msgid "Please search again"
+msgstr "Παρακαλώ ψάξτε πάλι"
+
+#: View/Movements/launch.ctp:9
+msgid "Building App"
+msgstr "Δημιουργία εφαρμογής"
+
+#: View/Movements/launch.ctp:9
+msgid "Submitted to App Store"
+msgstr "Υποβολή στο app store"
+
+#: View/Movements/launch.ctp:9
+msgid "Awaiting Review"
+msgstr "Αναμονή αξιολόγησης"
+
+#: View/Movements/launch.ctp:9
+msgid "Review in Progress"
+msgstr "Αξιολόγηση σε εξέλιξη"
+
+#: View/Movements/launch.ctp:9
+msgid "Processing for App Store"
+msgstr "Επεξεργασία για το app store"
+
+#: View/Movements/launch.ctp:9
+msgid "Available to Download"
+msgstr "Έτοιμο για κατέβασμα"
+
+#: View/Movements/launch.ctp:13
+msgid "Launch Phase"
+msgstr "φάση λανσαρίσματος"
+
+#: View/Movements/launch.ctp:28
+msgid ""
+"This application has made it to the launch phase, don't worry we will take "
+"it from here."
+msgstr "Αυτή η εφαρμογή έφτασε μέχρι τη φάση λανσαρίσματος, μην ανησυχείτε, θα αναλάβουμε εμείς από εδώ και πέρα"
+
+#: View/Movements/launch.ctp:30
+msgid ""
+"Our engineers will use all of the communities contributions from the design "
+"phase to build a bespoke application."
+msgstr "Οι προγραματιστές μας θα χρησιμοποιήσουν όλες τις συνεισφορές
+της κοινότητας από τη φάση σχεδιασμού και θα ετοιμάσουν την εφαρμογή σας."
+
+#: View/Movements/launch.ctp:32
+msgid ""
+"We will then release the application to the relevant App Stores and notify "
+"you when it is available to download."
+msgstr "Αργότερα θα κάνουμε διαθέσιμη την εφαρμογή σας και θα σας ειδοποιήσουμε
+όταν θα είναι έτοιμο για κατέβασμα"
+
+#: View/Movements/launch.ctp:37
+msgid "View Contributions"
+msgstr "Δείτε τις συνεισφορές"
+
+#: View/Movements/launch.ctp:45
+msgid "App Status"
+msgstr "κατάσταση εφαρμογής"
+
+#: View/Movements/onboarding.ctp:12
+msgid "Invite Some Friends"
+msgstr "Καλέστε φίλους σας"
+
+#: View/Movements/onboarding.ctp:122 View/Tasks/landing.ctp:60
+msgid "Congratulations"
+msgstr "Συγχαρητήρια"
+
+#: View/Movements/onboarding.ctp:123
+msgid ""
+"It is important to gain as much support as possible for your movement. To "
+"get started why not tell some friends and get the ball rolling. Once this "
+"step is complete your movement will be available for the world to see!"
+msgstr "Είναι σημαντικό να κερδίσετε όσο το δυνατόν περισσότερη υποστήριξη για το κίνημά σας. Για να ξεκινήσετε γιατί δεν λέτε σε μερικούς φίλους; Μόλις αυτό το βήμα ολοκληρωθεί, το κίνημά σας θα είναι διαθέσιμο για να το δει ο κόσμος"
+
+#: View/Movements/onboarding.ctp:135;142;149
+msgid "Name"
+msgstr "Όνομα"
+
+#: View/Movements/onboarding.ctp:136;143;150 View/Users/display_users.ctp:36
+#: View/Users/forgot.ctp:27
+msgid "Email"
+msgstr "Email"
+
+#: View/Movements/onboarding.ctp:158
+msgid "Skip"
+msgstr "Παράληψη"
+
+#: View/Movements/onboarding.ctp:169 View/Movements/start.ctp:283
+msgid "Continue"
+msgstr "Συνέχεια"
+
+#: View/Movements/overview.ctp:20
+msgid "All"
+msgstr "Όλα"
+
+#: View/Movements/overview.ctp:33
+msgid "You have not started or supported any yet!"
+msgstr "Δεν έχετε ξεκινήσει ή υποστηρίξει τίποτα ακόμα"
+
+#: View/Movements/start.ctp:16
+msgid "Geolocation Review"
+msgstr "Αξιολόγηση γεωγραφικού εντοπισμού "
+
+#: View/Movements/start.ctp:16;60
+msgid "Social Network"
+msgstr "Κοινωνικό δίκτυο"
+
+#: View/Movements/start.ctp:16;61
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: View/Movements/start.ctp:16;62
+msgid "Events"
+msgstr "Γεγονότα"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A Geolocation Review app allows users to rate and review anything with a "
+"fixed location. An example might be a cafe, a public park or somewhere to "
+"lock your bicycle. Anyone can add new points of interest to the map and "
+"reviews on their own and other people's contributions."
+msgstr "Μια εφαρμογή αξιολόγησης γεωγραφικού εντοπισμού επιτρέπει στους χρήστες να βαθμολογούν και να αξιολογούν οτιδήποτε με μία συγκεκριμένη τοποθεσία. Ένα παράδειγμα μπορεί να αποτελεί μια καφετέρια, ένα δημόσιο πάρκο ή κάπου που κλειδώνεις το ποδήλατό σου. Ο κάθε ένας μπορεί να προσθέσει μέρη ενδιαφέροντος στον χάρτη και να κάνει αξιολογήσεις στις δικές του ή στις συνεισφορές των άλλων"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A 'Social Network' is a type of application that allows people to connect "
+"with one another another. It enables users to share content such as photos, "
+"videos, comments and other media."
+msgstr "Ένα 'κοινωνικό δίκτυο΄είναι ένας τύπος εφαρμογής που επιτρέπει στους ανθρώπους να συνδέονται μεταξύ τους. Δίνει τη δυνατότητα στους χρήστες να μοιράζονται περιεχόμενο όπως φωτογραφίες, βίντεος και άλλα μέσα"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"An 'Information' app provides a quick method of accessing detailed "
+"information about a specific subject. It can be useful in a variety of "
+"situations where a little extra information is key."
+msgstr "Μια εφαρμογή πληροφοριών δίνει μια γρήγορη μέθοδο πρόσβασης σε αναλυτικές πληροφορίες σχετικά με ένα συγκεκριμένο θέμα. Μπορεί να είναι χρήσιμη σε μια ποικιλία περιπτώσεων όπου οι πληροφορίες έχουν ρόλο κλειδί"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"Our lives are full of exciting events, an 'Event' app can help people to "
+"keep track of what events are taking place in the future. Such an app could "
+"also act as a discovery tool for say a recent fan or enthusiast."
+msgstr "Οι ζωές μας είναι γεμάτες από ενδιαφέροντα γεγονότα, όποτε μια εφαρμογή για "γεγονότα" θα μπορούσε να βοηθήσει τους ανθρώπους να παρακολουθούν ποια γεγονότα λαμβάνουν χώρα στο μέλλον. Μια τέτοια εφαρμογή θα μπορούσε να λειτουργήσει και σαν εργαλείο ανακάλυψης σε κάποιον νέο φαν. "
+
+#: View/Movements/start.ctp:18
+msgid "The best places to feed ducks"
+msgstr "Το καλύτερο μέρος για να ταϊζεις πάπιες"
+
+#: View/Movements/start.ctp:18
+msgid "Restaurants that cater for nut allergies"
+msgstr "Εστιατόρια που φροντίζουν για τις αλλεργίες στα καρύδια"
+
+#: View/Movements/start.ctp:18
+msgid "Amazing street art in London"
+msgstr "Εξαιρετική τέχνη δρόμου στο Λονδίνο"
+
+#: View/Movements/start.ctp:18
+msgid "Public toilet finder"
+msgstr "Ευρετήριο δημόσιας τουαλέτας"
+
+#: View/Movements/start.ctp:18
+msgid "Sports coach network"
+msgstr "Δίκτυο προπονητών αθλημάτων"
+
+#: View/Movements/start.ctp:18
+msgid "A super social network for teenager"
+msgstr "Ένα σούπερ κοινωνικό δίκτυο για εφήβους"
+
+#: View/Movements/start.ctp:18
+msgid "Dog owners social network"
+msgstr "Κοινωνικό δίκτυο για ιδιοκτήτες σκύλων"
+
+#: View/Movements/start.ctp:18
+msgid "Young mothers support network"
+msgstr "Δίκτυο υποστήριξης νεαρών μητέρων"
+
+#: View/Movements/start.ctp:18
+msgid "Miami tourist guide"
+msgstr "Οδηγός τουρισμού για το Μαϊάμι"
+
+#: View/Movements/start.ctp:18
+msgid "Help guide for your new computer"
+msgstr "Οδηγός βοηθείας για τον νέο σας υπολογιστή"
+
+#: View/Movements/start.ctp:18
+msgid "Top tips for looking after your children"
+msgstr "Χρήσιμες συμβουλές φροντίζετε τα παιδιά σας"
+
+#: View/Movements/start.ctp:18
+msgid "Live gigs for the Artic Monkeys"
+msgstr "Ζωντανές εμφανίσεις για τους Artic Monkeys"
+
+#: View/Movements/start.ctp:18
+msgid "Car boot sales in the North East"
+msgstr "Εκπτώσεις αυτοκινήτων Βορειο-Ανατολικά"
+
+#: View/Movements/start.ctp:18
+msgid "Stand up comedy events in London"
+msgstr "Εμφανίσεις Stand up comedy στο Λονδίνο"
+
+#: View/Movements/start.ctp:42
+msgid "Location Review App"
+msgstr "Εφαρμογή αξιολόγησης τοποθεσίας"
+
+#: View/Movements/start.ctp:45
+msgid ""
+"This type of app allows anyone to share a location on a map and leave "
+"reviews and ratings for that place. Users can browse each others "
+"contributions and share knowledge within their community. For example "
+"photographers may use a location review app to share the best photo spots in "
+"their city."
+msgstr "Αυτού του είδους η εφαρμογή επιτρέπει στον κάθε έναν να μοιραστεί μια τοποθεσία σε έναν χάρτη και να αφήσει αξιολογήσεις και βαθμολογίες για εκείνο το μέρος. Οι χρήστες μπορούν να δουν τις συνεισφορές των άλλων και να μοιραστούν γνώσεις μέσα στην κοινότητά τους. Για παράδειγμα, οι φωτογράφοι μπορούν να χρησιμοποιήσουν μια εφαρμογή αξιολόγησης τοποθεσίας για να μοιραστούν τα καλύτερα σημεία για φωτογραφία στην πόλη τους"
+
+#: View/Movements/start.ctp:51
+msgid "App Type"
+msgstr "Τύπος εφαρμογής"
+
+#: View/Movements/start.ctp:63
+msgid "Other"
+msgstr "Άλλο"
+
+#: View/Movements/start.ctp:69
+msgid "Select the type of application you wish to launch."
+msgstr "Επιλέξτε τον τύπο εφαρμογής που θέλετε να ξεκινήσετε"
+
+#: View/Movements/start.ctp:93
+msgid "Describe your idea in one sentence"
+msgstr "Περιγράψτε την ιδέα σας σε μια πρόταση"
+
+#: View/Movements/start.ctp:202;219
+msgid "No results. Please try a different search query"
+msgstr "Κανένα αποτέλεσμα. Παρακαλούμε δοκιμάστε διαφορετική ερώτηση"
+
+#: View/Movements/start.ctp:343
+msgid "Not Currently Available"
+msgstr "Δεν είναι διαθέσιμο αυτή τη στιγμή"
+
+#: View/Movements/start.ctp:348
+msgid "Example Applications"
+msgstr "Παραδείγματα εφαρμογών"
+
+#: View/Movements/start.ctp:366
+msgid "Suggest App Type"
+msgstr "Προτείνετε είδος εφαρμογής"
+
+#: View/Movements/start.ctp:368
+msgid ""
+"We would like to provide you with more templates in the future, please "
+"submit your app type ideas below to help us to provide more relevant app "
+"types."
+msgstr "θα θέλαμε να σας προμηθεύσουμε με περισσότερα πρότυπα στο μέλλον, παρακαλούμε υποβάλετε τις ιδέες σας για τύπους εφαρμογών παρακάτω για να μας βοηθήσετε να παρέχουμε πιο σχετικούς τύπους εφαρμογών"
+
+#: View/Movements/start.ctp:371
+msgid "Your Suggestion"
+msgstr "Η πρόταση σας"
+
+#: View/Movements/view.ctp:140
+msgid "Keep your supporters informed"
+msgstr "Κρατήστε τους υποστηρικές σας ενήμερους"
+
+#: View/Movements/view.ctp:141
+msgid ""
+"Send your supporters updates to keep them informed and get them involved. "
+"Your update will be sent directly to their email inbox. Please note, you can "
+"only send a maximum of 2 updates per day."
+msgstr "Στείλτε στους υποστηρικτές σας ενημερώσεις για να τους κρατάτε ενήμερους και να τους εμπλέκετε στη διαδικασία. Η ενημέρωσή σας θα σταλεί απευθείας στο email τους. Παρακαλούμε σημειώστε ότι μπορεί να στέλνετε το πολύ 2 ενημερώσεις τη μέρα"
+
+#: View/Movements/view.ctp:149
+msgid "Keep your supporters in the loop by posting an update."
+msgstr "Κρατήστε τους υποστηρικτές σας ενημερωμένους ανεβάζοντας μια ενημέρωση"
+
+#: View/Pages/about.ctp:10
+msgid "How it Works"
+msgstr "Πώς δουλεύει"
+
+#: View/Pages/about.ctp:23
+msgid "Share your app idea with the world and get your community involved"
+msgstr "Μοιραστείτε την ιδέα σας για εφαρμογή με τον κόσμο και εμπλέξτε την κοινότητά σας"
+
+#: View/Pages/about.ctp:34
+msgid "Start your movement"
+msgstr "Ξεκινήστε το κίνημά σας"
+
+#: View/Pages/about.ctp:35
+msgid ""
+"Post your awesome app idea to the site and start your movement. Select from "
+"an app template, add a title and description and hit start!"
+msgstr "Δημοσιεύστε την εξαιρετική σας ιδέα για εφαρμογή στην ιστοσελίδα και ξεκινήστε το κίνημά σας. Επιλέξτε από ένα πρότυπο εφαρμογής, προσθέστε ένα όνομα και περιγραφή και ξεκινήστε"
+
+#: View/Pages/about.ctp:44
+msgid "Engage your Community"
+msgstr "Εμπλέξτε την κοινότητά σας"
+
+#: View/Pages/about.ctp:45
+msgid ""
+"Get support from your community and promote your movement through social "
+"media to reach your target."
+msgstr "κερδίστε υποστήριξη από την κοινότητά σας και προωθήστε το κίνημά σας μέσω των κοινωνικών δικτύων για να φτάσετε τον στόχο σας"
+
+#: View/Pages/about.ctp:56
+msgid "Share your idea with friends"
+msgstr "Μοιραστείτε την ιδέα σας με φίλους"
+
+#: View/Pages/about.ctp:57
+msgid ""
+"Hit your target by sharing your movement through social media. Get your "
+"friends involved so they can get in on the action too."
+msgstr "Φτάστε τον στόχο σας με το να μοιραστείτε το κίνημά σας μέσω των κοινωνικών μέσων. Εμπλέξτε τους φίλους σας ώστε να μπορούν να βοηθήσουν και αυτοί"
+
+#: View/Pages/about.ctp:66
+msgid "Hit your target"
+msgstr "Φτάστε στον στόχο σας"
+
+#: View/Pages/about.ctp:67
+msgid ""
+"Reach your target number of supporters for yout idea and proceed to "
+"designing your app."
+msgstr "φτάστε στον αριθμητικό στόχο των υποστηρικτών για την ιδέα σας και προχωρήστε στον σχεδιασμό της εφαρμογής σας"
+
+#: View/Pages/about.ctp:80
+msgid "Design with your community"
+msgstr "Σχεδιάστε με την κοινότητά σας"
+
+#: View/Pages/about.ctp:81
+msgid "Share ideas and vote on the best features you want in the app."
+msgstr "Μοιραστείτε ιδέες και ψηφίστε για τα καλύτερα χαρακτηριστικά που θέλετε στην εφαρμογή"
+
+#: View/Pages/about.ctp:93
+msgid "Contribute ideas"
+msgstr "Συνεισφέρετε ιδέες"
+
+#: View/Pages/about.ctp:94
+msgid ""
+"Got a great idea for the name? Want to pick the colour scheme? Submit your "
+"idea to the community."
+msgstr "Έχετε μια τέλεια ιδέα για το όνομα; Θέλετε να διαλέξετε τα χρώματα; Υποβάλετε την ιδέα σας στην κοινότητα"
+
+#: View/Pages/about.ctp:103
+msgid "Vote on features"
+msgstr "Ψηφίστε τα χαρακτηριστικά"
+
+#: View/Pages/about.ctp:104
+msgid ""
+"Work together to vote on the best ideas from within your community. The best "
+"ideas with the most votes are selected for the final app."
+msgstr "Δουλέψτε μαζί να ψηφίσετε τις καλύτερες ιδέες μέσα από την κοινότητά σας. Οι καλύτερες ιδέες με τις περισσότερες ψήφους επιλέγονται για την τελική εφαρμογή"
+
+#: View/Pages/about.ctp:115
+msgid "Discuss your ideas"
+msgstr "Συζητήστε τις ιδέες σας"
+
+#: View/Pages/about.ctp:116
+msgid ""
+"Start the conversation around what features you want in the app and what "
+"they might look like."
+msgstr "Ξεκινήστε τη συζήτηση γύρω από ποια χαρακτηριστικά θέλετε στην εφαρμογή και πώς αυτά μπορεί να μοιάζουν"
+
+#: View/Pages/about.ctp:125
+msgid "Your app is generated by us"
+msgstr "Η εφαρμογή σας δημιουργείται από εμάς"
+
+#: View/Pages/about.ctp:126
+msgid ""
+"Once the best ideas have been voted on we'll automatically add them to the "
+"app."
+msgstr "Μόλις οι καλύτερες ιδέες ψηφιστούν, αυτόματα, θα τις προσθέσουμε στην εφαρμογή"
+
+#: View/Pages/about.ctp:139
+msgid "Launch your app to the world"
+msgstr "Λανσάρετε την εφαρμογή σας στον κόσμο"
+
+#: View/Pages/about.ctp:140
+msgid ""
+"Your app is automatically generated and free for your community to download."
+msgstr "Η εφαρμογή σας δημιουργείται αυτόματα και δωρεάν ώστε να ληφθεί από την κοινότητά σας"
+
+#: View/Pages/about.ctp:152
+msgid "Download your app"
+msgstr "Λήψη της εφαρμογής σας"
+
+#: View/Pages/about.ctp:153
+msgid ""
+"We'll automatically generate the app for Android and iOS and tell you when "
+"it's ready so you can be the first to download it!"
+msgstr "Θα δημιουργήσουμε αυτόματα την εφαρμογή για Android και iOS και θα σας πούμε πότε είναι έτοιμη ώστε να είστε ο πρώτος που θα την κατεβάσετε"
+
+#: View/Pages/about.ctp:162
+msgid "Share with everyone"
+msgstr "Μοιραστείτε το με όλους"
+
+#: View/Pages/about.ctp:163
+msgid ""
+"Excited by your new app? Tell people about it and get them to download the "
+"app so they can use it too!"
+msgstr "Είστε ενθουσιασμένος με την νέα σας εφαρμογή; Πείτε στους άλλους γι' αυτήν και κάντε τους να την κατεβάσουν ώστε να την χρησιμοποιήσουν και αυτοί"
+
+#: View/Pages/about.ctp:175
+msgid "Sustain your community"
+msgstr "Υποστηρίξτε την κοινότητά σας"
+
+#: View/Pages/about.ctp:176
+msgid ""
+"The app will be available to everyone, it's important you contribute content "
+"as much as possible to improve it for others."
+msgstr "Η εφαρμογή θα είναι διαθέσιμη σε όλους, είναι σημαντικό να συνεισφέρετε 
+όσο περισσότερο περιεχόμενο μπορείτε για να το βελτιώσετε για όλους."
+
+#: View/Pages/about.ctp:185
+msgid "Feel awesome!"
+msgstr "Νοιώστε τέλεια!"
+
+#: View/Pages/about.ctp:186
+msgid ""
+"Congratulations you've made it! You can feel awesome knowing you've released "
+"an app for everyone to enjoy, good job!"
+msgstr "Συγχαρητήρια τα καταφέρατε! Μπορείτε να αισθάνεστε τέλεια γνωρίζοντας ότι κυκλοφορήσατε μια εφαρμογή για όλους να την απολαύσουν, μπράβο!"
+
+#: View/Pages/about.ctp:194
+msgid "Get Started"
+msgstr "Ξεκινήστε"
+
+#: View/Pages/contact.ctp:19
+msgid "Send an email"
+msgstr "Αποστολή email"
+
+#: View/Pages/contact.ctp:21
+msgid ""
+"If you have any questions, would like to work with the team or have any "
+"other concerns please contact the team on the following email address:"
+msgstr "Αν έχετε ερωτήσεις, αν θα θέλατε να δουλέψετε με την ομάδα ή έχετε άλλες απορίες, παρακαλούμε επικοινωνήστε με την ομάδα σε κάποιο από τα παρακάτω emails"
+
+#: View/Pages/contact.ctp:38
+msgid "What is App Movement?"
+msgstr "Τι είναι το App Movement;"
+
+#: View/Pages/contact.ctp:40 View/Pages/faq.ctp:23
+msgid ""
+"App Movement enables any individual, community or organisation to propose, "
+"design and develop a multi-platform mobile application. No expertise are "
+"required to get started just a touch of determination and a great idea."
+msgstr "Το App Movement δίνει τη δυνατότητα σε κάθε άτομο, κοινότητα ή οργανισμό να προτείνει, σχεδιάσει και αναπτύξει εφαρμογές για κινητά για όλες τις πλατφόρμες. Δεν απαιτείται κάποια εξειδίκευση για να ξεκινήσεις απλά αποφασιστικότητα και μια καλή ιδέα. "
+
+#: View/Pages/contact.ctp:48
+msgid "Who created this?"
+msgstr "Ποιος το δημιούργησε;"
+
+#: View/Pages/contact.ctp:49
+msgid ""
+"App Movement is a research project created by %s at Newcastle University. "
+"This research project aims to explore how communities can begin to design "
+"and commission technology at a grassroots level. As such we will be "
+"collecting data about the websites usage and the mobile applications "
+"generated by App Movement. You can find out more in our privacy policy."
+msgstr "Το App Movement είναι ένα ερευνητικό πρόγραμμα που δημιουργήθηκε από τον %s στο Newcastle University. Αυτό το ερευνητικό πρόγραμμα στοχεύει να εξερευνήσει πώς οι κοινότητες μπορούν να ξεκινήσουν να σχεδιάσουν και να χρησιμοποιούν την τεχνολογία από τη βάση. Γι αυτό θα συγκεντρώνουμε τα δεδομένα σχετικά με τη χρήση των ιστοσελίδων και των εφαρμογών κινητών που δημιουργούνται από το App Movement. Μπορείτε να βρείτε περισσότερα στην πολιτική ιδιωτικότητάς μας."
+
+#: View/Pages/contact.ctp:57
+msgid "Why did we create App Movement?"
+msgstr "Γιατί δημιουργήσαμε το App Movement;"
+
+#: View/Pages/contact.ctp:58
+msgid ""
+"We realised that in the digital age communities need digital tools and "
+"services. However the development and creation of these services has "
+"traditionally been commissioned by local government, bed room programmers or "
+"enthusiastic community members. However we argue that this top down, "
+"reactive approach, fails to address real needs of communities. Therefore we "
+"believe anyone who has a genuine need for a mobile application should not be "
+"limited by their lack of software development experience."
+msgstr "Συνειδητοποιήσαμε ότι οι κοινότητες στη ψηφιακή εποχή χρειάζονται ψηφιακά εργαλεία και υπηρεσίες. Εντούτοις, η ανάπτυξη και η δημιουργία αυτών των υπηρεσιών γίνεται παραδοσιακά από τις τοπικές κυβερνήσεις, από κατ' οίκον προγραμματιστές ή από ενθουσιώδη μέλη της κοινότητας. Εντούτοις υποστηρίζουμε ότι αυτή η "από πάνω προς τα κάτω" προσέγγιση αποτυγχάνει να αντιμετωπίσει τις πραγματικές ανάγκες των κοινοτήτων. Γι' αυτό πιστεύουμε ότι όποιος έχει ειλικρινή ανάγκη για μία εφαρμογή κινητού δεν θα πρέπει να περιορίζεται από την έλλειψη εμπειρίας του στην ανάπτυξη λογισμικού."
+
+#: View/Pages/contact.ctp:80
+msgid ""
+"This project was funded by both the EPSRC Social Inclusion Through the "
+"Digital Economy (SiDE) and the AHRC Creative Exchange (CX) research projects."
+msgstr "Αυτό το πρόγραμμα χρηματοδοτείται από το EPSRC Social Inclusion Through the "
+"Digital Economy (SiDE) και το AHRC Creative Exchange (CX) research projects"
+
+#: View/Pages/faq.ctp:22
+msgid "What is AppMovement?"
+msgstr "Τι είναι AppMovement;"
+
+#: View/Pages/faq.ctp:27
+msgid "What is a Movement?"
+msgstr "Τι είναι ένα κίνημα;"
+
+#: View/Pages/faq.ctp:28
+msgid ""
+"A Movement is an awesome idea for an app that has been created by a member "
+"of your community and allows other individuals to come together and support "
+"the idea. Once the Movement has reached the Supporter Target the Movement "
+"will move into the design phase to allow you to begin designing the features "
+"in your app. After this has been completed the app will be automatically "
+"generated and free to download for all."
+msgstr "Ένα κίνημα είναι μια καταπληκτική ιδέα για μια εφαρμογή που έχει δημιουργηθεί από ένα μέλος της κοινότητάς σας και επιτρέπει σε άλλα άτομα να συγκεντρωθούν και να υποστηρίξουν την ιδέα. Μόλις το κίνημα φτάσει τον στόχο υποστηρικτών, θα προχωρήσει στη φάση σχεδιασμού όπου σας επιτρέπει να ξεκινήσετε να σχεδιάζετε τα χαρακτηριστικά της εφαρμογή σας. Αφού αυτό ολοκληρωθεί η εφαρμογή θα δημιουργηθεί αυτόματα και θα είναι δωρεάν για να την λάβουν όλοι. "
+
+#: View/Pages/faq.ctp:32
+msgid "What does it mean to be a Supporter?"
+msgstr "Τί σημαίνει να είσαι Υποστηρικτής?"
+
+#: View/Pages/faq.ctp:33
+msgid ""
+"By supporting a Movement you are pledging your support for the idea. This "
+"will allow you to be a part of the design phase and gain early access to the "
+"automatically generated mobile app when it becomes available. There are no "
+"financial commitments to being a supporter and you have the choice to "
+"interact with the Movement as you see fit. During the design phase you can "
+"contribute ideas e.g. the app's name or colour scheme and you do not require "
+"any technical expertise."
+msgstr "Υποστηρίζοντας ένα κίνημα δεσμεύετε την υποστήριξή σας για την ιδέα. Αυτό θα σας επιτρέψει να είστε μέρος της φάσης σχεδιασμού και να κερδίσετε πρόσβαση νωρίς στην αυτόματα δημιουργημένη εφαρμογή για το κινητό όποτε γίνει διαθέσιμη. Δεν υπάρχουν οικονομικές υποχρεώσεις στο να είναι κάποιος υποστηρικτής και έχετε την επιλογή να αλληλεπιδράτε με το κίνημα όπως κρίνετε. Κατά της διάρκεια της φάσης σχεδιασμού μπορείτε να συνεισφέρετε με ιδέες, πχ το όνομα της εφαρμογής ή το χρώμα και δεν χρειάζεται κάποια τεχνική ειδίκευση."
+
+#: View/Pages/faq.ctp:37
+msgid "What is the Design Phase?"
+msgstr "Τί είναι η φάση σχεδιασμού"
+
+#: View/Pages/faq.ctp:38
+msgid ""
+"The Design Phase is accessible by only the supporters who have supported a "
+"movement and allows them to contribute ideas and vote on the best "
+"contributions made by others. In this phase you will not be asked to write "
+"any code, just simply come up with names and colour schemes for example."
+msgstr "Η φάση σχεδιασμού είναι προσβάσιμη μόνο από τους υποστηρικτές που έχουν υποστηρίξει ένα κίνημα και τους επιτρέπει να συνεισφέρουν ιδέες και να ψηφίσουν τις καλύτερες συνεισφορές που έγιναν από άλλους. Σε αυτή τη φάση δεν θα χρειαστεί να γράψετε κώδικά, απλά να καταλήξετε σε ονόματα και χρώματα για παράδειγμα. "
+
+#: View/Pages/faq.ctp:46
+msgid "How do you automatically generate an app?"
+msgstr "Πώς δημιουργείτε αυτόματα μια εφαρμογή;"
+
+#: View/Pages/faq.ctp:47
+msgid ""
+"When movements are created by users they are created using a template we "
+"have developed. This template allows us to automatically configure the "
+"mobile application so that it reflects the design choices made by the "
+"community in the design phase."
+msgstr "όταν τα κινήματα δημιουργούνται από τους χρήστες, δημιουργούνται χρησιμοποιώντας ένα πρότυπο που έχουμε αναπτύξει. Αυτό το πρότυπο μας επιτρέπει να διαμορφώσουμε αυτόματα την εφαρμογή του κινητού ώστε να αντιπροσωπεύει τις επιλογές του σχεδιασμού που έγιναν από την κοινότητα στην αντίστοιχη φάση."
+
+#: View/Pages/faq.ctp:51
+msgid "Who owns the generated app?"
+msgstr "Σε ποιον ανήκει η δημιουργημένη εφαρμογή;"
+
+#: View/Pages/faq.ctp:52
+msgid ""
+"The mobile application will be released under the Digital Interaction Group "
+"developer accounts as part of ongoing research into community commissioning "
+"platforms. Ownership of the application will therefore remain with the "
+"Digital Interaction Group. Please visit our terms and conditions of use for "
+"more information."
+msgstr "Η εφαρμογή του κινητού θα δημοσιευτεί κάτω από τους λογαριασμούς των προγραμματιστών Digital Interaction Group σαν μέρος μιας συνεχόμενης έρευνας πάνω στις πλατφόρμες που χρησιμοποιούνται στις κοινότητες. Η ιδιοκτησία λοιπόν της εφαρμογής θα παραμείνει μέσα στο Digital Interaction Group. Παρακαλούμε επισκεφτείτε τους όρους και προϋποθέσεις μας για περισσότερες πληροφορίες."
+
+#: View/Pages/faq.ctp:56
+msgid "Who is organising this?"
+msgstr "Ποιός το οργανώνει?"
+
+#: View/Pages/faq.ctp:57
+msgid ""
+"This is a research project run by the Digitial Interaction Group as part of "
+"the ongoing research. With your permission through registering with the "
+"server, your annonymized data will be used to begin to understand how "
+"technologies of the future can encourage grassroots comissioning of mobile "
+"applications. If you wish to know more about this please visit our About "
+"page for further information."
+msgstr "Αυτό είναι ένα ερευνητικό πρόγραμμα που λειτουργεί από το Digitial Interaction Group ως μέρος συνεχιζόμενης έρευνας. Με την άδεια σας, μέσω της εγγραφής σας, τα δεδομένα σας ανώνυμα θα χρησιμοποιηθούν ώστε να ξεκινήσουμε να καταλαβαίνουμε πώς οι τεχνολογίες του μέλλοντος μπορούν να ενθαρρύνουν κινήματα από τη βάση να χρησιμοποιούν εφαρμογές για κινητά. Αν ενδιαφέρεστε να μάθετε περισσότερα παρακαλούμε επισκεφτείτε τη σελίδα Σχετικά για περισσότερες πληροφορίες"
+
+#: View/Pages/home.ctp:12
+msgid "Your community. Your app."
+msgstr "Η κοινότητα σας. Η εφαρμογή σας."
+
+#: View/Pages/home.ctp:15
+msgid "We help communities build the apps they need."
+msgstr "Βοηθάμε κοινότητες να χτίσουν τις εφαρμογές που χρειάζονται"
+
+#: View/Pages/home.ctp:17
+msgid ""
+"Helping photographers rate and share places to shoot, foodies places to eat "
+"and surfers places to surf."
+msgstr "Βοηθώντας τους φωτογράφους να βαθμολογούν και να μοιράζονται μέρη να τραβούν, καλοφαγάδες μέρη να τρώνε και σέρφερς μέρη να κάνουν σερφ"
+
+#: View/Pages/home.ctp:26;28
+msgid "Watch the Video"
+msgstr "Δείτε το βίντεο"
+
+#: View/Pages/home.ctp:46
+msgid "%s Apps Launched"
+msgstr "%s εφαρμογές έχουν λανσαριστεί"
+
+#: View/Pages/home.ctp:55
+msgid "%s Movements Started"
+msgstr "%s κινήματα έχουν ξεκινήσει"
+
+#: View/Pages/home.ctp:68
+msgid "Featured Movements"
+msgstr "Προτεινόμενα κινήματα"
+
+#: View/Pages/home.ctp:91
+msgid "Start something amazing</div>"
+msgstr "Ξεκίνησε κάτι καταπληκτικό"
+
+#: View/Pages/press.ctp:9
+msgid "Press Kit"
+msgstr "Υλικό τύπου"
+
+#: View/Pages/press.ctp:19
+msgid "Press Releases"
+msgstr "Δελτία τύπου"
+
+#: View/Pages/press.ctp:23
+msgid ""
+"We welcome you to report on App Movement through your media channels and "
+"encourage the use of the materials provided on this page."
+msgstr "Σας καλωσορίζουμε να αναφερθείτε στο App Movement μέσω των καναλιών επικοινωνίας σας και να ενθαρρύνετε την χρήση των υλικών που παρέχονται σε αυτήν την σελίδα"
+
+#: View/Pages/press.ctp:32
+msgid "Logos & Brand"
+msgstr "Λογότυπα και μάρκα"
+
+#: View/Pages/press.ctp:36
+msgid "Click any of the following assets to view the full-resolution version."
+msgstr "Πατήστε οποιοδήποτε από τα ακόλουθα στοιχεία για να δείτε την εκδοχή πλήρους ανάλυσης"
+
+#: View/Pages/press.ctp:36
+msgid "If you require any other assets please contact us."
+msgstr "Αν επιθυμείτε άλλα στοιχεία παρακαλούμε επικοινωνήστε μαζί μας"
+
+#: View/Pages/press.ctp:85
+msgid "If you have any queries please contact us."
+msgstr "Εάν έχετε ερωτήσεις παρακαλώ επικοινωνήστε μαζί μας"
+
+#: View/Pages/press.ctp:88
+msgid "Press contact"
+msgstr "Επαφή τύπου"
+
+#: View/Pages/press.ctp:89
+msgid "Image contact"
+msgstr "Επαφή εικόνας"
+
+#: View/Pages/press.ctp:98
+msgid "Case Studies"
+msgstr "Περιπτώσεις μελέτης"
+
+#: View/Pages/press.ctp:108
+msgid ""
+"A story about Katie Brittain's idea to support people living with dementia "
+"and their carers."
+msgstr "Μια ιστορία για την ιδέα της Katie Brittain να υποστηρίξει τους ανθρώπους που ζουν με την άνοια και αυτούς που τους φροντίζουν"
+
+#: View/Pages/privacy.ctp:10
+msgid "Privacy Policy"
+msgstr "Πολιτική ιδιωτικότητας"
+
+#: View/Pages/terms.ctp:10
+msgid "Terms of Use"
+msgstr "Όροι χρήσης"
+
+#: View/Previews/colour.ctp:47 View/Previews/geolocation_venue.ctp:47
+msgid "Place"
+msgstr "Μέρος"
+
+#: View/Previews/colour.ctp:53 View/Previews/geolocation_venue.ctp:53
+msgid "Add Review"
+msgstr "Προσθήκη αξιολόγησης"
+
+#: View/Previews/colour.ctp:63 View/Previews/geolocation_venue.ctp:63
+msgid "Name of Place"
+msgstr "Όνομα μέρους"
+
+#: View/Previews/colour.ctp:75 View/Previews/geolocation_venue.ctp:75
+msgid "Rating Option A"
+msgstr "Επιλογή βαθμολογίας A"
+
+#: View/Previews/colour.ctp:95 View/Previews/geolocation_venue.ctp:95
+msgid "Rating Option B"
+msgstr "Επιλογή βαθμολογίας B"
+
+#: View/Previews/colour.ctp:115 View/Previews/geolocation_venue.ctp:115
+msgid "Rating Option C"
+msgstr "Επιλογή βαθμολογίας C"
+
+#: View/Previews/colour.ctp:135 View/Previews/geolocation_venue.ctp:135
+msgid "Rating Option D"
+msgstr "Επιλογή βαθμολογίας D "
+
+#: View/Previews/geolocation_map.ctp:90
+msgid "Home"
+msgstr "Αρχική σελίδα"
+
+#: View/Previews/geolocation_map.ctp:102
+msgid "Add"
+msgstr "προσθήκη"
+
+#: View/Tasks/landing.ctp:18 View/Tasks/view.ctp:19
+msgid "Design Area"
+msgstr "Χώρος σχεδιασμού"
+
+#: View/Tasks/landing.ctp:34
+msgid "Design Phase Not Available"
+msgstr "Η φάση σχεδιασμού δεν είναι διαθέσιμη"
+
+#: View/Tasks/landing.ctp:36 View/Tasks/view.ctp:41
+msgid "Design Phase Active"
+msgstr "Φάση σχεδιασμού ενεργή"
+
+#: View/Tasks/landing.ctp:44
+msgid "Day Remaining"
+msgstr "Εναπομένουσα ημέρα"
+
+#: View/Tasks/landing.ctp:44
+msgid "Days Remaining"
+msgstr "Εναπομένουσες ημέρες"
+
+#: View/Tasks/landing.ctp:55
+msgid "The design phase is not yet available, please come back later!"
+msgstr "Η φάση σχεδιασμού δεν είναι ακόμη διαθέσιμη, παρακαλώ κοιτάξτε αργότερα!"
+
+#: View/Tasks/landing.ctp:61
+msgid ""
+"This movement has made it to the design phase. Yourself and other supporters "
+"can now design the application together. Just click one of the following "
+"design tasks to explore, vote and contribute ideas."
+msgstr "Αυτό το κίνημα έχει καταφέρει να φτάσει στη φάση σχεδιασμού. Εσείς και οι άλλοι υποστηρικτές μπορείτε τώρα να σχεδιάσετε την εφαρμογή μαζί. Απλά πατήστε μία από τις παρακάτω εργασίες σχεδιασμού ώστε να εξερευνήσετε, να ψηφίσετε και να συνεισφέρετε ιδέες"
+
+#: View/Tasks/landing.ctp:65 View/Tasks/view.ctp:63
+msgid ""
+"You have not supported this movement so you are not eligible to vote or "
+"contribute in the design phase. You are however free to browse what others "
+"have submitted."
+msgstr "Δεν έχετε υποστηρίξει αυτό το κίνημα οπότε δεν μπορείτε να ψηφίσετε ή να συνεισφέρετε στη φάση του σχεδιασμού. Μπορείτε όμως να δείτε τι έχουν υποβάλει οι άλλοι"
+
+#: View/Tasks/landing.ctp:70 View/Tasks/view.ctp:68
+msgid "Design Complete"
+msgstr "Ο σχεδιασμός ολοκληρώθηκε"
+
+#: View/Tasks/landing.ctp:71
+msgid ""
+"The design phase is now complete, we will select the highest voted "
+"contributions to tailor the application. You can view the community's "
+"contributions below."
+msgstr "Η φάση του σχεδιασμού είναι τώρα ολοκληρωμένη, θα επιλέξουμε την συνεισφορά με τις περισσότερες ψήφους για να προσαρμόσουμε την εφαρμογή. Μπορείτε να δείτε τις συνεισφορές της κοινότητας παρακάτω. "
+
+#: View/Tasks/landing.ctp:137
+msgid "Fixed Option"
+msgstr "Σταθερή επιλογή"
+
+#: View/Tasks/landing.ctp:139
+msgid "User Contribution"
+msgstr "Συνεισφορά χρήστη"
+
+#: View/Tasks/landing.ctp:160
+msgid "Awesome!"
+msgstr "καταπληκτικά!"
+
+#: View/Tasks/landing.ctp:161
+msgid "You've submitted contributions to all of the design tasks, thank you!"
+msgstr "Έχετε συνεισφέρει σε όλες τις εργασίες σχεδιασμού, ευχαριστούμε!"
+
+#: View/Tasks/landing.ctp:161
+msgid "Don't forget to come back and vote on contributions from other members!"
+msgstr "Μην ξεχάσετε να επιστρέψετε και να ψηφίσετε τις συνεισφορές από τα άλλα μέλη"
+
+#: View/Tasks/view.ctp:58
+msgid "Instructions"
+msgstr "Οδηγίες"
+
+#: View/Tasks/view.ctp:69
+msgid ""
+"The design phase is now complete, you can view the contributions below. The "
+"winning contributions are highlighted in green."
+msgstr "Η φάση του σχεδιασμού είναι τώρα ολοκληρωμένη, μπορείτε να δείτε τις συνεισφορές παρακάτω. Η νικήτρια συνεισφορά είναι υπογραμμισμένη με πράσινο"
+
+#: View/Users/admin.ctp:15 View/Users/dashboard.ctp:35
+msgid "Admin Section"
+msgstr "Χώρος διαχειριστή"
+
+#: View/Users/admin.ctp:53
+msgid "APP STORE"
+msgstr "APP STORE"
+
+#: View/Users/admin.ctp:54
+msgid "DATABASE"
+msgstr "DATABASE"
+
+#: View/Users/admin.ctp:55
+msgid "XML"
+msgstr "XML"
+
+#: View/Users/admin.ctp:56
+msgid "ASSETS"
+msgstr "Στοιχεία"
+
+#: View/Users/admin.ctp:57
+msgid "LAUNCH"
+msgstr "Λανσάρισμα"
+
+#: View/Users/admin.ctp:64
+msgid "App Name"
+msgstr "Όνομα εφαρμογής"
+
+#: View/Users/admin.ctp:68
+msgid "App Identifier"
+msgstr "Αναγνωριστικό εφαρμογής"
+
+#: View/Users/admin.ctp:72
+msgid "Listing"
+msgstr "Λίστα"
+
+#: View/Users/admin.ctp:76
+msgid "Keywords"
+msgstr "Λέξεις κλειδιά"
+
+#: View/Users/admin.ctp:83
+msgid "SQL Create Dump"
+msgstr "SQL Create Dump"
+
+#: View/Users/admin.ctp:90
+msgid "iOS XML Dump"
+msgstr "iOS XML Dump"
+
+#: View/Users/admin.ctp:94
+msgid "Android XML Dump"
+msgstr "Android XML Dump"
+
+#: View/Users/admin.ctp:101
+msgid "Set Background Colour"
+msgstr "Ρύθμιση χρώματος φόντου"
+
+#: View/Users/admin.ctp:103
+msgid "Clear"
+msgstr "Εκκαθάριση"
+
+#: View/Users/admin.ctp:104
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#: View/Users/admin.ctp:107
+msgid "App Icon"
+msgstr "Εικονίδιο εφαρμογής"
+
+#: View/Users/admin.ctp:111
+msgid "Spash Screen"
+msgstr "Spash Screen"
+
+#: View/Users/admin.ctp:115
+msgid "App Screenshots"
+msgstr "Εικόνες εφαρμογής"
+
+#: View/Users/admin.ctp:120
+msgid "Download Assets"
+msgstr "λήψη στοιχείων"
+
+#: View/Users/admin.ctp:125
+msgid "Android Store Listing URL"
+msgstr "Σύνδεσμος λίστας Android Store"
+
+#: View/Users/admin.ctp:128
+msgid "iOS Store Listing URL"
+msgstr "Σύνδεσμος λίστας iOS Store"
+
+#: View/Users/admin.ctp:131
+msgid "Click below to send the launch notification to all supporters"
+msgstr "Πατήστε παρακάτω για να στείλετε τις ειδοποιήσεις του λανσαρίσματος σε όλους τους υποστηρικτές"
+
+#: View/Users/admin.ctp:132
+msgid "Send Launch Notification"
+msgstr "Αποστολή ειδοποιήσεις λανσαρίσματος"
+
+#: View/Users/admin.ctp:172
+msgid "Notifications have been sent!"
+msgstr "Οι ειδοποιήσεις έχουν σταλεί"
+
+#: View/Users/admin.ctp:247;248;249;250;300;302
+msgid "Loading"
+msgstr "Φορτώνει"
+
+#: View/Users/dashboard.ctp:14
+msgid "Your Dashboard"
+msgstr "Ο πίνακας ελέγχου σου"
+
+#: View/Users/dashboard.ctp:30 View/Users/display_users.ctp:37
+#: View/Users/view.ctp:38
+msgid "Joined"
+msgstr "Έγινες μέλος"
+
+#: View/Users/dashboard.ctp:40 View/Users/edit.ctp:10
+msgid "Edit Profile"
+msgstr "Επεξεργασία προφίλ"
+
+#: View/Users/dashboard.ctp:41
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: View/Users/dashboard.ctp:53
+msgid "Your Movements"
+msgstr "Τα κινήματά σου"
+
+#: View/Users/dashboard.ctp:79
+msgid "Your Notification Stream"
+msgstr "Οι ειδοποιήσεις σου"
+
+#: View/Users/display_users.ctp:5
+msgid "Site users"
+msgstr "Χρήστες της ιστοσελίδας"
+
+#: View/Users/display_users.ctp:34
+msgid "Fullname"
+msgstr "Πλήρες όνομα"
+
+#: View/Users/edit.ctp:41
+msgid "Profile Photo"
+msgstr "Φωτογραφία προφίλ"
+
+#: View/Users/edit.ctp:47
+msgid "Notification Preferences"
+msgstr "Προτιμήσεις ειδοποιήσεων"
+
+#: View/Users/edit.ctp:52
+msgid "Send me awesome email updates"
+msgstr "Στείλε μου καταπληκτικά νέα μέσω email"
+
+#: View/Users/edit.ctp:64
+msgid "Update Profile"
+msgstr "Ανανέωση προφίλ"
+
+#: View/Users/forgot.ctp:10
+msgid "Forgot Password"
+msgstr "Ξεχάσατε των κώδικα σας"
+
+#: View/Users/forgot.ctp:18
+msgid "Send Reset Email"
+msgstr "Αποστολή email επαναφοράς"
+
+#: View/Users/forgot.ctp:19
+msgid ""
+"Please enter the email address you used to register to reset your password."
+msgstr "Παρακαλούμε εισάγετε την διεύθυνση email που χρησιμοποιήσατε για να εγγραφείτε ώστε να επαναφέρετε τον κωδικό σας"
+
+#: View/Users/forgot.ctp:31
+msgid "Send Email"
+msgstr "Αποστολή email"
+
+#: View/Users/login.ctp:37
+msgid "Forgotten your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: View/Users/register.ctp:10
+msgid "Create an Account"
+msgstr "Δημιουργήστε έναν λογαριασμό"
+
+#: View/Users/register.ctp:39 View/Users/reset.ctp:31
+msgid "Confirm Password"
+msgstr "Επιβεβαίωση κωδικού"
+
+#: View/Users/register.ctp:50
+msgid ""
+"By creating an account means you agree to App Movement's <br /> %s and %s"
+msgstr "Δημιουργώντας λογαριασμό σημαίνει ότι συμφωνείτε στα <br /> %s και %s του App movement"
+
+#: View/Users/register.ctp:55
+msgid "I already have an account"
+msgstr "Έχω ήδη λογαριασμό"
+
+#: View/Users/reset.ctp:18
+msgid "Reset Your Password"
+msgstr "Επαναφέρετε τον κωδικό σας"
+
+#: View/Users/reset.ctp:19
+msgid "Please enter new password below."
+msgstr "Παρακαλώ εισάγετε τον νέο κωδικό παρακάτω"
+
+#: View/Users/reset.ctp:29
+msgid "New Password"
+msgstr "Νέος κωδικό"
+
+#: View/Users/reset.ctp:31
+msgid "Please re-enter password"
+msgstr "Παρακαλώ ξανα-εισάγετε τον κωδικό σας"
+
+#: View/Users/view.ctp:22
+msgid "%s's Profile"
+msgstr "το προφίλ του %s"
+
+#: View/Users/view.ctp:61
+msgid "%s has no movements"
+msgstr "ο %s δεν έχει κινήματα"
+
+#: Model/IssuedSurvey.php:validation for field
+#: published_app_survey_id;validation user_id
+msgid "Please enter a numeric value"
+msgstr "Παρακαλούμε εισάγετε μια αριθμητική τιμή"
+
+#: Model/IssuedSurvey.php:validation for field published_app_survey_id
+msgid "Please enter a published_app_survey_id"
+msgstr "Παρακαλούμε εισάγετε την ταυτότητα έρευνας μιας δημοσιευμένης εφαρμογής"
+
+#: Model/IssuedSurvey.php:validation for field user_id
+msgid "Please enter a user_id who will receive this survey"
+msgstr "Παρακαλούμε εισάγετε μια ταυτότητα χρήστη που θα λάβει αυτήν την έρευνα"
+
+#: Model/Notification.php:validation for field user_id
+msgid "Please include user_id"
+msgstr "Παρακαλούμε συμπεριλάβετε την ταυτότητα χρήστη"
+
+#: Model/Notification.php:validation for field user_id
+msgid "isNumeric"
+msgstr "είναι αριθμητικό"
+
+#: Model/Notification.php:validation for field data
+msgid ""
+"data is incorrect format for this notification type, or you have not "
+"specified a notification type"
+msgstr "Τα δεδομένα είναι σε λάθος μορφή για αυτόν τον τύπο ειδοποίησης ή δεν έχετε προσδιορίσει έναν τύπο ειδοποίησης"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr "Παρακαλούμε εισάγετε την ταυτότητα του τύπου ειδοποίησης"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr "Παρακαλούμε εισάγετε μόνο την ταυτότητα του τύπου ειδοποίησης ως αριθμητική τιμή"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Notification_type_id incorrect"
+msgstr "Η ταυτότητα του τύπου της ειδοποίησης είναι λάθος"
+
+#: Model/PublishedAppSurvey.php:validation for field
+#: published_app_id;validation survey_id
+msgid "Please enter numeric values only"
+msgstr "Παρακαλούμε εισάγετε μόνο αριθμητικές τιμές"
+
+#: Model/PublishedAppSurvey.php:validation for field published_app_id
+msgid "Please enter a published_app_id"
+msgstr "Παρακαλούμε εισάγετε την ταυτότητα της δημοσιευμένης εφαρμογής"
+
+#: Model/PublishedAppSurvey.php:validation for field survey_id
+msgid "Please enter a survey_id"
+msgstr "Παρακαλούμε εισάγετε την ταυτότητα της έρευνας"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "Παρακαλούμε εισάγετε κάποιο κείμενο αξιολόγησης"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 8000 characters"
+msgstr "Το κείμενο της αξιολόγησης πρέπει να είναι μικρότερο από 8000 χαρακτήρες"
+
+#: Model/Survey.php:validation for field url
+msgid "Please enter a survey url"
+msgstr "Παρακαλούμε εισάγετε έναν σύνδεσμο για την έρευνα"
+
+#: Model/Survey.php:validation for field start
+msgid "Please only enter a datetime"
+msgstr "Παρακαλούμε εισάγετε μόνο μια ημερομηνία"
+
+#: Model/Survey.php:validation for field start
+msgid "Please enter a start datetime"
+msgstr "Παρακαλούμε εισάγετε μια ημερομηνία έναρξης"
+
+#: Model/Survey.php:validation for field duration_in_days
+msgid "Please enter a whole number (in days)"
+msgstr "Παρακαλούμε εισάγετε έναν ακέραιο αριθμό (σε μέρες)"
+
+#: Model/Survey.php:validation for field duration_in_days
+msgid ""
+"Please enter the duration in days that you wish for the survey to be "
+"presented"
+msgstr "Παρακαλούμε εισάγετε την διάρκεια σε ημέρες που θα θέλατε να ισχύει η έρευνα"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "Παρακαλούμε εισάγετε το πλήρες όνομά σας"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be more than 4 characters"
+msgstr "Το πλήρες όνομα πρέπει να είναι μεγαλύτερο από 4 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "Το πλήρες όνομα πρέπει να είναι μικρότερο από 40 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "Παρακαλούμε εισάγετε ένα όνομα χρήστη"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "Αυτό το όνομα χρήστη χρησιμοποιείται, παρακαλούμε διαλέξτε κάποιο άλλο."
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr "Μόνο γράμματα, αριθμοί, κάτω παύλες ή παύλες. Παρακαλούμε εισάγετε ένα έγκυρο όνομα"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be more than 4 characters"
+msgstr "Τα ονόματα χρήστη πρέπει να είναι μεγαλύτερα από 4 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "Τα ονόματα χρήστη πρέπει να είναι μικρότερα από 40 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "Παρακαλούμε εισάγετε έναν κωδικό"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "Ο κωδικός πρέπει να είναι μεγαλύτερος από 8 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "Ο κωδικός πρέπει να είναι μικρότερος από 40 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "Παρακαλούμε ξανα-εισάγετε τον κωδικό σας"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "Και τα δύο πεδία του κωδικού πρέπει να ταιριάζουν"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr "είναι κενό"
+
+#: Model/Global/User.php:validation for field email
+msgid ""
+"An account registered with this email already exists, please enter another "
+"or login below"
+msgstr "Υπάρχει ήδη ένας λογαριασμός εγεγγραμένος με αυτό το email, παρακαλούμε εισάγετε άλλο ή συνδεθείτε παρακάτω"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "Τα emails πρέπει να είναι μικρότερα από 240 χαρακτήρες"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "Η εικόνα πρέπει να είναι τύπου: jpg, jpeg ή png"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "Η εικόνα πρέπει να είναι μεγαλύτερη από 5ΚΒ"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "Η εικόνα πρέπει να είναι μικρότερη από 3ΜΒ"
+
+#: From Database Table: design_tasks[name]
+msgid "Colour Scheme"
+msgstr "Σχέδιο χρωμάτων"
+
+#: From Database Table: design_tasks[name]
+msgid "Rating Options"
+msgstr "Επιλογές βαθμολογίας"
+
+#: From Database Table: design_tasks[name]
+msgid "Map Pin Style"
+msgstr "Στυλ πινέζας χάρτη"
+
+#: From Database Table: design_tasks[description]
+msgid "Choose a name that will grab attention and sounds great"
+msgstr "Επιλέξτε ένα όνομα που θα τραβά την προσοχή και θα ακούγεται πολύ καλά"
+
+#: From Database Table: design_tasks[description]
+msgid "A memorable icon ensures people will engage with your app"
+msgstr "Ένα εικονίδιο που μένει στη μνήμη εξασφαλίζει ότι οι άνθρωποι θα συνδεθούν με την εφαρμογή σας"
+
+#: From Database Table: design_tasks[description]
+msgid "Select a colour scheme that will fit the app purpose"
+msgstr "Επιλέξτε ένα σύνολο χρωμάτων που θα ταιριάζει στο στόχο της εφαρμογής"
+
+#: From Database Table: design_tasks[description]
+msgid ""
+"These are the things users of the app will rate on a scale of 0 - 5 stars (e."
+"g. Comfort, Price, Quality etc.)"
+msgstr "Αυτά είναι όσα οι χρήστες της εφαρμογής θα βαθμολογούν σε κλίμακα 0-5 αστεριών (πχ. άνεση, τιμή, ποιότητα κλπ)"
+
+#: From Database Table: design_tasks[description]
+msgid "Choose a style of map pin to indicate the location of places on the map"
+msgstr "Επιλέξτε ένα στυλ πινέζας χάρτη που θα υποδεικνύει τη θέση του μέρους στον χάρτη"
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Its time to choose a name for the app, you can vote on the contributions "
+"below or submit your own. The contribution with the highest votes at the end "
+"of the design period will be the final name."
+msgstr "Είναι η ώρα να επιλέξετε ένα όνομα για την εφαρμογή, μπορείτε να ψηφίσετε κάποια από τις συνεισφορές παρακάτω ή να υποβάλετε τη δική σας. Η συνεισφορά με τις περισσότερες ψήφους στο τέλος της φάσης σχεδιασμού θα είναι και το τελικό όνομα"
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Below are some of the logos submitted by the community but you can always "
+"add your own. The contribution with the highest votes at the end of the "
+"design phase will be selected for use throughout the app."
+msgstr "Παρακάτω βρίσκονται μερικά από τα λογότυπα που υποβλήθηκαν από την κοινότητα αλλά πάντα μπορείτε να προσθέσετε το δικό σας. Η συνεισφορά με τις περισσότερες ψήφους στο τέλος της φάσης σχεδιασμού θα επιλεχθεί για χρήση σε ολόκληρη την εφαρμογή"
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Choose a beautiful colour scheme for your application. Think about your "
+"brand colours and vote on the submissions below or add your own idea."
+msgstr "Διαλέξτε ένα όμορφο σύνολο χρωμάτων για την εφαρμογή σας. Σκεφτείτε τα συνολικά χρώματα και ψηφίστε μία από τις επιλογές από κάτω ή προσθέστε τη δική σας ιδέα "
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Here you can vote on different review options proposed by users or submit "
+"your own ideas at the bottom."
+msgstr "Εδώ μπορείτε να ψηφίσετε ανάμεσα σε διαφορετικές επιλογές αξιολογήσεων που προτείνονται από χρήστες ή υποβάλοντας τις δικές σας ιδέες στο κάτω μέρος"
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"When places are added to the map their location is represented by a map pin. "
+"You can vote for your favourite style of map pin in this design task."
+msgstr "Όταν προστίθενται μέρη στον χάρτη, η τοποθεσία τους αντιπροσωπεύεται από μία πινέζα του χάρτη. Μπορείτε να ψηφίσετε για το αγαπημένο σας στυλ πινέζας χάρτη σε αυτήν την εργασία σχεδιασμού"
+
+#: From Database Table: report_types[description]
+msgid "abusive / offensive"
+msgstr "υβριστικό/προσβλητικό"
+
+#: From Database Table: report_types[description]
+msgid "copyright"
+msgstr "Πνευματικά δικαιώματα"
+
+#: From Database Table: report_types[description]
+msgid "spam"
+msgstr "Ανεπιθύμητο"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App Movement has been created! Get promoting your Movement now!"
+msgstr "Το App Movement σας έχει δημιουργηθεί. Προωθήστε το κίνημά σας τώρα"
+
+#: From Database Table: notification_types[subject]
+msgid "Great news, You've Reached The Goal!"
+msgstr "Σπουδαία νέα, έχετε πετύχει το στόχο"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App is Almost Here!"
+msgstr "Η εφαρμογή σας είναι σχεδόν εδώ"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App Is Now Available To Download!"
+msgstr "Η εφαρμογή σας είναι τώρα διαθέσιμη για κατέβασμα"
+
+#: From Database Table: notification_types[subject]
+msgid "Your Movement Has Unfortunately Missed The Target"
+msgstr "Το κίνημά σας δυστυχώς δεν πέτυχε τον στόχο"
+
+#: From Database Table: notification_types[subject]
+msgid "You Have Successfully Supported a Movement!"
+msgstr "Έχετε επιτυχώς υποστηρίξει ένα κίνημα!"
+
+#: From Database Table: notification_types[subject]
+msgid "{creator_name} has posted an update about {movement_title}"
+msgstr "{creator_name} έχει αναρτήσει μια ενημέρωση για {movement_title}"

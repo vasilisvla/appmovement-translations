@@ -1,252 +1,252 @@
-s/* No comment provided by engineer. */
-"A reset email has been sent to you" = "[Enter translation here]";
+/* No comment provided by engineer. */
+"A reset email has been sent to you" = "Σας έχει σταλθεί ένα email επαναφοράς";
 
 /* No comment provided by engineer. */
-"About" = "[Enter translation here]";
+"About" = "Σχετικά";
 
 /* No comment provided by engineer. */
-"Add" = "[Enter translation here]";
+"Add" = "Προσθήκη";
 
 /* No comment provided by engineer. */
-"Add Place" = "[Enter translation here]";
+"Add Place" = "Προσθέστε τοποθεσία";
 
 /* No comment provided by engineer. */
-"Adding Places" = "[Enter translation here]";
+"Adding Places" = "Οι τοποθεσίες προστίθενται";
 
 /* No comment provided by engineer. */
-"ago" = "[Enter translation here]";
+"ago" = "πρίν";
 
 /* No comment provided by engineer. */
-"Are you sure you want to delete your review?" = "[Enter translation here]";
+"Are you sure you want to delete your review?" = "Είστε σίγουρος πως θέλετε να διαγράψετε αυτό το σχόλιο;";
 
 /* No comment provided by engineer. */
-"Camera" = "[Enter translation here]";
+"Camera" = "Κάμερα";
 
 /* No comment provided by engineer. */
-"Cancel" = "[Enter translation here]";
+"Cancel" = "Ακύρωση ";
 
 /* No comment provided by engineer. */
-"Cellular" = "[Enter translation here]";
+"Cellular" = "Κινητό";
 
 /* No comment provided by engineer. */
-"Check this app out" = "[Enter translation here]";
+"Check this app out" = "Δες αυτή την εφαρμογή";
 
 /* No comment provided by engineer. */
-"Confirm Email" = "[Enter translation here]";
+"Confirm Email" = "Επιβεβαίωση email";
 
 /* No comment provided by engineer. */
-"Continue" = "[Enter translation here]";
+"Continue" = "Συνέχεια";
 
 /* No comment provided by engineer. */
-"day" = "[Enter translation here]";
+"day" = "μέρα";
 
 /* No comment provided by engineer. */
-"Delete" = "[Enter translation here]";
+"Delete" = "Διαγραφή";
 
 /* No comment provided by engineer. */
-"Delete Review" = "[Enter translation here]";
+"Delete Review" = "Διαγραφή σχολίου";
 
 /* No comment provided by engineer. */
-"Deleted" = "[Enter translation here]";
+"Deleted" = "Διεγράφει";
 
 /* No comment provided by engineer. */
-"Discover" = "[Enter translation here]";
+"Discover" = "Εξερεύνησε";
 
 /* No comment provided by engineer. */
-"Done" = "[Enter translation here]";
+"Done" = "Έγινε";
 
 /* No comment provided by engineer. */
-"DummyReview" = "[Enter translation here]";
+"DummyReview" = "Ψεύτικο σχόλιο";
 
 /* No comment provided by engineer. */
-"Email Invalid" = "[Enter translation here]";
+"Email Invalid" = "Το email δεν είναι έγκυρο";
 
 /* No comment provided by engineer. */
-"Error" = "[Enter translation here]";
+"Error" = "Σφάλμα";
 
 /* No comment provided by engineer. */
-"Failed to login" = "[Enter translation here]";
+"Failed to login" = "Αποτυχία σύνδεσης";
 
 /* No comment provided by engineer. */
-"Failed to register" = "[Enter translation here]";
+"Failed to register" = "Αποτυχία εγγραφής";
 
 /* No comment provided by engineer. */
-"Failed to send email" = "[Enter translation here]";
+"Failed to send email" = "Αποτυχία αποστολής email";
 
 /* No comment provided by engineer. */
-"Found" = "[Enter translation here]";
+"Found" = "Βρέθηκε";
 
 /* No comment provided by engineer. */
-"Get Started" = "[Enter translation here]";
+"Get Started" = "Ας ξεκινήσουμε";
 
 /* No comment provided by engineer. */
-"Hello" = "[Enter translation here]";
+"Hello" = "Γειά";
 
 /* No comment provided by engineer. */
-"Home" = "[Enter translation here]";
+"Home" = "Αρχική";
 
 /* No comment provided by engineer. */
-"hour" = "[Enter translation here]";
+"hour" = "ώρα";
 
 /* No comment provided by engineer. */
-"Joined" = "[Enter translation here]";
+"Joined" = "Έλαβαν μέρος";
 
 /* No comment provided by engineer. */
-"like" = "[Enter translation here]";
+"like" = "μου αρέσει";
 
 /* No comment provided by engineer. */
-"like received" = "[Enter translation here]";
+"like received" = "έλαβες 'μου αρέσει'";
 
 /* No comment provided by engineer. */
-"likes" = "[Enter translation here]";
+"likes" = "μου αρέσει";
 
 /* No comment provided by engineer. */
-"likes received" = "[Enter translation here]";
+"likes received" = "'μου αρέσει' ελήφθησαν";
 
 /* No comment provided by engineer. */
-"loading" = "[Enter translation here]";
+"loading" = "φόρτωνει";
 
 /* No comment provided by engineer. */
-"Loading" = "[Enter translation here]";
+"Loading" = "Φορτώνει";
 
 /* No comment provided by engineer. */
-"Log in" = "[Enter translation here]";
+"Log in" = "Σύνδεση";
 
 /* No comment provided by engineer. */
-"Log out" = "[Enter translation here]";
+"Log out" = "Αποσύνδεση";
 
 /* No comment provided by engineer. */
-"Map Options" = "[Enter translation here]";
+"Map Options" = "Επιλογές χάρτη";
 
 /* No comment provided by engineer. */
-"minute" = "[Enter translation here]";
+"minute" = "λεπτό";
 
 /* No comment provided by engineer. */
-"month" = "[Enter translation here]";
+"month" = "μήνας";
 
 /* No comment provided by engineer. */
-"My Profile" = "[Enter translation here]";
+"My Profile" = "Το προφίλ μου";
 
 /* No comment provided by engineer. */
-"No" = "[Enter translation here]";
+"No" = "Όχι";
 
 /* No comment provided by engineer. */
-"No Connection" = "[Enter translation here]";
+"No Connection" = "Δεν υπάρχει σύνδεση";
 
 /* No comment provided by engineer. */
-"No Places" = "[Enter translation here]";
+"No Places" = "Καμία τοποθεσία";
 
 /* No comment provided by engineer. */
-"No written review" = "[Enter translation here]";
+"No written review" = "Κανένα σχόλιο";
 
 /* No comment provided by engineer. */
-"OK" = "[Enter translation here]";
+"OK" = "ΟΚ";
 
 /* No comment provided by engineer. */
-"Password Invalid" = "[Enter translation here]";
+"Password Invalid" = "Λανθασμένος κωδικός";
 
 /* No comment provided by engineer. */
-"Photo Library" = "[Enter translation here]";
+"Photo Library" = "Βιβλιοθήκη φωτογραφιών";
 
 /* No comment provided by engineer. */
-"Please connect your Facebook account in settings" = "[Enter translation here]";
+"Please connect your Facebook account in settings" = "Παρακαλώ συνδέστε τον Facebook λογαριασμό σας στις ρυθμίσεις";
 
 /* No comment provided by engineer. */
-"Please connect your Twitter account in settings" = "[Enter translation here]";
+"Please connect your Twitter account in settings" = "Παρακαλώ συνδέστε τον Twitter λογαριασμό σας στις ρυθμίσεις";
 
 /* No comment provided by engineer. */
-"Please enter a name for the place!" = "[Enter translation here]";
+"Please enter a name for the place!" = "Παρακαλώ εισάγετε ενα όνομα για αυτή την τοποθεσία";
 
 /* No comment provided by engineer. */
-"Please enter a valid email between 6 and 64 characters" = "[Enter translation here]";
+"Please enter a valid email between 6 and 64 characters" = "Παρακαλώ εισάγετε ενα έγκυρο email μεταξύ 6 και 64 χαρακτήρες";
 
 /* No comment provided by engineer. */
-"Please enter a valid password between 6 and 28 characters (letters and numbers only)" = "[Enter translation here]";
+"Please enter a valid password between 6 and 28 characters (letters and numbers only)" = "Παρακαλώ εισάγετε ενα έγκυρο κωδικό πρόσβασης μεταξύ 6 και 28 χαρακτήρες";
 
 /* No comment provided by engineer. */
-"Please enter a valid username between 6 and 28 characters (letters only)" = "[Enter translation here]";
+"Please enter a valid username between 6 and 28 characters (letters only)" = "Παρακαλώ εισάγετε ενα έγκυρο όνομα χρήστη μεταξύ 6 και 28 χαρακτήρες (μόνο γράμματα)";
 
 /* No comment provided by engineer. */
-"Please enter review text" = "[Enter translation here]";
+"Please enter review text" = "Παρακαλώ εισάγετε το σχόλιο";
 
 /* No comment provided by engineer. */
-"Please explain why you are reporting this review." = "[Enter translation here]";
+"Please explain why you are reporting this review." = "Παρακαλώ εξηγείστε γιατί αναφέρετε αυτό το σχόλιο";
 
 /* No comment provided by engineer. */
-"Please login or create an account to read reviews, add places and submit ratings" = "[Enter translation here]";
+"Please login or create an account to read reviews, add places and submit ratings" = "Παρακαλώ συνδεθείτε ή εγγραφείτε για να διαβάσετε σχόλια, να προσθέσετε τοποθεσίες και να ανεβάσετε κριτικές";
 
 /* No comment provided by engineer. */
-"Posted" = "[Enter translation here]";
+"Posted" = "Κοινοποιήθηκε";
 
 /* No comment provided by engineer. */
-"Register" = "[Enter translation here]";
+"Register" = "Εγγραφή";
 
 /* No comment provided by engineer. */
-"Remove Like" = "[Enter translation here]";
+"Remove Like" = "Διαγραφή Μου αρέσει";
 
 /* No comment provided by engineer. */
-"Remove Photo" = "[Enter translation here]";
+"Remove Photo" = "Διαγραφή Φωτογραφίας";
 
 /* No comment provided by engineer. */
-"Report" = "[Enter translation here]";
+"Report" = "Αναφορά";
 
 /* No comment provided by engineer. */
-"Report Review" = "[Enter translation here]";
+"Report Review" = "Αναφορά σχολίου";
 
 /* No comment provided by engineer. */
-"Reported" = "[Enter translation here]";
+"Reported" = "Αναφέρθηκε";
 
 /* No comment provided by engineer. */
-"review posted" = "[Enter translation here]";
+"review posted" = "το σχόλιο κοινοποιήθηκε";
 
 /* No comment provided by engineer. */
-"reviews posted" = "[Enter translation here]";
+"reviews posted" = "σχόλια κοινοποιήθηκαν";
 
 /* No comment provided by engineer. */
-"Searching" = "[Enter translation here]";
+"Searching" = "Αναζήτηση";
 
 /* No comment provided by engineer. */
-"second" = "[Enter translation here]";
+"second" = "δεύτερο";
 
 /* No comment provided by engineer. */
-"Share Review" = "[Enter translation here]";
+"Share Review" = "Διαμοιρασμός Σχολίου";
 
 /* No comment provided by engineer. */
-"Share with friends" = "[Enter translation here]";
+"Share with friends" = "Διαμοιρασμός με φίλους";
 
 /* No comment provided by engineer. */
-"Something went wrong" = "[Enter translation here]";
+"Something went wrong" = "Κάτι πήγε λάθος";
 
 /* No comment provided by engineer. */
-"Submit" = "[Enter translation here]";
+"Submit" = "Υποβολή";
 
 /* No comment provided by engineer. */
-"To add a place which is not near your current location return to the map and locate it before searching" = "[Enter translation here]";
+"To add a place which is not near your current location return to the map and locate it before searching" = "Για την προσθήκη μιας τοποθεσίας που δεν είναι κοντά στην τρέχουσα, επιστρέψτε στο χάρτη και βρείτε την τοποθεσία πρίν ψάξετε";
 
 /* No comment provided by engineer. */
-"Username Invalid" = "[Enter translation here]";
+"Username Invalid" = "Μη έγκυρο όνομα χρήστη";
 
 /* No comment provided by engineer. */
-"week" = "[Enter translation here]";
+"week" = "βδομάδα";
 
 /* No comment provided by engineer. */
-"WiFi" = "[Enter translation here]";
+"WiFi" = "WiFi";
 
 /* No comment provided by engineer. */
-"Write your review..." = "[Enter translation here]";
+"Write your review..." = "Γράψτε το σχόλιο κριτική σας...";
 
 /* No comment provided by engineer. */
-"year" = "[Enter translation here]";
+"year" = "έτος";
 
 /* No comment provided by engineer. */
-"Yes" = "[Enter translation here]";
+"Yes" = "Ναί";
 
 /* No comment provided by engineer. */
-"You have deleted your review." = "[Enter translation here]";
+"You have deleted your review." = "Διαγράψατε το σχόλιο σας.";
 
 /* No comment provided by engineer. */
-"You have rated at least one category zero stars!" = "[Enter translation here]";
+"You have rated at least one category zero stars!" = "Βαθμολογήσατε τουλάχιστον μια κατηγορία με μηδέν αστέρια";
 
 /* No comment provided by engineer. */
-"You have reported this review." = "[Enter translation here]";
+"You have reported this review." = "Αναφέρατε αυτό το σχόλιο";
 
